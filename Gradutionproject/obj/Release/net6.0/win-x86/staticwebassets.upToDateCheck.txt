@@ -1,0 +1,35 @@
+wwwroot\Files\AI\Lectures\Lecture1.pdf
+wwwroot\Files\AI\Lectures\Lecture2.pdf
+wwwroot\Files\AI\Lectures\Lecture3.pdf
+wwwroot\Files\AI\Lectures\Lecture4.pdf
+wwwroot\Files\AI\Sections\Section1.pdf
+wwwroot\Files\AI\Sections\Section2.pdf
+wwwroot\Files\AI\Sections\Section3.pdf
+wwwroot\Files\AI\Sections\Section4.pdf
+wwwroot\Files\Computer Security\Lectures\Lecture1.pdf
+wwwroot\Files\Computer Security\Lectures\Lecture2.pdf
+wwwroot\Files\Computer Security\Lectures\Lecture3.pdf
+wwwroot\Files\Computer Security\Lectures\Lecture4.pdf
+wwwroot\Files\Computer Security\Sections\Section1.pdf
+wwwroot\Files\Computer Security\Sections\Section2.pdf
+wwwroot\Files\Computer Security\Sections\Section3.pdf
+wwwroot\Files\Computer Security\Sections\Section4.pdf
+wwwroot\Files\Computer Vision\Lectures\Lecture1.pdf
+wwwroot\Files\Computer Vision\Lectures\Lecture2.pdf
+wwwroot\Files\Computer Vision\Lectures\Lecture3.pdf
+wwwroot\Files\Computer Vision\Sections\Section1.pdf
+wwwroot\Files\Computer Vision\Sections\Section2.pdf
+wwwroot\Files\Computer Vision\Sections\Section3.pdf
+wwwroot\Files\Network\Lectures\Lecture1.pdf
+wwwroot\Files\Network\Lectures\Lecture2.pdf
+wwwroot\Files\Network\Lectures\Lecture3.pdf
+wwwroot\Files\Network\Lectures\Lecture4.pdf
+wwwroot\Files\Network\Sections\Section1.pdf
+wwwroot\Files\Network\Sections\Section2.pdf
+wwwroot\Files\Network\Sections\Section3.pdf
+wwwroot\Files\Network\Sections\Section4.pdf
+wwwroot\Images\AI.jpg
+wwwroot\Images\Compiler\2882c804-26a2-45c0-8c47-144a76f2d2cd.png
+wwwroot\Images\ComputerVision.jpg
+wwwroot\Images\Network.jpg
+wwwroot\Images\Security.jpg

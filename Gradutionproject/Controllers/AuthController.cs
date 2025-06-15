@@ -37,28 +37,103 @@ public class AuthController : ControllerBase
 
     }
 
+    //   [HttpPost("register")]
+    //public async Task<IActionResult> Register([FromForm] RegisterModel model)
+    //{
+    //	var user = new ApplicationUser
+    //	{
+    //		UserName = model.Username,
+    //		Email = model.Email,
+    //		EmailParent = model.EmailParent,
+    //		PhoneParent = model.PhoneParent
+    //	};
+
+    //	var result = await _userManager.CreateAsync(user, model.Password);
+
+    //	if (!result.Succeeded)
+    //	{
+    //		return BadRequest(result.Errors);
+    //	}
+
+    //	return Ok("User registered successfully.");
+    //}
     [HttpPost("register")]
-	public async Task<IActionResult> Register([FromForm] RegisterModel model)
-	{
-		var user = new ApplicationUser
-		{
-			UserName = model.Username,
-			Email = model.Email,
-			EmailParent = model.EmailParent,
-			PhoneParent = model.PhoneParent
-		};
+    public async Task<IActionResult> Register([FromForm] RegisterModel model)
+    {
+        var existingUser = await _userManager.FindByEmailAsync(model.Email);
+        if (existingUser != null)
+        {
+            if (existingUser.EmailConfirmed)
+            {
+                return BadRequest("Email is already registered and verified.");
+            }
+            else
+            {
+                // المستخدم مسجل ولكن غير مفعّل → ابعت كود جديد
+                var code = new Random().Next(100000, 999999).ToString();
+                var cacheKey = $"verify-code-{model.Email}";
+                _cache.Set(cacheKey, code, TimeSpan.FromMinutes(10));
 
-		var result = await _userManager.CreateAsync(user, model.Password);
+                var verificationLink = $"https://localhost:7032/verify-email?code={code}&email={model.Email}";
+                await _emailService.SendVerificationCodeEmailAsync(model.Email, verificationLink, "Email Verification", code);
 
-		if (!result.Succeeded)
-		{
-			return BadRequest(result.Errors);
-		}
+                return BadRequest("Account already registered but not verified. A new verification code has been sent.");
+            }
+        }
 
-		return Ok("User registered successfully.");
-	}
+        var user = new ApplicationUser
+        {
+            UserName = model.Username,
+            Email = model.Email,
+            EmailParent = model.EmailParent,
+            PhoneParent = model.PhoneParent,
+            EmailConfirmed = false  // لرفض تسجيل الدخول حتى يتم التحقق
+        };
 
-	[HttpPost("login")]
+        var result = await _userManager.CreateAsync(user, model.Password);
+
+        if (!result.Succeeded)
+        {
+            return BadRequest(result.Errors);
+        }
+
+        // توليد كود تحقق عشوائي
+        var newCode = new Random().Next(100000, 999999).ToString();
+        var newCacheKey = $"verify-code-{user.Email}";
+        _cache.Set(newCacheKey, newCode, TimeSpan.FromMinutes(5));
+
+        // رابط التحقق (اختياري لو عندك صفحة واجهة)
+        var newverificationLink = $"https://localhost:7032/verify-email?code={newCode}&email={user.Email}";
+
+        // إرسال الإيميل
+        await _emailService.SendVerificationCodeEmailAsync(user.Email, newverificationLink, "Email Verification", newCode);
+
+        return Ok("User registered successfully. Verification code sent to email.");
+    }
+    [HttpPost("verify-email")]
+    public async Task<IActionResult> VerifyEmail([FromForm] VerifyCodeDto dto)
+    {
+        var cacheKey = $"verify-code-{dto.Email}";
+
+        if (!_cache.TryGetValue(cacheKey, out string correctCode))
+            return BadRequest("Verification code expired or not found.");
+
+        if (dto.Code != correctCode)
+            return BadRequest("Invalid verification code.");
+
+        var user = await _userManager.FindByEmailAsync(dto.Email);
+        if (user == null)
+            return BadRequest("User not found.");
+
+        user.EmailConfirmed = true;
+        await _userManager.UpdateAsync(user);
+        _cache.Remove(cacheKey);
+
+        return Ok("Email verified successfully.");
+    }
+
+
+    [HttpPost("login")]
 	public async Task<IActionResult> Login([FromForm] LoginModel model)
 	{
 		var user = await _userManager.FindByEmailAsync(model.Email);
@@ -66,8 +141,11 @@ public class AuthController : ControllerBase
 		{
 			return Unauthorized("Invalid email or password.");
 		}
-
-		var result = await _signInManager.CheckPasswordSignInAsync(user, model.Password, false);
+        if (!user.EmailConfirmed)
+        {
+            return BadRequest("Email not verified.");
+        }
+        var result = await _signInManager.CheckPasswordSignInAsync(user, model.Password, false);
 		if (!result.Succeeded)
 		{
 			return Unauthorized("Invalid email or password.");

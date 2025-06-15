@@ -101,6 +101,37 @@ public class EmailService
         await smtp.SendAsync(email);
         await smtp.DisconnectAsync(true);
     }
+    public async Task SendVerificationCodeEmailAsync(string toEmail, string link, string subject, string code)
+    {
+        var email = new MimeMessage();
+        email.From.Add(MailboxAddress.Parse(senderEmail));
+        email.To.Add(MailboxAddress.Parse(toEmail));
+        email.Subject = subject;
+
+        email.Body = new TextPart(TextFormat.Html)
+        {
+            Text = $@"
+            <div style='font-family: Arial, sans-serif;'>
+                <h2>AI Tutor - Verify Your Email</h2>
+                <p>Your verification code is:</p>
+                <h3 style='color: #2c3e50;'>{code}</h3>
+              
+                <p>If you did not register, ignore this email.</p>
+            </div>"
+        };
+        // Link of Verfiy password directly
+          //< p style = 'font-size: 16px; color: #555;' > Or click the link below to verify directly:</ p >
+          //     < p >
+          //             < a href = '{link}'
+          //                style = 'display: inline-block; padding: 10px 20px; background-color: #007bff; color: white; 
+          //                      text - decoration: none; border - radius: 5px; '>Reset Password</a>
+          //          ! </ p >
+        using var smtp = new SmtpClient();
+        await smtp.ConnectAsync(smtpServer, smtpPort, SecureSocketOptions.StartTls);
+        await smtp.AuthenticateAsync(senderEmail, senderPassword);
+        await smtp.SendAsync(email);
+        await smtp.DisconnectAsync(true);
+    }
 
 
 }

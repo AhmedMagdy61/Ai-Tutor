@@ -218,6 +218,27 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "AuthController",
+    "Method": "VerifyEmail",
+    "RelativePath": "api/Auth/verify-email",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Code",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Gradutionproject.Controllers.CourseAdminController",
     "Method": "GetCourses",
     "RelativePath": "api/CourseAdmin",
