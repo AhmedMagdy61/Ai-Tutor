@@ -177,21 +177,31 @@
           "content": {
             "multipart/form-data": {
               "schema": {
+                "required": [
+                  "Email",
+                  "EmailParent",
+                  "Password",
+                  "PhoneParent",
+                  "Username"
+                ],
                 "type": "object",
                 "properties": {
                   "Username": {
                     "type": "string"
                   },
                   "Email": {
-                    "type": "string"
+                    "type": "string",
+                    "format": "email"
                   },
                   "Password": {
                     "type": "string"
                   },
                   "EmailParent": {
-                    "type": "string"
+                    "type": "string",
+                    "format": "email"
                   },
                   "PhoneParent": {
+                    "pattern": "^\\d{11}$",
                     "type": "string"
                   }
                 }
@@ -269,10 +279,15 @@
           "content": {
             "multipart/form-data": {
               "schema": {
+                "required": [
+                  "Email",
+                  "Password"
+                ],
                 "type": "object",
                 "properties": {
                   "Email": {
-                    "type": "string"
+                    "type": "string",
+                    "format": "email"
                   },
                   "Password": {
                     "type": "string"
