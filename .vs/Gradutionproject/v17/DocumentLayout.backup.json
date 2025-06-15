@@ -1,0 +1,463 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AI-Tutor-master\\AI-Tutor-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\ai-tutor-master\\ai-tutor-master\\gradutionproject\\viewmodel\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\viewmodel\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\ai-tutor-master\\ai-tutor-master\\gradutionproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\ai-tutor-master\\ai-tutor-master\\gradutionproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\ai-tutor-master\\ai-tutor-master\\gradutionproject\\dtos\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\dtos\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\ai-tutor-master\\ai-tutor-master\\gradutionproject\\dtos\\verifycodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\dtos\\verifycodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\ai-tutor-master\\ai-tutor-master\\gradutionproject\\context\\graduationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\context\\graduationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\ai-tutor-master\\ai-tutor-master\\gradutionproject\\dtos\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\dtos\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\ai-tutor-master\\ai-tutor-master\\gradutionproject\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\ai-tutor-master\\ai-tutor-master\\gradutionproject\\dtos\\adminreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\dtos\\adminreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\ai-tutor-master\\ai-tutor-master\\gradutionproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\ai-tutor-master\\ai-tutor-master\\gradutionproject\\viewmodel\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\viewmodel\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\ai-tutor-master\\ai-tutor-master\\gradutionproject\\gradutionproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\gradutionproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\ai-tutor-master\\ai-tutor-master\\gradutionproject\\controllers\\lecturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\controllers\\lecturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\ai-tutor-master\\ai-tutor-master\\gradutionproject\\controllers\\sectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\controllers\\sectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\ai-tutor-master\\ai-tutor-master\\gradutionproject\\controllers\\userdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\controllers\\userdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\ai-tutor-master\\ai-tutor-master\\gradutionproject\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\ai-tutor-master\\ai-tutor-master\\gradutionproject\\viewmodel\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\viewmodel\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\ai-tutor-master\\ai-tutor-master\\gradutionproject\\viewmodel\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\viewmodel\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\ai-tutor-master\\ai-tutor-master\\gradutionproject\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\ai-tutor-master\\ai-tutor-master\\gradutionproject\\models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\ai-tutor-master\\ai-tutor-master\\gradutionproject\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\ai-tutor-master\\ai-tutor-master\\gradutionproject\\fileuploadoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\fileuploadoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\ai-tutor-master\\ai-tutor-master\\gradutionproject\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\ai-tutor-master\\ai-tutor-master\\gradutionproject\\helpers\\documentsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\helpers\\documentsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\ai-tutor-master\\ai-tutor-master\\gradutionproject\\dtos\\userwithquizzesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\dtos\\userwithquizzesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\ai-tutor-master\\ai-tutor-master\\gradutionproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\ai-tutor-master\\ai-tutor-master\\gradutionproject\\controllers\\courseadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\controllers\\courseadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VerifyCodeDto.cs",
+              "DocumentMoniker": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Dtos\\VerifyCodeDto.cs",
+              "RelativeDocumentMoniker": "Gradutionproject\\Dtos\\VerifyCodeDto.cs",
+              "ToolTip": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Dtos\\VerifyCodeDto.cs",
+              "RelativeToolTip": "Gradutionproject\\Dtos\\VerifyCodeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:35:17.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Gradutionproject\\Models\\Admin.cs",
+              "ToolTip": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Models\\Admin.cs",
+              "RelativeToolTip": "Gradutionproject\\Models\\Admin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:44:39.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\ViewModel\\EmailService.cs",
+              "RelativeDocumentMoniker": "Gradutionproject\\ViewModel\\EmailService.cs",
+              "ToolTip": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\ViewModel\\EmailService.cs",
+              "RelativeToolTip": "Gradutionproject\\ViewModel\\EmailService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAYwDAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T02:34:06.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\appsettings.json",
+              "RelativeDocumentMoniker": "Gradutionproject\\appsettings.json",
+              "ToolTip": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\appsettings.json",
+              "RelativeToolTip": "Gradutionproject\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-15T02:05:46.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Gradutionproject\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Gradutionproject\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowLIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T21:36:43.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResetPasswordDto.cs",
+              "DocumentMoniker": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Dtos\\ResetPasswordDto.cs",
+              "RelativeDocumentMoniker": "Gradutionproject\\Dtos\\ResetPasswordDto.cs",
+              "ToolTip": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Dtos\\ResetPasswordDto.cs",
+              "RelativeToolTip": "Gradutionproject\\Dtos\\ResetPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:16:36.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ForgotPasswordDto.cs",
+              "DocumentMoniker": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Dtos\\ForgotPasswordDto.cs",
+              "RelativeDocumentMoniker": "Gradutionproject\\Dtos\\ForgotPasswordDto.cs",
+              "ToolTip": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Dtos\\ForgotPasswordDto.cs",
+              "RelativeToolTip": "Gradutionproject\\Dtos\\ForgotPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:16:13.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "graduationDbContext.cs",
+              "DocumentMoniker": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Context\\graduationDbContext.cs",
+              "RelativeDocumentMoniker": "Gradutionproject\\Context\\graduationDbContext.cs",
+              "ToolTip": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Context\\graduationDbContext.cs",
+              "RelativeToolTip": "Gradutionproject\\Context\\graduationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:17:28.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminReadDto.cs",
+              "DocumentMoniker": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Dtos\\AdminReadDto.cs",
+              "RelativeDocumentMoniker": "Gradutionproject\\Dtos\\AdminReadDto.cs",
+              "ToolTip": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Dtos\\AdminReadDto.cs",
+              "RelativeToolTip": "Gradutionproject\\Dtos\\AdminReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:44:34.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Program.cs",
+              "RelativeDocumentMoniker": "Gradutionproject\\Program.cs",
+              "ToolTip": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Program.cs",
+              "RelativeToolTip": "Gradutionproject\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T22:23:47.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserDataController.cs",
+              "DocumentMoniker": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Controllers\\UserDataController.cs",
+              "RelativeDocumentMoniker": "Gradutionproject\\Controllers\\UserDataController.cs",
+              "ToolTip": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Controllers\\UserDataController.cs",
+              "RelativeToolTip": "Gradutionproject\\Controllers\\UserDataController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T22:18:29.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\ViewModel\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Gradutionproject\\ViewModel\\LoginModel.cs",
+              "ToolTip": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\ViewModel\\LoginModel.cs",
+              "RelativeToolTip": "Gradutionproject\\ViewModel\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:25:08.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QuizController.cs",
+              "DocumentMoniker": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Controllers\\QuizController.cs",
+              "RelativeDocumentMoniker": "Gradutionproject\\Controllers\\QuizController.cs",
+              "ToolTip": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Controllers\\QuizController.cs",
+              "RelativeToolTip": "Gradutionproject\\Controllers\\QuizController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:40:23.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LectureController.cs",
+              "DocumentMoniker": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Controllers\\LectureController.cs",
+              "RelativeDocumentMoniker": "Gradutionproject\\Controllers\\LectureController.cs",
+              "ToolTip": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Controllers\\LectureController.cs",
+              "RelativeToolTip": "Gradutionproject\\Controllers\\LectureController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:40:24.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Gradutionproject.csproj",
+              "DocumentMoniker": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Gradutionproject.csproj",
+              "RelativeDocumentMoniker": "Gradutionproject\\Gradutionproject.csproj",
+              "ToolTip": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Gradutionproject.csproj",
+              "RelativeToolTip": "Gradutionproject\\Gradutionproject.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-15T02:29:23.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SectionController.cs",
+              "DocumentMoniker": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Controllers\\SectionController.cs",
+              "RelativeDocumentMoniker": "Gradutionproject\\Controllers\\SectionController.cs",
+              "ToolTip": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Controllers\\SectionController.cs",
+              "RelativeToolTip": "Gradutionproject\\Controllers\\SectionController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:22:41.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\ViewModel\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Gradutionproject\\ViewModel\\RegisterModel.cs",
+              "ToolTip": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\ViewModel\\RegisterModel.cs",
+              "RelativeToolTip": "Gradutionproject\\ViewModel\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:25:11.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateUserRequest.cs",
+              "DocumentMoniker": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\ViewModel\\UpdateUserRequest.cs",
+              "RelativeDocumentMoniker": "Gradutionproject\\ViewModel\\UpdateUserRequest.cs",
+              "ToolTip": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\ViewModel\\UpdateUserRequest.cs",
+              "RelativeToolTip": "Gradutionproject\\ViewModel\\UpdateUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T21:44:01.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Gradutionproject\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Gradutionproject\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T21:31:59.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Models\\Quiz.cs",
+              "RelativeDocumentMoniker": "Gradutionproject\\Models\\Quiz.cs",
+              "ToolTip": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Models\\Quiz.cs",
+              "RelativeToolTip": "Gradutionproject\\Models\\Quiz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:32:58.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Section.cs",
+              "DocumentMoniker": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Models\\Section.cs",
+              "RelativeDocumentMoniker": "Gradutionproject\\Models\\Section.cs",
+              "ToolTip": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Models\\Section.cs",
+              "RelativeToolTip": "Gradutionproject\\Models\\Section.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:32:55.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FileUploadOperationFilter.cs",
+              "DocumentMoniker": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\FileUploadOperationFilter.cs",
+              "RelativeDocumentMoniker": "Gradutionproject\\FileUploadOperationFilter.cs",
+              "ToolTip": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\FileUploadOperationFilter.cs",
+              "RelativeToolTip": "Gradutionproject\\FileUploadOperationFilter.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:32:51.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Gradutionproject\\WeatherForecast.cs",
+              "ToolTip": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\WeatherForecast.cs",
+              "RelativeToolTip": "Gradutionproject\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:32:45.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DocumentSettings.cs",
+              "DocumentMoniker": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Helpers\\DocumentSettings.cs",
+              "RelativeDocumentMoniker": "Gradutionproject\\Helpers\\DocumentSettings.cs",
+              "ToolTip": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Helpers\\DocumentSettings.cs",
+              "RelativeToolTip": "Gradutionproject\\Helpers\\DocumentSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:24:50.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserWithQuizzesDTO.cs",
+              "DocumentMoniker": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Dtos\\UserWithQuizzesDTO.cs",
+              "RelativeDocumentMoniker": "Gradutionproject\\Dtos\\UserWithQuizzesDTO.cs",
+              "ToolTip": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Dtos\\UserWithQuizzesDTO.cs",
+              "RelativeToolTip": "Gradutionproject\\Dtos\\UserWithQuizzesDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:24:18.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Gradutionproject\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Gradutionproject\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:18:05.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CourseAdminController.cs",
+              "DocumentMoniker": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Controllers\\CourseAdminController.cs",
+              "RelativeDocumentMoniker": "Gradutionproject\\Controllers\\CourseAdminController.cs",
+              "ToolTip": "D:\\AI-Tutor-master\\AI-Tutor-master\\Gradutionproject\\Controllers\\CourseAdminController.cs",
+              "RelativeToolTip": "Gradutionproject\\Controllers\\CourseAdminController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:28:10.06Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

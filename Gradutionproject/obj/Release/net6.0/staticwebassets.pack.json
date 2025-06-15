@@ -1,0 +1,161 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture1.pdf",
+      "PackagePath": "staticwebassets\\Files\\AI\\Lectures\\Lecture1.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture2.pdf",
+      "PackagePath": "staticwebassets\\Files\\AI\\Lectures\\Lecture2.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture3.pdf",
+      "PackagePath": "staticwebassets\\Files\\AI\\Lectures\\Lecture3.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture4.pdf",
+      "PackagePath": "staticwebassets\\Files\\AI\\Lectures\\Lecture4.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section1.pdf",
+      "PackagePath": "staticwebassets\\Files\\AI\\Sections\\Section1.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section2.pdf",
+      "PackagePath": "staticwebassets\\Files\\AI\\Sections\\Section2.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section3.pdf",
+      "PackagePath": "staticwebassets\\Files\\AI\\Sections\\Section3.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section4.pdf",
+      "PackagePath": "staticwebassets\\Files\\AI\\Sections\\Section4.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture1.pdf",
+      "PackagePath": "staticwebassets\\Files\\Computer Security\\Lectures\\Lecture1.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture2.pdf",
+      "PackagePath": "staticwebassets\\Files\\Computer Security\\Lectures\\Lecture2.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture3.pdf",
+      "PackagePath": "staticwebassets\\Files\\Computer Security\\Lectures\\Lecture3.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture4.pdf",
+      "PackagePath": "staticwebassets\\Files\\Computer Security\\Lectures\\Lecture4.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section1.pdf",
+      "PackagePath": "staticwebassets\\Files\\Computer Security\\Sections\\Section1.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section2.pdf",
+      "PackagePath": "staticwebassets\\Files\\Computer Security\\Sections\\Section2.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section3.pdf",
+      "PackagePath": "staticwebassets\\Files\\Computer Security\\Sections\\Section3.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section4.pdf",
+      "PackagePath": "staticwebassets\\Files\\Computer Security\\Sections\\Section4.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture1.pdf",
+      "PackagePath": "staticwebassets\\Files\\Computer Vision\\Lectures\\Lecture1.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture2.pdf",
+      "PackagePath": "staticwebassets\\Files\\Computer Vision\\Lectures\\Lecture2.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture3.pdf",
+      "PackagePath": "staticwebassets\\Files\\Computer Vision\\Lectures\\Lecture3.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section1.pdf",
+      "PackagePath": "staticwebassets\\Files\\Computer Vision\\Sections\\Section1.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section2.pdf",
+      "PackagePath": "staticwebassets\\Files\\Computer Vision\\Sections\\Section2.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section3.pdf",
+      "PackagePath": "staticwebassets\\Files\\Computer Vision\\Sections\\Section3.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\Network\\Lectures\\Lecture1.pdf",
+      "PackagePath": "staticwebassets\\Files\\Network\\Lectures\\Lecture1.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\Network\\Lectures\\Lecture2.pdf",
+      "PackagePath": "staticwebassets\\Files\\Network\\Lectures\\Lecture2.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\Network\\Lectures\\Lecture3.pdf",
+      "PackagePath": "staticwebassets\\Files\\Network\\Lectures\\Lecture3.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\Network\\Lectures\\Lecture4.pdf",
+      "PackagePath": "staticwebassets\\Files\\Network\\Lectures\\Lecture4.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\Network\\Sections\\Section1.pdf",
+      "PackagePath": "staticwebassets\\Files\\Network\\Sections\\Section1.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\Network\\Sections\\Section2.pdf",
+      "PackagePath": "staticwebassets\\Files\\Network\\Sections\\Section2.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\Network\\Sections\\Section3.pdf",
+      "PackagePath": "staticwebassets\\Files\\Network\\Sections\\Section3.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Files\\Network\\Sections\\Section4.pdf",
+      "PackagePath": "staticwebassets\\Files\\Network\\Sections\\Section4.pdf"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Images\\AI.jpg",
+      "PackagePath": "staticwebassets\\Images\\AI.jpg"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Images\\Compiler\\2882c804-26a2-45c0-8c47-144a76f2d2cd.png",
+      "PackagePath": "staticwebassets\\Images\\Compiler\\2882c804-26a2-45c0-8c47-144a76f2d2cd.png"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Images\\ComputerVision.jpg",
+      "PackagePath": "staticwebassets\\Images\\ComputerVision.jpg"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Images\\Network.jpg",
+      "PackagePath": "staticwebassets\\Images\\Network.jpg"
+    },
+    {
+      "Id": "D:\\Projects .Net\\Gradutionproject\\Gradutionproject\\wwwroot\\Images\\Security.jpg",
+      "PackagePath": "staticwebassets\\Images\\Security.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.Gradutionproject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.Gradutionproject.props",
+      "PackagePath": "build\\Gradutionproject.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Gradutionproject.props",
+      "PackagePath": "buildMultiTargeting\\Gradutionproject.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.Gradutionproject.props",
+      "PackagePath": "buildTransitive\\Gradutionproject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
