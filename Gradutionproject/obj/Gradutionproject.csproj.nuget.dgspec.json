@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AI-Tutor-master\\Gradutionproject\\Gradutionproject.csproj": {}
+    "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\Gradutionproject.csproj": {}
   },
   "projects": {
-    "D:\\AI-Tutor-master\\Gradutionproject\\Gradutionproject.csproj": {
+    "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\Gradutionproject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AI-Tutor-master\\Gradutionproject\\Gradutionproject.csproj",
+        "projectUniqueName": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\Gradutionproject.csproj",
         "projectName": "Gradutionproject",
-        "projectPath": "D:\\AI-Tutor-master\\Gradutionproject\\Gradutionproject.csproj",
+        "projectPath": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\Gradutionproject.csproj",
         "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-        "outputPath": "D:\\AI-Tutor-master\\Gradutionproject\\obj\\",
+        "outputPath": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tvaJ1nqqytA=",
+  "dgSpecHash": "NwEpSzAZLcA=",
   "success": true,
-  "projectFilePath": "D:\\AI-Tutor-master\\Gradutionproject\\Gradutionproject.csproj",
+  "projectFilePath": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\Gradutionproject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmed\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",

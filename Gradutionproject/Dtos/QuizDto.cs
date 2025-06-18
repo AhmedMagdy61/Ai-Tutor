@@ -6,5 +6,7 @@
         public float Score { get; set; }
         public DateTime QuizDate { get; set; }=DateTime.Now;
         public string CourseName { get; set; }
+        public int NumberOfQuestion { get; set; }
+
     }
 }

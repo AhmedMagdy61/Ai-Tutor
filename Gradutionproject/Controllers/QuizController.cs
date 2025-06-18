@@ -40,7 +40,8 @@ namespace Gradutionproject.Controllers
                         QuizId = q.Id,
                         Score = q.Score,
                         QuizDate = q.QuizDate,
-                        CourseName = q.Course.Title
+                        CourseName = q.Course.Title,
+                        NumberOfQuestion = q.NumberOfQuestion
                     }).ToList()
                 })
                 .ToListAsync();
@@ -66,7 +67,8 @@ namespace Gradutionproject.Controllers
                         QuizId = q.Id,
                         Score = q.Score,
                         QuizDate = q.QuizDate,
-                        CourseName = q.Course.Title
+                        CourseName = q.Course.Title,
+                        NumberOfQuestion = q.NumberOfQuestion
                     }).ToList()
                 })
                 .FirstOrDefaultAsync();
@@ -94,7 +96,9 @@ namespace Gradutionproject.Controllers
                 UserId = dto.UserId,
                 UserName = user.UserName,
                 CourseId = dto.CourseId,
-                QuizDate = DateTime.Now
+                QuizDate = DateTime.Now,
+                NumberOfQuestion = dto.NumberOfQuestion
+                
             };
 
             _context.Quizzes.Add(quiz);

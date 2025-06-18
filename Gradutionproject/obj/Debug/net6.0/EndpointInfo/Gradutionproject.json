@@ -242,10 +242,15 @@
           "content": {
             "multipart/form-data": {
               "schema": {
+                "required": [
+                  "Code",
+                  "Email"
+                ],
                 "type": "object",
                 "properties": {
                   "Email": {
-                    "type": "string"
+                    "type": "string",
+                    "format": "email"
                   },
                   "Code": {
                     "type": "string"
@@ -356,10 +361,15 @@
           "content": {
             "multipart/form-data": {
               "schema": {
+                "required": [
+                  "Code",
+                  "Email"
+                ],
                 "type": "object",
                 "properties": {
                   "Email": {
-                    "type": "string"
+                    "type": "string",
+                    "format": "email"
                   },
                   "Code": {
                     "type": "string"
@@ -1782,6 +1792,12 @@
         "additionalProperties": false
       },
       "CreateQuizDTO": {
+        "required": [
+          "courseId",
+          "numberOfQuestion",
+          "score",
+          "userId"
+        ],
         "type": "object",
         "properties": {
           "score": {
@@ -1789,10 +1805,14 @@
             "format": "float"
           },
           "userId": {
-            "type": "string",
-            "nullable": true
+            "minLength": 1,
+            "type": "string"
           },
           "courseId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "numberOfQuestion": {
             "type": "integer",
             "format": "int32"
           }
@@ -1887,6 +1907,10 @@
           "user": {
             "$ref": "#/components/schemas/ApplicationUser"
           },
+          "numberOfQuestion": {
+            "type": "integer",
+            "format": "int32"
+          },
           "userName": {
             "type": "string",
             "nullable": true
@@ -1919,6 +1943,10 @@
           "courseName": {
             "type": "string",
             "nullable": true
+          },
+          "numberOfQuestion": {
+            "type": "integer",
+            "format": "int32"
           }
         },
         "additionalProperties": false

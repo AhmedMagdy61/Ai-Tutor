@@ -41,7 +41,7 @@ public class EmailService
                     </p>
                     
                     <p style='font-size: 14px; color: #999;'>If you didn’t request this, you can safely ignore this email.</p>
-                    <p style='font-size: 14px; color: #999;'>Regards,<br/>AI Tutor Team</p>
+                    <p style='font-size: 14px; color: #999;'>Regards,<br/> <strong style='font-size: 14px; '>AI Tutor Team</strong> </p>
                 </div>
             </body>
         </html>"
@@ -88,7 +88,7 @@ public class EmailService
                     </p>
                     
                     <p style='font-size: 14px; color: #999;'>If you didn’t perform this action, please contact support immediately.</p>
-                    <p style='font-size: 14px; color: #999;'>Regards,<br/>AI Tutor Team</p>
+                    <p style='font-size: 14px; color: #999;'>Regards,<br/> <strong style='font-size: 14px; '>AI Tutor Team</strong> </p>
                 </div>
             </body>
         </html>"
@@ -111,13 +111,20 @@ public class EmailService
         email.Body = new TextPart(TextFormat.Html)
         {
             Text = $@"
-            <div style='font-family: Arial, sans-serif;'>
-                <h2>AI Tutor - Verify Your Email</h2>
-                <p>Your verification code is:</p>
-                <h3 style='color: #2c3e50;'>{code}</h3>
-              
-                <p>If you did not register, ignore this email.</p>
-            </div>"
+          <html>
+            <body style='font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 20px;'>
+                <div style='background-color: #fff; padding: 20px; border-radius: 5px; max-width: 600px; margin: auto;'>
+                <h2 style='color: #333;'>AI Tutor - Verify Your Email</h2>
+                <p style='font-size: 16px; color: #555;'>
+                Your verification code is:
+                <strong style='font-size: 20px; color: #000;'>{code}</strong>
+                </p>
+                 <p style='font-size: 14px; color: #999;'>If you did not register, ignore this email.</p>
+                    <p style='font-size: 14px; color: #999;'>Regards,<br/> <strong style='font-size: 14px; '>AI Tutor Team</strong> </p>
+                </div>
+            </body>
+        </html>"
+            
         };
         // Link of Verfiy password directly
           //< p style = 'font-size: 16px; color: #555;' > Or click the link below to verify directly:</ p >

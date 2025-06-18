@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hRDvtIm+pww18eaZdfLrXLXvypJJPxRbqqrXnZWuWxc=",
+  "Hash": "zB7mteYnjNSZ0nc9HDo2zNy4W0LcqncNpYaexp0Kbi0=",
   "Source": "Gradutionproject",
   "BasePath": "_content/Gradutionproject",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Gradutionproject\\wwwroot",
       "Source": "Gradutionproject",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture1.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture1.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/AI/Lectures/Lecture1#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\AI\\Lectures\\Lecture1.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture2.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture2.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/AI/Lectures/Lecture2#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\AI\\Lectures\\Lecture2.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture3.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture3.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/AI/Lectures/Lecture3#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\AI\\Lectures\\Lecture3.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture4.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture4.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/AI/Lectures/Lecture4#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\AI\\Lectures\\Lecture4.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section1.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section1.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/AI/Sections/Section1#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\AI\\Sections\\Section1.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section2.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section2.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/AI/Sections/Section2#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\AI\\Sections\\Section2.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section3.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section3.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/AI/Sections/Section3#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\AI\\Sections\\Section3.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section4.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section4.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/AI/Sections/Section4#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\AI\\Sections\\Section4.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture1.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture1.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/Computer Security/Lectures/Lecture1#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Computer Security\\Lectures\\Lecture1.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture2.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture2.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/Computer Security/Lectures/Lecture2#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Computer Security\\Lectures\\Lecture2.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture3.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture3.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/Computer Security/Lectures/Lecture3#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Computer Security\\Lectures\\Lecture3.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture4.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture4.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/Computer Security/Lectures/Lecture4#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Computer Security\\Lectures\\Lecture4.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section1.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section1.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/Computer Security/Sections/Section1#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Computer Security\\Sections\\Section1.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section2.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section2.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/Computer Security/Sections/Section2#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Computer Security\\Sections\\Section2.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section3.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section3.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/Computer Security/Sections/Section3#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Computer Security\\Sections\\Section3.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section4.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section4.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/Computer Security/Sections/Section4#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Computer Security\\Sections\\Section4.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture1.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture1.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/Computer Vision/Lectures/Lecture1#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Computer Vision\\Lectures\\Lecture1.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture2.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture2.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/Computer Vision/Lectures/Lecture2#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Computer Vision\\Lectures\\Lecture2.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture3.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture3.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/Computer Vision/Lectures/Lecture3#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Computer Vision\\Lectures\\Lecture3.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section1.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section1.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/Computer Vision/Sections/Section1#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Computer Vision\\Sections\\Section1.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section2.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section2.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/Computer Vision/Sections/Section2#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Computer Vision\\Sections\\Section2.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section3.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section3.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/Computer Vision/Sections/Section3#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Computer Vision\\Sections\\Section3.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Lectures\\Lecture1.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Lectures\\Lecture1.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/Network/Lectures/Lecture1#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Network\\Lectures\\Lecture1.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Lectures\\Lecture2.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Lectures\\Lecture2.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/Network/Lectures/Lecture2#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Network\\Lectures\\Lecture2.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Lectures\\Lecture3.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Lectures\\Lecture3.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/Network/Lectures/Lecture3#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Network\\Lectures\\Lecture3.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Lectures\\Lecture4.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Lectures\\Lecture4.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/Network/Lectures/Lecture4#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Network\\Lectures\\Lecture4.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Sections\\Section1.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Sections\\Section1.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/Network/Sections/Section1#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Network\\Sections\\Section1.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Sections\\Section2.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Sections\\Section2.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/Network/Sections/Section2#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Network\\Sections\\Section2.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Sections\\Section3.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Sections\\Section3.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/Network/Sections/Section3#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Network\\Sections\\Section3.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Sections\\Section4.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Sections\\Section4.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Files/Network/Sections/Section4#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Network\\Sections\\Section4.pdf"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\AI.jpg",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\AI.jpg",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Images/AI#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\AI.jpg"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Compiler\\2882c804-26a2-45c0-8c47-144a76f2d2cd.png",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Compiler\\2882c804-26a2-45c0-8c47-144a76f2d2cd.png",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Images/Compiler/2882c804-26a2-45c0-8c47-144a76f2d2cd#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Compiler\\2882c804-26a2-45c0-8c47-144a76f2d2cd.png"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\ComputerVision.jpg",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\ComputerVision.jpg",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Images/ComputerVision#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ComputerVision.jpg"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Network.jpg",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Network.jpg",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Images/Network#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Network.jpg"
     },
     {
-      "Identity": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Security.jpg",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Security.jpg",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
       "RelativePath": "Images/Security#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -755,7 +755,7 @@
   "Endpoints": [
     {
       "Route": "Files/AI/Lectures/Lecture1.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture1.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture1.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -792,7 +792,7 @@
     },
     {
       "Route": "Files/AI/Lectures/Lecture1.uarq1ht78m.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture1.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture1.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -837,7 +837,7 @@
     },
     {
       "Route": "Files/AI/Lectures/Lecture2.b02d6de7sf.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture2.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture2.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -882,7 +882,7 @@
     },
     {
       "Route": "Files/AI/Lectures/Lecture2.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture2.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture2.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -919,7 +919,7 @@
     },
     {
       "Route": "Files/AI/Lectures/Lecture3.9zo6k6g925.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture3.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture3.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -964,7 +964,7 @@
     },
     {
       "Route": "Files/AI/Lectures/Lecture3.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture3.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture3.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1001,7 +1001,7 @@
     },
     {
       "Route": "Files/AI/Lectures/Lecture4.2s850lzezr.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture4.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture4.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1046,7 +1046,7 @@
     },
     {
       "Route": "Files/AI/Lectures/Lecture4.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture4.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture4.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1083,7 +1083,7 @@
     },
     {
       "Route": "Files/AI/Sections/Section1.9k13qor598.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section1.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section1.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1128,7 +1128,7 @@
     },
     {
       "Route": "Files/AI/Sections/Section1.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section1.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section1.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1165,7 +1165,7 @@
     },
     {
       "Route": "Files/AI/Sections/Section2.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section2.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section2.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1202,7 +1202,7 @@
     },
     {
       "Route": "Files/AI/Sections/Section2.ycfkk4ql7m.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section2.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section2.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1247,7 +1247,7 @@
     },
     {
       "Route": "Files/AI/Sections/Section3.aei0dnd87x.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section3.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section3.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1292,7 +1292,7 @@
     },
     {
       "Route": "Files/AI/Sections/Section3.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section3.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section3.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1329,7 +1329,7 @@
     },
     {
       "Route": "Files/AI/Sections/Section4.km6uu5yydh.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section4.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section4.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1374,7 +1374,7 @@
     },
     {
       "Route": "Files/AI/Sections/Section4.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section4.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section4.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1411,7 +1411,7 @@
     },
     {
       "Route": "Files/Computer Security/Lectures/Lecture1.994zagfkjj.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture1.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture1.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1456,7 +1456,7 @@
     },
     {
       "Route": "Files/Computer Security/Lectures/Lecture1.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture1.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture1.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1493,7 +1493,7 @@
     },
     {
       "Route": "Files/Computer Security/Lectures/Lecture2.nga2fch7st.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture2.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture2.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1538,7 +1538,7 @@
     },
     {
       "Route": "Files/Computer Security/Lectures/Lecture2.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture2.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture2.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1575,7 +1575,7 @@
     },
     {
       "Route": "Files/Computer Security/Lectures/Lecture3.3kmp6eku53.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture3.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture3.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1620,7 +1620,7 @@
     },
     {
       "Route": "Files/Computer Security/Lectures/Lecture3.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture3.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture3.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1657,7 +1657,7 @@
     },
     {
       "Route": "Files/Computer Security/Lectures/Lecture4.h9o7un13ld.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture4.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture4.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1702,7 +1702,7 @@
     },
     {
       "Route": "Files/Computer Security/Lectures/Lecture4.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture4.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture4.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1739,7 +1739,7 @@
     },
     {
       "Route": "Files/Computer Security/Sections/Section1.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section1.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section1.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1776,7 +1776,7 @@
     },
     {
       "Route": "Files/Computer Security/Sections/Section1.zhtmvsp1en.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section1.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section1.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1821,7 +1821,7 @@
     },
     {
       "Route": "Files/Computer Security/Sections/Section2.dtpwoe3alb.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section2.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section2.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1866,7 +1866,7 @@
     },
     {
       "Route": "Files/Computer Security/Sections/Section2.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section2.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section2.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1903,7 +1903,7 @@
     },
     {
       "Route": "Files/Computer Security/Sections/Section3.74thr3wx5w.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section3.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section3.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1948,7 +1948,7 @@
     },
     {
       "Route": "Files/Computer Security/Sections/Section3.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section3.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section3.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1985,7 +1985,7 @@
     },
     {
       "Route": "Files/Computer Security/Sections/Section4.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section4.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section4.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2022,7 +2022,7 @@
     },
     {
       "Route": "Files/Computer Security/Sections/Section4.y2xix0r0nn.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section4.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section4.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2067,7 +2067,7 @@
     },
     {
       "Route": "Files/Computer Vision/Lectures/Lecture1.a5t4c9sawc.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture1.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture1.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2112,7 +2112,7 @@
     },
     {
       "Route": "Files/Computer Vision/Lectures/Lecture1.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture1.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture1.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2149,7 +2149,7 @@
     },
     {
       "Route": "Files/Computer Vision/Lectures/Lecture2.8620568wna.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture2.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture2.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2194,7 +2194,7 @@
     },
     {
       "Route": "Files/Computer Vision/Lectures/Lecture2.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture2.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture2.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2231,7 +2231,7 @@
     },
     {
       "Route": "Files/Computer Vision/Lectures/Lecture3.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture3.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture3.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2268,7 +2268,7 @@
     },
     {
       "Route": "Files/Computer Vision/Lectures/Lecture3.yh6denooo1.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture3.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture3.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2313,7 +2313,7 @@
     },
     {
       "Route": "Files/Computer Vision/Sections/Section1.got0w8c3bl.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section1.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section1.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2358,7 +2358,7 @@
     },
     {
       "Route": "Files/Computer Vision/Sections/Section1.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section1.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section1.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2395,7 +2395,7 @@
     },
     {
       "Route": "Files/Computer Vision/Sections/Section2.mem4i3k8gc.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section2.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section2.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2440,7 +2440,7 @@
     },
     {
       "Route": "Files/Computer Vision/Sections/Section2.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section2.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section2.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2477,7 +2477,7 @@
     },
     {
       "Route": "Files/Computer Vision/Sections/Section3.lv0udb326m.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section3.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section3.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2522,7 +2522,7 @@
     },
     {
       "Route": "Files/Computer Vision/Sections/Section3.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section3.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section3.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2559,7 +2559,7 @@
     },
     {
       "Route": "Files/Network/Lectures/Lecture1.gqtch19w8n.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Lectures\\Lecture1.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Lectures\\Lecture1.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2604,7 +2604,7 @@
     },
     {
       "Route": "Files/Network/Lectures/Lecture1.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Lectures\\Lecture1.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Lectures\\Lecture1.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2641,7 +2641,7 @@
     },
     {
       "Route": "Files/Network/Lectures/Lecture2.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Lectures\\Lecture2.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Lectures\\Lecture2.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2678,7 +2678,7 @@
     },
     {
       "Route": "Files/Network/Lectures/Lecture2.z7nf666bn1.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Lectures\\Lecture2.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Lectures\\Lecture2.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2723,7 +2723,7 @@
     },
     {
       "Route": "Files/Network/Lectures/Lecture3.ddmtfaaeyv.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Lectures\\Lecture3.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Lectures\\Lecture3.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2768,7 +2768,7 @@
     },
     {
       "Route": "Files/Network/Lectures/Lecture3.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Lectures\\Lecture3.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Lectures\\Lecture3.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2805,7 +2805,7 @@
     },
     {
       "Route": "Files/Network/Lectures/Lecture4.22b1i0d7ic.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Lectures\\Lecture4.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Lectures\\Lecture4.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2850,7 +2850,7 @@
     },
     {
       "Route": "Files/Network/Lectures/Lecture4.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Lectures\\Lecture4.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Lectures\\Lecture4.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2887,7 +2887,7 @@
     },
     {
       "Route": "Files/Network/Sections/Section1.ka3k7pk6mq.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Sections\\Section1.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Sections\\Section1.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2932,7 +2932,7 @@
     },
     {
       "Route": "Files/Network/Sections/Section1.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Sections\\Section1.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Sections\\Section1.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2969,7 +2969,7 @@
     },
     {
       "Route": "Files/Network/Sections/Section2.dpzzq7391p.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Sections\\Section2.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Sections\\Section2.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3014,7 +3014,7 @@
     },
     {
       "Route": "Files/Network/Sections/Section2.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Sections\\Section2.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Sections\\Section2.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3051,7 +3051,7 @@
     },
     {
       "Route": "Files/Network/Sections/Section3.oy6wkng6he.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Sections\\Section3.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Sections\\Section3.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3096,7 +3096,7 @@
     },
     {
       "Route": "Files/Network/Sections/Section3.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Sections\\Section3.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Sections\\Section3.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3133,7 +3133,7 @@
     },
     {
       "Route": "Files/Network/Sections/Section4.fq4y1iuz0c.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Sections\\Section4.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Sections\\Section4.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3178,7 +3178,7 @@
     },
     {
       "Route": "Files/Network/Sections/Section4.pdf",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Sections\\Section4.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Sections\\Section4.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3215,7 +3215,7 @@
     },
     {
       "Route": "Images/AI.jpg",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\AI.jpg",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\AI.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3252,7 +3252,7 @@
     },
     {
       "Route": "Images/AI.zjm2qv52qi.jpg",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\AI.jpg",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\AI.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3297,7 +3297,7 @@
     },
     {
       "Route": "Images/Compiler/2882c804-26a2-45c0-8c47-144a76f2d2cd.aouqpdbz58.png",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Compiler\\2882c804-26a2-45c0-8c47-144a76f2d2cd.png",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Compiler\\2882c804-26a2-45c0-8c47-144a76f2d2cd.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3342,7 +3342,7 @@
     },
     {
       "Route": "Images/Compiler/2882c804-26a2-45c0-8c47-144a76f2d2cd.png",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Compiler\\2882c804-26a2-45c0-8c47-144a76f2d2cd.png",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Compiler\\2882c804-26a2-45c0-8c47-144a76f2d2cd.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3379,7 +3379,7 @@
     },
     {
       "Route": "Images/ComputerVision.jpg",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\ComputerVision.jpg",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\ComputerVision.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3416,7 +3416,7 @@
     },
     {
       "Route": "Images/ComputerVision.x9fnzp0dtg.jpg",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\ComputerVision.jpg",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\ComputerVision.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3461,7 +3461,7 @@
     },
     {
       "Route": "Images/Network.7cbfavm6dj.jpg",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Network.jpg",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Network.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3506,7 +3506,7 @@
     },
     {
       "Route": "Images/Network.jpg",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Network.jpg",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Network.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3543,7 +3543,7 @@
     },
     {
       "Route": "Images/Security.1zulcr4hm5.jpg",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Security.jpg",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Security.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3588,7 +3588,7 @@
     },
     {
       "Route": "Images/Security.jpg",
-      "AssetFile": "D:\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Security.jpg",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Security.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
