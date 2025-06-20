@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\computer science\\final year\\project\\ai-tutor-master\\gradutionproject\\viewmodel\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\viewmodel\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\computer science\\final year\\project\\ai-tutor-master\\gradutionproject\\controllers\\userdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\controllers\\userdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\computer science\\final year\\project\\ai-tutor-master\\gradutionproject\\viewmodel\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\viewmodel\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\viewmodel\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\computer science\\final year\\project\\ai-tutor-master\\gradutionproject\\controllers\\userdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\controllers\\userdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\computer science\\final year\\project\\ai-tutor-master\\gradutionproject\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\computer science\\final year\\project\\ai-tutor-master\\gradutionproject\\viewmodel\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\viewmodel\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\computer science\\final year\\project\\ai-tutor-master\\gradutionproject\\viewmodel\\passwordconfirmationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -170,15 +170,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AdminController.cs",
               "DocumentMoniker": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "Gradutionproject\\Controllers\\AdminController.cs",
@@ -204,33 +200,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "UserDataController.cs",
               "DocumentMoniker": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\Controllers\\UserDataController.cs",
               "RelativeDocumentMoniker": "Gradutionproject\\Controllers\\UserDataController.cs",
               "ToolTip": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\Controllers\\UserDataController.cs",
               "RelativeToolTip": "Gradutionproject\\Controllers\\UserDataController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAUwE8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAUwCwAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-14T22:18:29.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "UpdateUserRequest.cs",
               "DocumentMoniker": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\ViewModel\\UpdateUserRequest.cs",
               "RelativeDocumentMoniker": "Gradutionproject\\ViewModel\\UpdateUserRequest.cs",
               "ToolTip": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\ViewModel\\UpdateUserRequest.cs",
               "RelativeToolTip": "Gradutionproject\\ViewModel\\UpdateUserRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-14T21:44:01.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "QuizController.cs",
               "DocumentMoniker": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\Controllers\\QuizController.cs",
               "RelativeDocumentMoniker": "Gradutionproject\\Controllers\\QuizController.cs",
@@ -243,20 +239,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "EmailService.cs",
               "DocumentMoniker": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\ViewModel\\EmailService.cs",
               "RelativeDocumentMoniker": "Gradutionproject\\ViewModel\\EmailService.cs",
               "ToolTip": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\ViewModel\\EmailService.cs",
               "RelativeToolTip": "Gradutionproject\\ViewModel\\EmailService.cs",
-              "ViewState": "AgIAAKUAAAAAAAAAAAAiwLIAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwB8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T02:34:06.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Gradutionproject\\Controllers\\AuthController.cs",
@@ -264,12 +260,11 @@
               "RelativeToolTip": "Gradutionproject\\Controllers\\AuthController.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAA9wP0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T21:36:43.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-14T21:36:43.012Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "RegisterModel.cs",
               "DocumentMoniker": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\ViewModel\\RegisterModel.cs",
               "RelativeDocumentMoniker": "Gradutionproject\\ViewModel\\RegisterModel.cs",
@@ -290,8 +285,7 @@
               "RelativeToolTip": "Gradutionproject\\Controllers\\LectureController.cs",
               "ViewState": "AgIAAO4AAAAAAAAAAAAcwCgBAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T01:40:24.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T01:40:24.004Z"
             },
             {
               "$type": "Document",
@@ -303,8 +297,7 @@
               "RelativeToolTip": "Gradutionproject\\Controllers\\CoursesController.cs",
               "ViewState": "AgIAAK8AAAAAAAAAAAAQwAYBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T01:35:00.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T01:35:00.906Z"
             },
             {
               "$type": "Document",
@@ -316,8 +309,7 @@
               "RelativeToolTip": "Gradutionproject\\Controllers\\SectionController.cs",
               "ViewState": "AgIAAM8AAAAAAAAAAAAowDEAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T01:22:41.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T01:22:41.555Z"
             },
             {
               "$type": "Document",
@@ -354,7 +346,8 @@
               "RelativeToolTip": "Gradutionproject\\Controllers\\CourseAdminController.cs",
               "ViewState": "AgIAAHIAAAAAAAAAAAAYwHgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T05:28:10.06Z"
+              "WhenOpened": "2025-06-11T05:28:10.06Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -402,7 +395,8 @@
               "RelativeToolTip": "Gradutionproject\\Dtos\\LectureReadDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T12:51:12.114Z"
+              "WhenOpened": "2025-06-18T12:51:12.114Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -414,7 +408,8 @@
               "RelativeToolTip": "Gradutionproject\\Models\\ApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T21:31:59.463Z"
+              "WhenOpened": "2025-06-14T21:31:59.463Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -426,7 +421,8 @@
               "RelativeToolTip": "Gradutionproject\\Context\\graduationDbContext.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T01:17:28.54Z"
+              "WhenOpened": "2025-06-15T01:17:28.54Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -438,7 +434,8 @@
               "RelativeToolTip": "Gradutionproject\\Dtos\\LectureCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T12:51:13.281Z"
+              "WhenOpened": "2025-06-18T12:51:13.281Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -450,7 +447,8 @@
               "RelativeToolTip": "Gradutionproject\\Dtos\\ForgotPasswordDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T01:16:13.79Z"
+              "WhenOpened": "2025-06-15T01:16:13.79Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -462,7 +460,8 @@
               "RelativeToolTip": "Gradutionproject\\Dtos\\CourseReadDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T22:44:04.474Z"
+              "WhenOpened": "2025-06-18T22:44:04.474Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -474,7 +473,8 @@
               "RelativeToolTip": "Gradutionproject\\Dtos\\QuizDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T12:47:52.024Z"
+              "WhenOpened": "2025-06-18T12:47:52.024Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -486,7 +486,8 @@
               "RelativeToolTip": "Gradutionproject\\Dtos\\CreateQuizDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T12:48:14.907Z"
+              "WhenOpened": "2025-06-18T12:48:14.907Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -498,7 +499,8 @@
               "RelativeToolTip": "Gradutionproject\\Dtos\\UserWithQuizzesDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T01:24:18.996Z"
+              "WhenOpened": "2025-06-15T01:24:18.996Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -510,7 +512,8 @@
               "RelativeToolTip": "Gradutionproject\\Dtos\\SectionReadDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T12:53:00.933Z"
+              "WhenOpened": "2025-06-18T12:53:00.933Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -522,7 +525,8 @@
               "RelativeToolTip": "Gradutionproject\\Models\\Quiz.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T01:32:58.284Z"
+              "WhenOpened": "2025-06-15T01:32:58.284Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -534,7 +538,8 @@
               "RelativeToolTip": "Gradutionproject\\Dtos\\VerifyCodeDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T12:52:14.465Z"
+              "WhenOpened": "2025-06-18T12:52:14.465Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -546,7 +551,8 @@
               "RelativeToolTip": "Gradutionproject\\Dtos\\ResetPasswordDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T01:16:36.912Z"
+              "WhenOpened": "2025-06-15T01:16:36.912Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -558,7 +564,8 @@
               "RelativeToolTip": "Gradutionproject\\Dtos\\SectionCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T23:30:22.604Z"
+              "WhenOpened": "2025-06-15T23:30:22.604Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -570,7 +577,8 @@
               "RelativeToolTip": "Gradutionproject\\ViewModel\\LoginModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T01:25:08.538Z"
+              "WhenOpened": "2025-06-15T01:25:08.538Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -582,7 +590,8 @@
               "RelativeToolTip": "Gradutionproject\\Dtos\\AdminCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T23:27:55.582Z"
+              "WhenOpened": "2025-06-15T23:27:55.582Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -605,7 +614,8 @@
               "RelativeToolTip": "Gradutionproject\\Dtos\\AdminReadDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T15:44:34.213Z"
+              "WhenOpened": "2025-06-15T15:44:34.213Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -617,8 +627,7 @@
               "RelativeToolTip": "Gradutionproject\\Program.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T22:23:47.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-14T22:23:47.137Z"
             },
             {
               "$type": "Document",
@@ -642,7 +651,8 @@
               "RelativeToolTip": "Gradutionproject\\Models\\Section.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T01:32:55.313Z"
+              "WhenOpened": "2025-06-15T01:32:55.313Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

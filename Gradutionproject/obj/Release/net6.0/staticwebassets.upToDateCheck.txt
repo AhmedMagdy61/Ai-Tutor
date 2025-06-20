@@ -14,16 +14,40 @@ wwwroot\Files\Computer Security\Sections\2e5cf803-32ff-47a9-a554-57a9e9668212.pd
 wwwroot\Files\Computer Security\Sections\5431763d-a629-43c8-9f09-6b9c91223c8d.pdf
 wwwroot\Files\Computer Security\Sections\6c727aa3-78cb-4276-a9dd-4e726fd17b45.pdf
 wwwroot\Files\Computer Security\Sections\f6181d9c-285c-47e5-a186-f54a6120d6c9.pdf
-wwwroot\Files\Computer Vision\Lectures\d037d8d8-8dad-4a08-8594-51aad985a871.pdf
-wwwroot\Files\Network\Lectures\Lecture1.pdf
-wwwroot\Files\Network\Lectures\Lecture2.pdf
-wwwroot\Files\Network\Lectures\Lecture3.pdf
-wwwroot\Files\Network\Lectures\Lecture4.pdf
-wwwroot\Files\Network\Sections\Section1.pdf
-wwwroot\Files\Network\Sections\Section2.pdf
-wwwroot\Files\Network\Sections\Section3.pdf
-wwwroot\Files\Network\Sections\Section4.pdf
+wwwroot\Files\Computer Vision\Lectures\0aa6fb53-c807-4baa-942e-d25a5df3bc37.pdf
+wwwroot\Files\Computer Vision\Lectures\60a4ee82-9c66-494d-9aaf-e67539e138e1.pdf
+wwwroot\Files\Computer Vision\Lectures\a75e0099-569d-4c92-aaf0-847a5df9fcd8.pdf
+wwwroot\Files\Computer Vision\Lectures\d6d6d599-bae3-47f8-98f9-4eb691c4ca1a.pdf
+wwwroot\Files\Computer Vision\Lectures\f6c35a6c-4f53-43f2-94c8-e3c80084ef8f.pdf
+wwwroot\Files\Computer Vision\Lectures\ffbb232c-8ca9-4eb1-9117-ecad6f766ba5.pdf
+wwwroot\Files\Computer Vision\Sections\3e6e9aa5-3b8e-4007-ab8e-a49b8b9a1783.pdf
+wwwroot\Files\Computer Vision\Sections\5f66cd2e-2010-40a8-9278-1bf631bb3fe1.pdf
+wwwroot\Files\Computer Vision\Sections\5fea3571-4357-4ca3-b01c-4cdb78693044.pdf
+wwwroot\Files\Computer Vision\Sections\6fa16a92-d294-4003-9e7b-8ded36187fa4.pdf
+wwwroot\Files\Computer Vision\Sections\a345ac0d-2d14-4115-b2c2-9254ea0e6cf7.pdf
+wwwroot\Files\Computer Vision\Sections\ac7de89d-8b5e-42a5-a25c-09bab5bc85bf.pdf
+wwwroot\Files\Computer Vision\Sections\ad3fca72-f8f5-46dc-aa3d-b9cf8e0f9f1e.pdf
+wwwroot\Files\Computer Vision\Sections\ce1d77e8-87a9-4676-969b-7b1ba06eca5c.pdf
+wwwroot\Files\Computer Vision\Sections\d954ac5c-27e8-42cd-a700-4de0ffaaefd5.pdf
+wwwroot\Files\Computer Vision\Sections\e69ac214-5030-4586-8a7c-ae01c8a1a1d8.pdf
+wwwroot\Files\Network\Lectures\2f25be06-a46d-4ed8-b0d5-c9789eac089b.pdf
+wwwroot\Files\Network\Lectures\35a3b75b-d4d1-487b-a73b-9db6c751f804.pdf
+wwwroot\Files\Network\Lectures\4a7d4a4c-29b6-4e18-96d5-332bfb922b6e.pdf
+wwwroot\Files\Network\Lectures\5ed06075-1d51-40df-aae8-1f6ff6f0d3fc.pdf
+wwwroot\Files\Network\Lectures\91ab1b6e-8547-45fa-bee3-391426186a48.pdf
+wwwroot\Files\Network\Lectures\b12f40a5-84ad-4322-af13-c75eccf91442.pdf
+wwwroot\Files\Network\Lectures\e2d8743c-0cde-4b1a-a7d6-7d3ad65f82d6.pdf
+wwwroot\Files\Network\Lectures\fc6052cb-2600-4c89-8ba1-e727ed644aa4.pdf
+wwwroot\Files\Network\Sections\009e4d11-f0ac-4032-9c7c-375ff5727503.pdf
+wwwroot\Files\Network\Sections\35d0cdf1-2ea2-41dd-9b8f-98a1b3782cda.pdf
+wwwroot\Files\Network\Sections\3eaf8195-0288-4ff9-90f5-574deffd476c.pdf
+wwwroot\Files\Network\Sections\4d7763f3-e1b8-47ec-8597-1d88f657ddde.pdf
+wwwroot\Files\Network\Sections\5c687e14-bdc3-4e3e-880f-edfe416c4fff.pdf
+wwwroot\Files\Network\Sections\67461ed1-1c37-4efa-8d73-245dcf619957.pdf
+wwwroot\Files\Network\Sections\f3a3b625-3afb-4065-9d48-eefc0c59f644.pdf
+wwwroot\Files\Network\Sections\f8f5dd22-93a1-44ca-a753-96b7183671c8.pdf
 wwwroot\Images\11a91ef6-9826-4037-bbce-004ef900d118.jpg
 wwwroot\Images\48d88708-a12a-4e13-8bc0-c6c87c2d3720.jpg
 wwwroot\Images\61b54702-4025-4b8c-9506-0d5925595e47.jpg
 wwwroot\Images\f8befc46-e3da-4ce4-a12a-d22f2d7f4939.jpg
+wwwroot\Images\Logo.jpeg

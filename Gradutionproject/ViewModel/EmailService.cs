@@ -30,10 +30,22 @@ public class EmailService
         email.Body = new TextPart(TextFormat.Html)
         {
             Text = $@"
-        <html>
-            <body style='font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 20px;'>
-                <div style='background-color: #fff; padding: 20px; border-radius: 5px; max-width: 600px; margin: auto;'>
-                    <h2 style='color: #333;'>AI Tutor - Password Reset</h2>
+            <html>
+                <body style='font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 20px;'>
+                    <div style='background-color: #fff; padding: 20px; border-radius: 5px; max-width: 600px; margin: auto;'>
+                 <!-- صورة اللوجو + اسم التطبيق جنب بعض -->
+                       <table style='width: 100%; margin-bottom: 20px;'>
+                         <tr>
+                           <td style='vertical-align: middle; width: 60px;'>
+                             <img src='https://raw.githubusercontent.com/AhmedMagdy61/Ai-Tutor/refs/heads/master/Gradutionproject/wwwroot/Images/Logo.jpeg' 
+                                  alt='AI Tutor Logo' 
+                                  style='width: 50px; height: 50px; border-radius: 5px;' />
+                           </td>
+                           <td style='vertical-align: middle;'>
+                             <h2 style='color: #333; margin: 0;'>AI Tutor - Password Reset</h2>
+                           </td>
+                         </tr>
+                       </table>
                     <p style='font-size: 16px; color: #555;'>Hello,</p>
                     <p style='font-size: 16px; color: #555;'>
                         Your password reset code is:
@@ -79,7 +91,19 @@ public class EmailService
             <html>
                 <body style='font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 20px;'>
                     <div style='background-color: #fff; padding: 20px; border-radius: 5px; max-width: 600px; margin: auto;'>
-                        <h2 style='color: #333;'>AI Tutor - Password Changed</h2>
+                 <!-- صورة اللوجو + اسم التطبيق جنب بعض -->
+                       <table style='width: 100%; margin-bottom: 20px;'>
+                         <tr>
+                           <td style='vertical-align: middle; width: 60px;'>
+                             <img src='https://raw.githubusercontent.com/AhmedMagdy61/Ai-Tutor/refs/heads/master/Gradutionproject/wwwroot/Images/Logo.jpeg' 
+                                  alt='AI Tutor Logo' 
+                                  style='width: 50px; height: 50px; border-radius: 5px;' />
+                           </td>
+                           <td style='vertical-align: middle;'>
+                             <h2 style='color: #333; margin: 0;'>AI Tutor - Password Changed</h2>
+                           </td>
+                         </tr>
+                       </table>
                         <p style='font-size: 18px; color: #555;'>
                             Your password has been <strong style='color: #27ae60;'>changed successfully </strong>.
                         </p>
@@ -113,39 +137,39 @@ public class EmailService
         email.Body = new TextPart(TextFormat.Html)
         {
             Text = $@"
-<html>
-  <body style='font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 20px;'>
-    <div style='background-color: #fff; padding: 20px; border-radius: 5px; max-width: 600px; margin: auto;'>
+                <html>
+                  <body style='font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 20px;'>
+                    <div style='background-color: #fff; padding: 20px; border-radius: 5px; max-width: 600px; margin: auto;'>
 
-      <!-- صورة اللوجو + اسم التطبيق جنب بعض -->
-      <table style='width: 100%; margin-bottom: 20px;'>
-        <tr>
-          <td style='vertical-align: middle; width: 60px;'>
-            <img src='https://raw.githubusercontent.com/AhmedMagdy61/Test/main/images.png' 
-                 alt='AI Tutor Logo' 
-                 style='width: 50px; height: 50px; border-radius: 5px;' />
-          </td>
-          <td style='vertical-align: middle;'>
-            <h2 style='color: #333; margin: 0;'>AI Tutor - Verify Your Email</h2>
-          </td>
-        </tr>
-      </table>
+                      <!-- صورة اللوجو + اسم التطبيق جنب بعض -->
+                      <table style='width: 100%; margin-bottom: 20px;'>
+                        <tr>
+                          <td style='vertical-align: middle; width: 60px;'>
+                            <img src='https://raw.githubusercontent.com/AhmedMagdy61/Ai-Tutor/refs/heads/master/Gradutionproject/wwwroot/Images/Logo.jpeg' 
+                                 alt='AI Tutor Logo' 
+                                 style='width: 50px; height: 50px; border-radius: 5px;' />
+                          </td>
+                          <td style='vertical-align: middle;'>
+                            <h2 style='color: #333; margin: 0;'>AI Tutor - Verify Your Email</h2>
+                          </td>
+                        </tr>
+                      </table>
 
-      <p style='font-size: 16px; color: #555;'>
-        Your verification code is:
-        <strong style='font-size: 20px; color: #000;'>{code}</strong>
-      </p>
+                      <p style='font-size: 16px; color: #555;'>
+                        Your verification code is:
+                        <strong style='font-size: 20px; color: #000;'>{code}</strong>
+                      </p>
 
-      <p style='font-size: 14px; color: #999;'>If you did not register, ignore this email.</p>
+                      <p style='font-size: 14px; color: #999;'>If you did not register, ignore this email.</p>
 
-      <p style='font-size: 14px; color: #999;'>
-        Regards,<br/>
-        <strong style='font-size: 14px;'>AI Tutor Team</strong>
-      </p>
+                      <p style='font-size: 14px; color: #999;'>
+                        Regards,<br/>
+                        <strong style='font-size: 14px;'>AI Tutor Team</strong>
+                      </p>
 
-    </div>
-  </body>
-</html>"
+                    </div>
+                  </body>
+                </html>"
 
         };
         // Link of Verfiy password directly
@@ -178,7 +202,7 @@ public class EmailService
                       <table style='width: 100%; margin-bottom: 20px;'>
                         <tr>
                           <td style='vertical-align: middle; width: 60px;'>
-                            <img src='https://raw.githubusercontent.com/AhmedMagdy61/Test/main/images.png' 
+                            <img src='https://raw.githubusercontent.com/AhmedMagdy61/Ai-Tutor/refs/heads/master/Gradutionproject/wwwroot/Images/Logo.jpeg' 
                                  alt='AI Tutor Logo' 
                                  style='width: 50px; height: 50px; border-radius: 5px;' />
                           </td>
@@ -221,7 +245,19 @@ public class EmailService
         <html>
             <body style='font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 20px;'>
                 <div style='background-color: #fff; padding: 20px; border-radius: 5px; max-width: 600px; margin: auto;'>
-                    <h2 style='color: #333;'>AI Tutor - Profile Updated</h2>
+                    <!-- صورة اللوجو + اسم التطبيق جنب بعض -->
+                      <table style='width: 100%; margin-bottom: 20px;'>
+                        <tr>
+                          <td style='vertical-align: middle; width: 60px;'>
+                            <img src='https://raw.githubusercontent.com/AhmedMagdy61/Ai-Tutor/refs/heads/master/Gradutionproject/wwwroot/Images/Logo.jpeg' 
+                                 alt='AI Tutor Logo' 
+                                 style='width: 50px; height: 50px; border-radius: 5px;' />
+                          </td>
+                          <td style='vertical-align: middle;'>
+                            <h2 style='color: #333; margin: 0;'>AI Tutor - Profile Updated</h2>
+                          </td>
+                        </tr>
+                      </table>
                     <p style='font-size: 16px; color: #555;'>
                         Your profile information has been <strong style='color: #27ae60;'>updated successfully</strong>.
                     </p>
@@ -262,9 +298,21 @@ public class EmailService
         <html>
             <body style='font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 20px;'>
                 <div style='background-color: #fff; padding: 20px; border-radius: 5px; max-width: 600px; margin: auto;'>
-                    <h2 style='color: #333;'>AI Tutor</h2>
+                 <!-- صورة اللوجو + اسم التطبيق جنب بعض -->
+                       <table style='width: 100%; margin-bottom: 20px;'>
+                         <tr>
+                           <td style='vertical-align: middle; width: 60px;'>
+                             <img src='https://raw.githubusercontent.com/AhmedMagdy61/Ai-Tutor/refs/heads/master/Gradutionproject/wwwroot/Images/Logo.jpeg' 
+                                  alt='AI Tutor Logo' 
+                                  style='width: 50px; height: 50px; border-radius: 5px;' />
+                           </td>
+                           <td style='vertical-align: middle;'>
+                             <h2 style='color: #333; margin: 0;'>AI Tutor</h2>
+                           </td>
+                         </tr>
+                       </table>
                     <p style='font-size: 16px; color: #555;'>Hello,</p>
-                    <p><strong style='font-size: 20px; color: #000;'>Your email verification code was confirmed successfully.</strong></p>
+                    <p><strong style='font-size: 20px; color: #000;'>Your email has been successfully verified.</strong></p>
                     <p style='font-size: 14px; color: #999;'>If you didn’t request this code, please ignore this email.</p>
                     <p style='font-size: 14px; color: #999;'>Regards,<br/> <strong style='font-size: 14px;'>AI Tutor Team</strong></p>
                 </div>

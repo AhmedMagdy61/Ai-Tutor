@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LzMvjB5huC40o6sR2o7uOwiMth9+WedOhDKjw27xW/Y=",
+  "Hash": "D8YbvyTmQL3pzDcvt6guKTIYZI6IJGXBHY+BuorrGJg=",
   "Source": "Gradutionproject",
   "BasePath": "_content/Gradutionproject",
   "Mode": "Default",
@@ -771,6 +771,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\f8befc46-e3da-4ce4-a12a-d22f2d7f4939.jpg"
+    },
+    {
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Logo.jpeg",
+      "SourceId": "Gradutionproject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "BasePath": "_content/Gradutionproject",
+      "RelativePath": "Images/Logo#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rbzy1a6le8",
+      "Integrity": "qW//Qh1DV6HceQf5WHAizm7RgXQ7/HjalFijSDg0ol8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Logo.jpeg"
     }
   ],
   "Endpoints": [
@@ -3723,6 +3744,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-FfSBWwnTn+5oIsTp/WnPALwCe7Kht69Zb4t4hXYpvLc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Logo.jpeg",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Logo.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qW//Qh1DV6HceQf5WHAizm7RgXQ7/HjalFijSDg0ol8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 03:40:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qW//Qh1DV6HceQf5WHAizm7RgXQ7/HjalFijSDg0ol8="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Logo.rbzy1a6le8.jpeg",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Logo.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qW//Qh1DV6HceQf5WHAizm7RgXQ7/HjalFijSDg0ol8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 03:40:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rbzy1a6le8"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Logo.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qW//Qh1DV6HceQf5WHAizm7RgXQ7/HjalFijSDg0ol8="
         }
       ]
     }
