@@ -1,11 +1,11 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Lectures\Lecture1.pdf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Lectures\4b405612-2c0a-43dd-9832-db2948b3b1b8.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/AI/Lectures/Lecture1.pdf</RelativePath>
+      <RelativePath>Files/AI/Lectures/4b405612-2c0a-43dd-9832-db2948b3b1b8.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -16,50 +16,14 @@
       <Integrity>St7lNQa7Ra+KSzDep5wNpEjiSCfvrhxmVVD+DzxfcOs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Lectures\Lecture1.pdf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Lectures\4b405612-2c0a-43dd-9832-db2948b3b1b8.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Lectures\Lecture2.pdf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Lectures\5415aff2-1cdf-4a2c-852d-61cc4c86f6d5.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/AI/Lectures/Lecture2.pdf</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>b02d6de7sf</Fingerprint>
-      <Integrity>awWsCBVHThEqGmS32dby5eHwsm2LeI8aug6FLVgICVg=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Lectures\Lecture2.pdf'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Lectures\Lecture3.pdf'))">
-      <SourceType>Package</SourceType>
-      <SourceId>Gradutionproject</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/AI/Lectures/Lecture3.pdf</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>9zo6k6g925</Fingerprint>
-      <Integrity>C5AjZp6IdVu5h2mkvxARLdDGr18h5Rht1u0jJZ6o3FE=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Lectures\Lecture3.pdf'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Lectures\Lecture4.pdf'))">
-      <SourceType>Package</SourceType>
-      <SourceId>Gradutionproject</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/AI/Lectures/Lecture4.pdf</RelativePath>
+      <RelativePath>Files/AI/Lectures/5415aff2-1cdf-4a2c-852d-61cc4c86f6d5.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -70,50 +34,50 @@
       <Integrity>TiCXUPRAAyTT/w5fK/ySvBMTkIBzSEwFRuZaO2V0VLc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Lectures\Lecture4.pdf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Lectures\5415aff2-1cdf-4a2c-852d-61cc4c86f6d5.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Sections\Section1.pdf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Lectures\abbb43f3-c1c7-4ec9-adc8-f77a4e21e8f6.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/AI/Sections/Section1.pdf</RelativePath>
+      <RelativePath>Files/AI/Lectures/abbb43f3-c1c7-4ec9-adc8-f77a4e21e8f6.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>9k13qor598</Fingerprint>
-      <Integrity>qdTyhIy3pjdy7eDUj3vFYcYFOZPZCaAA65le9a7VdI4=</Integrity>
+      <Fingerprint>b02d6de7sf</Fingerprint>
+      <Integrity>awWsCBVHThEqGmS32dby5eHwsm2LeI8aug6FLVgICVg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Sections\Section1.pdf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Lectures\abbb43f3-c1c7-4ec9-adc8-f77a4e21e8f6.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Sections\Section2.pdf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Lectures\cc14f346-0f2d-497e-87d3-f2eeb719dbbd.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/AI/Sections/Section2.pdf</RelativePath>
+      <RelativePath>Files/AI/Lectures/cc14f346-0f2d-497e-87d3-f2eeb719dbbd.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ycfkk4ql7m</Fingerprint>
-      <Integrity>PnE0DVvrjXm6ScSq9chawxWk3rIfbsef7efhZOgh/M0=</Integrity>
+      <Fingerprint>9zo6k6g925</Fingerprint>
+      <Integrity>C5AjZp6IdVu5h2mkvxARLdDGr18h5Rht1u0jJZ6o3FE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Sections\Section2.pdf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Lectures\cc14f346-0f2d-497e-87d3-f2eeb719dbbd.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Sections\Section3.pdf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Sections\019712ff-decd-428d-bc6d-06533d66e3c5.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/AI/Sections/Section3.pdf</RelativePath>
+      <RelativePath>Files/AI/Sections/019712ff-decd-428d-bc6d-06533d66e3c5.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -124,14 +88,32 @@
       <Integrity>IhbjlDs1i6BK2Hvmp1/rssjcScMnnMTzAt+bx8Sjhe0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Sections\Section3.pdf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Sections\019712ff-decd-428d-bc6d-06533d66e3c5.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Sections\Section4.pdf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Sections\a4cc3569-1408-4954-a7d2-ddb8c777dac2.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/AI/Sections/Section4.pdf</RelativePath>
+      <RelativePath>Files/AI/Sections/a4cc3569-1408-4954-a7d2-ddb8c777dac2.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>9k13qor598</Fingerprint>
+      <Integrity>qdTyhIy3pjdy7eDUj3vFYcYFOZPZCaAA65le9a7VdI4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Sections\a4cc3569-1408-4954-a7d2-ddb8c777dac2.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Sections\e228e886-d5f2-4371-9dee-5c06b1b189c4.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Gradutionproject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Gradutionproject</BasePath>
+      <RelativePath>Files/AI/Sections/e228e886-d5f2-4371-9dee-5c06b1b189c4.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -142,32 +124,32 @@
       <Integrity>DC/hL8F5k6JTU150fI5QNuE9OfT//zBeBo4QCOIONfw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Sections\Section4.pdf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Sections\e228e886-d5f2-4371-9dee-5c06b1b189c4.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Lectures\Lecture1.pdf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Sections\fa4999af-2b35-4c2c-8bbb-0e866d60350f.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/Computer Security/Lectures/Lecture1.pdf</RelativePath>
+      <RelativePath>Files/AI/Sections/fa4999af-2b35-4c2c-8bbb-0e866d60350f.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>994zagfkjj</Fingerprint>
-      <Integrity>TXrx+ebg/WNcJnRIm36HjWOZ2aI6w0NK2ysmJU2QBd4=</Integrity>
+      <Fingerprint>ycfkk4ql7m</Fingerprint>
+      <Integrity>PnE0DVvrjXm6ScSq9chawxWk3rIfbsef7efhZOgh/M0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Lectures\Lecture1.pdf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\AI\Sections\fa4999af-2b35-4c2c-8bbb-0e866d60350f.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Lectures\Lecture2.pdf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Lectures\6aadfdaa-6858-434b-a85a-97b8529526d9.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/Computer Security/Lectures/Lecture2.pdf</RelativePath>
+      <RelativePath>Files/Computer Security/Lectures/6aadfdaa-6858-434b-a85a-97b8529526d9.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -178,32 +160,32 @@
       <Integrity>d5Blz33FPZcfqAdqp+yvITjT0nRINZkq7/hl/x3UTuI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Lectures\Lecture2.pdf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Lectures\6aadfdaa-6858-434b-a85a-97b8529526d9.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Lectures\Lecture3.pdf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Lectures\b1696d95-538a-4f70-803f-1fd6b6a66e72.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/Computer Security/Lectures/Lecture3.pdf</RelativePath>
+      <RelativePath>Files/Computer Security/Lectures/b1696d95-538a-4f70-803f-1fd6b6a66e72.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>3kmp6eku53</Fingerprint>
-      <Integrity>jUPl55258jCxYiE7UZGLArup8WzmCOtJqQWwmUvOQks=</Integrity>
+      <Fingerprint>994zagfkjj</Fingerprint>
+      <Integrity>TXrx+ebg/WNcJnRIm36HjWOZ2aI6w0NK2ysmJU2QBd4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Lectures\Lecture3.pdf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Lectures\b1696d95-538a-4f70-803f-1fd6b6a66e72.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Lectures\Lecture4.pdf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Lectures\ccdb630a-12f9-4cea-9e44-ae0400c61f47.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/Computer Security/Lectures/Lecture4.pdf</RelativePath>
+      <RelativePath>Files/Computer Security/Lectures/ccdb630a-12f9-4cea-9e44-ae0400c61f47.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -214,32 +196,32 @@
       <Integrity>ax8SQru8nQvRYXyjIRWCixA0s43/NnyzMWqNB1/ajzU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Lectures\Lecture4.pdf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Lectures\ccdb630a-12f9-4cea-9e44-ae0400c61f47.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Sections\Section1.pdf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Lectures\d2cd31cb-8021-40c7-80b7-e21ad2d4a390.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/Computer Security/Sections/Section1.pdf</RelativePath>
+      <RelativePath>Files/Computer Security/Lectures/d2cd31cb-8021-40c7-80b7-e21ad2d4a390.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>zhtmvsp1en</Fingerprint>
-      <Integrity>KYIqtkF17FSJPZBOzzaoUWVk6u1JKk5HAHwYsS+5qeQ=</Integrity>
+      <Fingerprint>3kmp6eku53</Fingerprint>
+      <Integrity>jUPl55258jCxYiE7UZGLArup8WzmCOtJqQWwmUvOQks=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Sections\Section1.pdf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Lectures\d2cd31cb-8021-40c7-80b7-e21ad2d4a390.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Sections\Section2.pdf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Sections\2e5cf803-32ff-47a9-a554-57a9e9668212.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/Computer Security/Sections/Section2.pdf</RelativePath>
+      <RelativePath>Files/Computer Security/Sections/2e5cf803-32ff-47a9-a554-57a9e9668212.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -250,32 +232,14 @@
       <Integrity>sQrAriIDwtgGy2W1fdR5cp9XMzbZ18xK+fG9gB2YYDc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Sections\Section2.pdf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Sections\2e5cf803-32ff-47a9-a554-57a9e9668212.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Sections\Section3.pdf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Sections\5431763d-a629-43c8-9f09-6b9c91223c8d.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/Computer Security/Sections/Section3.pdf</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>74thr3wx5w</Fingerprint>
-      <Integrity>p9S9WYf7rkRd+18v3/Hm9ObTFTFQzfwa4z5DdcoIRe4=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Sections\Section3.pdf'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Sections\Section4.pdf'))">
-      <SourceType>Package</SourceType>
-      <SourceId>Gradutionproject</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/Computer Security/Sections/Section4.pdf</RelativePath>
+      <RelativePath>Files/Computer Security/Sections/5431763d-a629-43c8-9f09-6b9c91223c8d.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -286,50 +250,50 @@
       <Integrity>BhfbUVo5p3PuKsSCiWk/NcJDeJJAbAhME8ABhMNsp3k=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Sections\Section4.pdf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Sections\5431763d-a629-43c8-9f09-6b9c91223c8d.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Vision\Lectures\Lecture1.pdf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Sections\6c727aa3-78cb-4276-a9dd-4e726fd17b45.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/Computer Vision/Lectures/Lecture1.pdf</RelativePath>
+      <RelativePath>Files/Computer Security/Sections/6c727aa3-78cb-4276-a9dd-4e726fd17b45.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>a5t4c9sawc</Fingerprint>
-      <Integrity>cgMleRoXYd7mCxmhx56Nhakdw1AU6hDrKC2HcNyVdHQ=</Integrity>
+      <Fingerprint>zhtmvsp1en</Fingerprint>
+      <Integrity>KYIqtkF17FSJPZBOzzaoUWVk6u1JKk5HAHwYsS+5qeQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Vision\Lectures\Lecture1.pdf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Sections\6c727aa3-78cb-4276-a9dd-4e726fd17b45.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Vision\Lectures\Lecture2.pdf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Sections\f6181d9c-285c-47e5-a186-f54a6120d6c9.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/Computer Vision/Lectures/Lecture2.pdf</RelativePath>
+      <RelativePath>Files/Computer Security/Sections/f6181d9c-285c-47e5-a186-f54a6120d6c9.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>8620568wna</Fingerprint>
-      <Integrity>AIh/sxMRgd8Y9Iiu+mUt7SvOcRUv4cNkPHEv0+Oegls=</Integrity>
+      <Fingerprint>74thr3wx5w</Fingerprint>
+      <Integrity>p9S9WYf7rkRd+18v3/Hm9ObTFTFQzfwa4z5DdcoIRe4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Vision\Lectures\Lecture2.pdf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Security\Sections\f6181d9c-285c-47e5-a186-f54a6120d6c9.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Vision\Lectures\Lecture3.pdf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Vision\Lectures\0aa6fb53-c807-4baa-942e-d25a5df3bc37.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/Computer Vision/Lectures/Lecture3.pdf</RelativePath>
+      <RelativePath>Files/Computer Vision/Lectures/0aa6fb53-c807-4baa-942e-d25a5df3bc37.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -340,284 +304,284 @@
       <Integrity>2pPvgj6VPRW540jTaQO3UMQyk1XM/nfXM7v2nnXM7TE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Vision\Lectures\Lecture3.pdf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Vision\Lectures\0aa6fb53-c807-4baa-942e-d25a5df3bc37.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Vision\Sections\Section1.pdf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Vision\Lectures\60a4ee82-9c66-494d-9aaf-e67539e138e1.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/Computer Vision/Sections/Section1.pdf</RelativePath>
+      <RelativePath>Files/Computer Vision/Lectures/60a4ee82-9c66-494d-9aaf-e67539e138e1.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>got0w8c3bl</Fingerprint>
-      <Integrity>wKnHAgjmwEG8AHT1jfV1S3aD2fJ4EyP1Sl43w205oTQ=</Integrity>
+      <Fingerprint>8620568wna</Fingerprint>
+      <Integrity>AIh/sxMRgd8Y9Iiu+mUt7SvOcRUv4cNkPHEv0+Oegls=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Vision\Sections\Section1.pdf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Vision\Lectures\60a4ee82-9c66-494d-9aaf-e67539e138e1.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Vision\Sections\Section2.pdf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Vision\Lectures\f6c35a6c-4f53-43f2-94c8-e3c80084ef8f.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/Computer Vision/Sections/Section2.pdf</RelativePath>
+      <RelativePath>Files/Computer Vision/Lectures/f6c35a6c-4f53-43f2-94c8-e3c80084ef8f.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>mem4i3k8gc</Fingerprint>
-      <Integrity>bsjvwwboiLtqaoPR8/CrkbcwoqruGMn0hXgho2Oz1pg=</Integrity>
+      <Fingerprint>a5t4c9sawc</Fingerprint>
+      <Integrity>cgMleRoXYd7mCxmhx56Nhakdw1AU6hDrKC2HcNyVdHQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Vision\Sections\Section2.pdf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Vision\Lectures\f6c35a6c-4f53-43f2-94c8-e3c80084ef8f.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Vision\Sections\Section3.pdf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Vision\Sections\3e6e9aa5-3b8e-4007-ab8e-a49b8b9a1783.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/Computer Vision/Sections/Section3.pdf</RelativePath>
+      <RelativePath>Files/Computer Vision/Sections/3e6e9aa5-3b8e-4007-ab8e-a49b8b9a1783.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>lv0udb326m</Fingerprint>
-      <Integrity>8UgPrB2roIlQwCms30eJ5UeSZQnWgB885916L8gjk5s=</Integrity>
+      <Fingerprint>z0nxx3x645</Fingerprint>
+      <Integrity>LdDb0JHUeTGjUDe6gOtlaVAblGvW8+aAjIK8wdjtqZ4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Vision\Sections\Section3.pdf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Vision\Sections\3e6e9aa5-3b8e-4007-ab8e-a49b8b9a1783.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Lectures\Lecture1.pdf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Vision\Sections\5fea3571-4357-4ca3-b01c-4cdb78693044.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/Network/Lectures/Lecture1.pdf</RelativePath>
+      <RelativePath>Files/Computer Vision/Sections/5fea3571-4357-4ca3-b01c-4cdb78693044.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>gqtch19w8n</Fingerprint>
-      <Integrity>ePlE2zUJNNSSVaLrj4Jz2h6/XqqtjXwyL59PJCWoZAs=</Integrity>
+      <Fingerprint>o9m0nhpti5</Fingerprint>
+      <Integrity>RGTh1GYHxM283X80nx1SJidopjwcJSUrcMQkAQ7bf0Q=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Lectures\Lecture1.pdf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Vision\Sections\5fea3571-4357-4ca3-b01c-4cdb78693044.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Lectures\Lecture2.pdf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Vision\Sections\a345ac0d-2d14-4115-b2c2-9254ea0e6cf7.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/Network/Lectures/Lecture2.pdf</RelativePath>
+      <RelativePath>Files/Computer Vision/Sections/a345ac0d-2d14-4115-b2c2-9254ea0e6cf7.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>z7nf666bn1</Fingerprint>
-      <Integrity>sR6ZtYtz5c/EK+P46g3ambsWf/mWpcKSftM3dyhya3E=</Integrity>
+      <Fingerprint>9o99qnl6c0</Fingerprint>
+      <Integrity>OX+j9RTP0n8Uimg45IXD/zOeGkr6j6fAe5hP6PyMnnY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Lectures\Lecture2.pdf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Vision\Sections\a345ac0d-2d14-4115-b2c2-9254ea0e6cf7.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Lectures\Lecture3.pdf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Vision\Sections\ac7de89d-8b5e-42a5-a25c-09bab5bc85bf.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/Network/Lectures/Lecture3.pdf</RelativePath>
+      <RelativePath>Files/Computer Vision/Sections/ac7de89d-8b5e-42a5-a25c-09bab5bc85bf.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ddmtfaaeyv</Fingerprint>
-      <Integrity>gQ0cg127zxM3vpVuiuFs0JGsxrBLQXN4m/Iay71szD0=</Integrity>
+      <Fingerprint>xad17zlfef</Fingerprint>
+      <Integrity>ZyObZnQepMGNM4mvpWnKDMgwe6/lR4x7ANxUCW6iiPk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Lectures\Lecture3.pdf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Vision\Sections\ac7de89d-8b5e-42a5-a25c-09bab5bc85bf.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Lectures\Lecture4.pdf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Vision\Sections\ad3fca72-f8f5-46dc-aa3d-b9cf8e0f9f1e.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/Network/Lectures/Lecture4.pdf</RelativePath>
+      <RelativePath>Files/Computer Vision/Sections/ad3fca72-f8f5-46dc-aa3d-b9cf8e0f9f1e.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>22b1i0d7ic</Fingerprint>
-      <Integrity>xi/YcgiaXRj8y2D/l6ujrYWG3Of4DQOgBl/+yx9+xn8=</Integrity>
+      <Fingerprint>0ls45uadjc</Fingerprint>
+      <Integrity>tKZ1KvuONzRLcBMjFxlN/Chcw1dpY4JlNKPsfjRfVUA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Lectures\Lecture4.pdf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Computer Vision\Sections\ad3fca72-f8f5-46dc-aa3d-b9cf8e0f9f1e.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Sections\Section1.pdf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Lectures\91ab1b6e-8547-45fa-bee3-391426186a48.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/Network/Sections/Section1.pdf</RelativePath>
+      <RelativePath>Files/Network/Lectures/91ab1b6e-8547-45fa-bee3-391426186a48.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ka3k7pk6mq</Fingerprint>
-      <Integrity>VIdDhw20VIKJX5cfmM3it3gZ11pfetEMoSK8SN0uvz8=</Integrity>
+      <Fingerprint>fdrplzo5kz</Fingerprint>
+      <Integrity>07dxaq3/jZwbzJ9Y7PVjnjvKhOReqj1h6en/h/W8T3g=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Sections\Section1.pdf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Lectures\91ab1b6e-8547-45fa-bee3-391426186a48.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Sections\Section2.pdf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Lectures\b12f40a5-84ad-4322-af13-c75eccf91442.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/Network/Sections/Section2.pdf</RelativePath>
+      <RelativePath>Files/Network/Lectures/b12f40a5-84ad-4322-af13-c75eccf91442.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>dpzzq7391p</Fingerprint>
-      <Integrity>geXwTWFv2M0CMV/gueO5HN2Mm7zJLJ/zGB8cwqvAdzM=</Integrity>
+      <Fingerprint>acv0qzqiv6</Fingerprint>
+      <Integrity>qoSu2mvbOsldAC9xCSos0ldLOArfnP6LYmcwYaUONKc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Sections\Section2.pdf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Lectures\b12f40a5-84ad-4322-af13-c75eccf91442.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Sections\Section3.pdf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Lectures\e2d8743c-0cde-4b1a-a7d6-7d3ad65f82d6.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/Network/Sections/Section3.pdf</RelativePath>
+      <RelativePath>Files/Network/Lectures/e2d8743c-0cde-4b1a-a7d6-7d3ad65f82d6.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>oy6wkng6he</Fingerprint>
-      <Integrity>QLuLsxwxmB1nlSVtTBLOh1R78ud3BUrTsMqkhK70+lU=</Integrity>
+      <Fingerprint>q9tbe0szys</Fingerprint>
+      <Integrity>7rZ5NTvs8/14rk/QRgI3iPIIdZ9/5+9zwVct4ffdzTU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Sections\Section3.pdf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Lectures\e2d8743c-0cde-4b1a-a7d6-7d3ad65f82d6.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Sections\Section4.pdf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Lectures\fc6052cb-2600-4c89-8ba1-e727ed644aa4.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Files/Network/Sections/Section4.pdf</RelativePath>
+      <RelativePath>Files/Network/Lectures/fc6052cb-2600-4c89-8ba1-e727ed644aa4.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>fq4y1iuz0c</Fingerprint>
-      <Integrity>dxXoxtZUz/JXEKXcBgET2QzWuo6F8K8RhIkS457dQLo=</Integrity>
+      <Fingerprint>4br52dyx2a</Fingerprint>
+      <Integrity>gPBNWyjaiIaIuc6muea/gWNQg22rIdhSJUnsQWHt7ac=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Sections\Section4.pdf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Lectures\fc6052cb-2600-4c89-8ba1-e727ed644aa4.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\AI.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Sections\3eaf8195-0288-4ff9-90f5-574deffd476c.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Images/AI.jpg</RelativePath>
+      <RelativePath>Files/Network/Sections/3eaf8195-0288-4ff9-90f5-574deffd476c.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>zjm2qv52qi</Fingerprint>
-      <Integrity>r+RfCFvJPMI8GPEphLTspk3QeMXgmN3lUufHe2EHS04=</Integrity>
+      <Fingerprint>hakaxxllx2</Fingerprint>
+      <Integrity>xwWrigQk4FWvifVfd+KcU6dUijzL4VTBtKOf6v65RVs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\AI.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Sections\3eaf8195-0288-4ff9-90f5-574deffd476c.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Compiler\2882c804-26a2-45c0-8c47-144a76f2d2cd.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Sections\5c687e14-bdc3-4e3e-880f-edfe416c4fff.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Images/Compiler/2882c804-26a2-45c0-8c47-144a76f2d2cd.png</RelativePath>
+      <RelativePath>Files/Network/Sections/5c687e14-bdc3-4e3e-880f-edfe416c4fff.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>aouqpdbz58</Fingerprint>
-      <Integrity>NmWU6DCbEKDNVw+HXG5aRb3qGfneJxGnEQZDC3Jg0QU=</Integrity>
+      <Fingerprint>43cw32j4ne</Fingerprint>
+      <Integrity>MGBfwGXob5Qu/SJb+dZGfdHokmiLk3gvGmkFx4Vvt2s=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Compiler\2882c804-26a2-45c0-8c47-144a76f2d2cd.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Sections\5c687e14-bdc3-4e3e-880f-edfe416c4fff.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ComputerVision.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Sections\67461ed1-1c37-4efa-8d73-245dcf619957.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Images/ComputerVision.jpg</RelativePath>
+      <RelativePath>Files/Network/Sections/67461ed1-1c37-4efa-8d73-245dcf619957.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>x9fnzp0dtg</Fingerprint>
-      <Integrity>FfSBWwnTn+5oIsTp/WnPALwCe7Kht69Zb4t4hXYpvLc=</Integrity>
+      <Fingerprint>m82ff2qwzq</Fingerprint>
+      <Integrity>FhDLI7JXSJdiAjeIb5n5VumQY0O0eqahBKMkKNjdWAc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ComputerVision.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Sections\67461ed1-1c37-4efa-8d73-245dcf619957.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Network.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Sections\f8f5dd22-93a1-44ca-a753-96b7183671c8.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Images/Network.jpg</RelativePath>
+      <RelativePath>Files/Network/Sections/f8f5dd22-93a1-44ca-a753-96b7183671c8.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>7cbfavm6dj</Fingerprint>
-      <Integrity>J+1eoNkp07dMPyrORqyh5V0IQ+x0HtZu4Gak4yKOxrQ=</Integrity>
+      <Fingerprint>uw129c21zf</Fingerprint>
+      <Integrity>0tB8p8hTVUjcuXFVMP0q8jAhh2pu8U8O+ywJ8yk8eJU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Network.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\Network\Sections\f8f5dd22-93a1-44ca-a753-96b7183671c8.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Security.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\11a91ef6-9826-4037-bbce-004ef900d118.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>Gradutionproject</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Gradutionproject</BasePath>
-      <RelativePath>Images/Security.jpg</RelativePath>
+      <RelativePath>Images/11a91ef6-9826-4037-bbce-004ef900d118.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -628,7 +592,61 @@
       <Integrity>DeiK7JK3xU5HH7Qu5toF/S7epthMUac/26KF9rzgjQI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Security.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\11a91ef6-9826-4037-bbce-004ef900d118.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\48d88708-a12a-4e13-8bc0-c6c87c2d3720.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Gradutionproject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Gradutionproject</BasePath>
+      <RelativePath>Images/48d88708-a12a-4e13-8bc0-c6c87c2d3720.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>zjm2qv52qi</Fingerprint>
+      <Integrity>r+RfCFvJPMI8GPEphLTspk3QeMXgmN3lUufHe2EHS04=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\48d88708-a12a-4e13-8bc0-c6c87c2d3720.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\61b54702-4025-4b8c-9506-0d5925595e47.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Gradutionproject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Gradutionproject</BasePath>
+      <RelativePath>Images/61b54702-4025-4b8c-9506-0d5925595e47.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>7cbfavm6dj</Fingerprint>
+      <Integrity>J+1eoNkp07dMPyrORqyh5V0IQ+x0HtZu4Gak4yKOxrQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\61b54702-4025-4b8c-9506-0d5925595e47.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\f8befc46-e3da-4ce4-a12a-d22f2d7f4939.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Gradutionproject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Gradutionproject</BasePath>
+      <RelativePath>Images/f8befc46-e3da-4ce4-a12a-d22f2d7f4939.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>x9fnzp0dtg</Fingerprint>
+      <Integrity>FfSBWwnTn+5oIsTp/WnPALwCe7Kht69Zb4t4hXYpvLc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\f8befc46-e3da-4ce4-a12a-d22f2d7f4939.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

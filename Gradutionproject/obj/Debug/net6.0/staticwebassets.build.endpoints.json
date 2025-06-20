@@ -3,8 +3,8 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
-      "Route": "Files/AI/Lectures/Lecture1.pdf",
-      "AssetFile": "Files/AI/Lectures/Lecture1.pdf",
+      "Route": "Files/AI/Lectures/4b405612-2c0a-43dd-9832-db2948b3b1b8.pdf",
+      "AssetFile": "Files/AI/Lectures/4b405612-2c0a-43dd-9832-db2948b3b1b8.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -29,7 +29,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:47:01 GMT"
         }
       ],
       "EndpointProperties": [
@@ -40,8 +40,8 @@
       ]
     },
     {
-      "Route": "Files/AI/Lectures/Lecture1.uarq1ht78m.pdf",
-      "AssetFile": "Files/AI/Lectures/Lecture1.pdf",
+      "Route": "Files/AI/Lectures/4b405612-2c0a-43dd-9832-db2948b3b1b8.uarq1ht78m.pdf",
+      "AssetFile": "Files/AI/Lectures/4b405612-2c0a-43dd-9832-db2948b3b1b8.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -66,7 +66,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:47:01 GMT"
         }
       ],
       "EndpointProperties": [
@@ -80,177 +80,13 @@
         },
         {
           "Name": "label",
-          "Value": "Files/AI/Lectures/Lecture1.pdf"
+          "Value": "Files/AI/Lectures/4b405612-2c0a-43dd-9832-db2948b3b1b8.pdf"
         }
       ]
     },
     {
-      "Route": "Files/AI/Lectures/Lecture2.b02d6de7sf.pdf",
-      "AssetFile": "Files/AI/Lectures/Lecture2.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5298120"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"awWsCBVHThEqGmS32dby5eHwsm2LeI8aug6FLVgICVg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "b02d6de7sf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-awWsCBVHThEqGmS32dby5eHwsm2LeI8aug6FLVgICVg="
-        },
-        {
-          "Name": "label",
-          "Value": "Files/AI/Lectures/Lecture2.pdf"
-        }
-      ]
-    },
-    {
-      "Route": "Files/AI/Lectures/Lecture2.pdf",
-      "AssetFile": "Files/AI/Lectures/Lecture2.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5298120"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"awWsCBVHThEqGmS32dby5eHwsm2LeI8aug6FLVgICVg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-awWsCBVHThEqGmS32dby5eHwsm2LeI8aug6FLVgICVg="
-        }
-      ]
-    },
-    {
-      "Route": "Files/AI/Lectures/Lecture3.9zo6k6g925.pdf",
-      "AssetFile": "Files/AI/Lectures/Lecture3.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "889375"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"C5AjZp6IdVu5h2mkvxARLdDGr18h5Rht1u0jJZ6o3FE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9zo6k6g925"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-C5AjZp6IdVu5h2mkvxARLdDGr18h5Rht1u0jJZ6o3FE="
-        },
-        {
-          "Name": "label",
-          "Value": "Files/AI/Lectures/Lecture3.pdf"
-        }
-      ]
-    },
-    {
-      "Route": "Files/AI/Lectures/Lecture3.pdf",
-      "AssetFile": "Files/AI/Lectures/Lecture3.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "889375"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"C5AjZp6IdVu5h2mkvxARLdDGr18h5Rht1u0jJZ6o3FE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-C5AjZp6IdVu5h2mkvxARLdDGr18h5Rht1u0jJZ6o3FE="
-        }
-      ]
-    },
-    {
-      "Route": "Files/AI/Lectures/Lecture4.2s850lzezr.pdf",
-      "AssetFile": "Files/AI/Lectures/Lecture4.pdf",
+      "Route": "Files/AI/Lectures/5415aff2-1cdf-4a2c-852d-61cc4c86f6d5.2s850lzezr.pdf",
+      "AssetFile": "Files/AI/Lectures/5415aff2-1cdf-4a2c-852d-61cc4c86f6d5.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -275,7 +111,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:48:24 GMT"
         }
       ],
       "EndpointProperties": [
@@ -289,13 +125,13 @@
         },
         {
           "Name": "label",
-          "Value": "Files/AI/Lectures/Lecture4.pdf"
+          "Value": "Files/AI/Lectures/5415aff2-1cdf-4a2c-852d-61cc4c86f6d5.pdf"
         }
       ]
     },
     {
-      "Route": "Files/AI/Lectures/Lecture4.pdf",
-      "AssetFile": "Files/AI/Lectures/Lecture4.pdf",
+      "Route": "Files/AI/Lectures/5415aff2-1cdf-4a2c-852d-61cc4c86f6d5.pdf",
+      "AssetFile": "Files/AI/Lectures/5415aff2-1cdf-4a2c-852d-61cc4c86f6d5.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -320,7 +156,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:48:24 GMT"
         }
       ],
       "EndpointProperties": [
@@ -331,8 +167,8 @@
       ]
     },
     {
-      "Route": "Files/AI/Sections/Section1.9k13qor598.pdf",
-      "AssetFile": "Files/AI/Sections/Section1.pdf",
+      "Route": "Files/AI/Lectures/abbb43f3-c1c7-4ec9-adc8-f77a4e21e8f6.b02d6de7sf.pdf",
+      "AssetFile": "Files/AI/Lectures/abbb43f3-c1c7-4ec9-adc8-f77a4e21e8f6.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -345,7 +181,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1145778"
+          "Value": "5298120"
         },
         {
           "Name": "Content-Type",
@@ -353,31 +189,31 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qdTyhIy3pjdy7eDUj3vFYcYFOZPZCaAA65le9a7VdI4=\""
+          "Value": "\"awWsCBVHThEqGmS32dby5eHwsm2LeI8aug6FLVgICVg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:47:20 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9k13qor598"
+          "Value": "b02d6de7sf"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-qdTyhIy3pjdy7eDUj3vFYcYFOZPZCaAA65le9a7VdI4="
+          "Value": "sha256-awWsCBVHThEqGmS32dby5eHwsm2LeI8aug6FLVgICVg="
         },
         {
           "Name": "label",
-          "Value": "Files/AI/Sections/Section1.pdf"
+          "Value": "Files/AI/Lectures/abbb43f3-c1c7-4ec9-adc8-f77a4e21e8f6.pdf"
         }
       ]
     },
     {
-      "Route": "Files/AI/Sections/Section1.pdf",
-      "AssetFile": "Files/AI/Sections/Section1.pdf",
+      "Route": "Files/AI/Lectures/abbb43f3-c1c7-4ec9-adc8-f77a4e21e8f6.pdf",
+      "AssetFile": "Files/AI/Lectures/abbb43f3-c1c7-4ec9-adc8-f77a4e21e8f6.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -390,7 +226,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1145778"
+          "Value": "5298120"
         },
         {
           "Name": "Content-Type",
@@ -398,60 +234,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qdTyhIy3pjdy7eDUj3vFYcYFOZPZCaAA65le9a7VdI4=\""
+          "Value": "\"awWsCBVHThEqGmS32dby5eHwsm2LeI8aug6FLVgICVg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:47:20 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qdTyhIy3pjdy7eDUj3vFYcYFOZPZCaAA65le9a7VdI4="
+          "Value": "sha256-awWsCBVHThEqGmS32dby5eHwsm2LeI8aug6FLVgICVg="
         }
       ]
     },
     {
-      "Route": "Files/AI/Sections/Section2.pdf",
-      "AssetFile": "Files/AI/Sections/Section2.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "997193"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PnE0DVvrjXm6ScSq9chawxWk3rIfbsef7efhZOgh/M0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-PnE0DVvrjXm6ScSq9chawxWk3rIfbsef7efhZOgh/M0="
-        }
-      ]
-    },
-    {
-      "Route": "Files/AI/Sections/Section2.ycfkk4ql7m.pdf",
-      "AssetFile": "Files/AI/Sections/Section2.pdf",
+      "Route": "Files/AI/Lectures/cc14f346-0f2d-497e-87d3-f2eeb719dbbd.9zo6k6g925.pdf",
+      "AssetFile": "Files/AI/Lectures/cc14f346-0f2d-497e-87d3-f2eeb719dbbd.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -464,7 +263,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "997193"
+          "Value": "889375"
         },
         {
           "Name": "Content-Type",
@@ -472,31 +271,68 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PnE0DVvrjXm6ScSq9chawxWk3rIfbsef7efhZOgh/M0=\""
+          "Value": "\"C5AjZp6IdVu5h2mkvxARLdDGr18h5Rht1u0jJZ6o3FE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:47:45 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ycfkk4ql7m"
+          "Value": "9zo6k6g925"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-PnE0DVvrjXm6ScSq9chawxWk3rIfbsef7efhZOgh/M0="
+          "Value": "sha256-C5AjZp6IdVu5h2mkvxARLdDGr18h5Rht1u0jJZ6o3FE="
         },
         {
           "Name": "label",
-          "Value": "Files/AI/Sections/Section2.pdf"
+          "Value": "Files/AI/Lectures/cc14f346-0f2d-497e-87d3-f2eeb719dbbd.pdf"
         }
       ]
     },
     {
-      "Route": "Files/AI/Sections/Section3.aei0dnd87x.pdf",
-      "AssetFile": "Files/AI/Sections/Section3.pdf",
+      "Route": "Files/AI/Lectures/cc14f346-0f2d-497e-87d3-f2eeb719dbbd.pdf",
+      "AssetFile": "Files/AI/Lectures/cc14f346-0f2d-497e-87d3-f2eeb719dbbd.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "889375"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C5AjZp6IdVu5h2mkvxARLdDGr18h5Rht1u0jJZ6o3FE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 23:47:45 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C5AjZp6IdVu5h2mkvxARLdDGr18h5Rht1u0jJZ6o3FE="
+        }
+      ]
+    },
+    {
+      "Route": "Files/AI/Sections/019712ff-decd-428d-bc6d-06533d66e3c5.aei0dnd87x.pdf",
+      "AssetFile": "Files/AI/Sections/019712ff-decd-428d-bc6d-06533d66e3c5.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -521,7 +357,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:49:45 GMT"
         }
       ],
       "EndpointProperties": [
@@ -535,13 +371,13 @@
         },
         {
           "Name": "label",
-          "Value": "Files/AI/Sections/Section3.pdf"
+          "Value": "Files/AI/Sections/019712ff-decd-428d-bc6d-06533d66e3c5.pdf"
         }
       ]
     },
     {
-      "Route": "Files/AI/Sections/Section3.pdf",
-      "AssetFile": "Files/AI/Sections/Section3.pdf",
+      "Route": "Files/AI/Sections/019712ff-decd-428d-bc6d-06533d66e3c5.pdf",
+      "AssetFile": "Files/AI/Sections/019712ff-decd-428d-bc6d-06533d66e3c5.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -566,7 +402,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:49:45 GMT"
         }
       ],
       "EndpointProperties": [
@@ -577,8 +413,90 @@
       ]
     },
     {
-      "Route": "Files/AI/Sections/Section4.km6uu5yydh.pdf",
-      "AssetFile": "Files/AI/Sections/Section4.pdf",
+      "Route": "Files/AI/Sections/a4cc3569-1408-4954-a7d2-ddb8c777dac2.9k13qor598.pdf",
+      "AssetFile": "Files/AI/Sections/a4cc3569-1408-4954-a7d2-ddb8c777dac2.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1145778"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qdTyhIy3pjdy7eDUj3vFYcYFOZPZCaAA65le9a7VdI4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 23:49:28 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9k13qor598"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qdTyhIy3pjdy7eDUj3vFYcYFOZPZCaAA65le9a7VdI4="
+        },
+        {
+          "Name": "label",
+          "Value": "Files/AI/Sections/a4cc3569-1408-4954-a7d2-ddb8c777dac2.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Files/AI/Sections/a4cc3569-1408-4954-a7d2-ddb8c777dac2.pdf",
+      "AssetFile": "Files/AI/Sections/a4cc3569-1408-4954-a7d2-ddb8c777dac2.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1145778"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qdTyhIy3pjdy7eDUj3vFYcYFOZPZCaAA65le9a7VdI4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 23:49:28 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qdTyhIy3pjdy7eDUj3vFYcYFOZPZCaAA65le9a7VdI4="
+        }
+      ]
+    },
+    {
+      "Route": "Files/AI/Sections/e228e886-d5f2-4371-9dee-5c06b1b189c4.km6uu5yydh.pdf",
+      "AssetFile": "Files/AI/Sections/e228e886-d5f2-4371-9dee-5c06b1b189c4.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -603,7 +521,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:49:53 GMT"
         }
       ],
       "EndpointProperties": [
@@ -617,13 +535,13 @@
         },
         {
           "Name": "label",
-          "Value": "Files/AI/Sections/Section4.pdf"
+          "Value": "Files/AI/Sections/e228e886-d5f2-4371-9dee-5c06b1b189c4.pdf"
         }
       ]
     },
     {
-      "Route": "Files/AI/Sections/Section4.pdf",
-      "AssetFile": "Files/AI/Sections/Section4.pdf",
+      "Route": "Files/AI/Sections/e228e886-d5f2-4371-9dee-5c06b1b189c4.pdf",
+      "AssetFile": "Files/AI/Sections/e228e886-d5f2-4371-9dee-5c06b1b189c4.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -648,7 +566,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:49:53 GMT"
         }
       ],
       "EndpointProperties": [
@@ -659,53 +577,8 @@
       ]
     },
     {
-      "Route": "Files/Computer Security/Lectures/Lecture1.994zagfkjj.pdf",
-      "AssetFile": "Files/Computer Security/Lectures/Lecture1.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3694056"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"TXrx+ebg/WNcJnRIm36HjWOZ2aI6w0NK2ysmJU2QBd4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "994zagfkjj"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-TXrx+ebg/WNcJnRIm36HjWOZ2aI6w0NK2ysmJU2QBd4="
-        },
-        {
-          "Name": "label",
-          "Value": "Files/Computer Security/Lectures/Lecture1.pdf"
-        }
-      ]
-    },
-    {
-      "Route": "Files/Computer Security/Lectures/Lecture1.pdf",
-      "AssetFile": "Files/Computer Security/Lectures/Lecture1.pdf",
+      "Route": "Files/AI/Sections/fa4999af-2b35-4c2c-8bbb-0e866d60350f.pdf",
+      "AssetFile": "Files/AI/Sections/fa4999af-2b35-4c2c-8bbb-0e866d60350f.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -718,7 +591,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3694056"
+          "Value": "997193"
         },
         {
           "Name": "Content-Type",
@@ -726,23 +599,68 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TXrx+ebg/WNcJnRIm36HjWOZ2aI6w0NK2ysmJU2QBd4=\""
+          "Value": "\"PnE0DVvrjXm6ScSq9chawxWk3rIfbsef7efhZOgh/M0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:49:37 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-TXrx+ebg/WNcJnRIm36HjWOZ2aI6w0NK2ysmJU2QBd4="
+          "Value": "sha256-PnE0DVvrjXm6ScSq9chawxWk3rIfbsef7efhZOgh/M0="
         }
       ]
     },
     {
-      "Route": "Files/Computer Security/Lectures/Lecture2.nga2fch7st.pdf",
-      "AssetFile": "Files/Computer Security/Lectures/Lecture2.pdf",
+      "Route": "Files/AI/Sections/fa4999af-2b35-4c2c-8bbb-0e866d60350f.ycfkk4ql7m.pdf",
+      "AssetFile": "Files/AI/Sections/fa4999af-2b35-4c2c-8bbb-0e866d60350f.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "997193"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PnE0DVvrjXm6ScSq9chawxWk3rIfbsef7efhZOgh/M0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 23:49:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ycfkk4ql7m"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PnE0DVvrjXm6ScSq9chawxWk3rIfbsef7efhZOgh/M0="
+        },
+        {
+          "Name": "label",
+          "Value": "Files/AI/Sections/fa4999af-2b35-4c2c-8bbb-0e866d60350f.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Files/Computer Security/Lectures/6aadfdaa-6858-434b-a85a-97b8529526d9.nga2fch7st.pdf",
+      "AssetFile": "Files/Computer Security/Lectures/6aadfdaa-6858-434b-a85a-97b8529526d9.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -767,7 +685,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:54:57 GMT"
         }
       ],
       "EndpointProperties": [
@@ -781,13 +699,13 @@
         },
         {
           "Name": "label",
-          "Value": "Files/Computer Security/Lectures/Lecture2.pdf"
+          "Value": "Files/Computer Security/Lectures/6aadfdaa-6858-434b-a85a-97b8529526d9.pdf"
         }
       ]
     },
     {
-      "Route": "Files/Computer Security/Lectures/Lecture2.pdf",
-      "AssetFile": "Files/Computer Security/Lectures/Lecture2.pdf",
+      "Route": "Files/Computer Security/Lectures/6aadfdaa-6858-434b-a85a-97b8529526d9.pdf",
+      "AssetFile": "Files/Computer Security/Lectures/6aadfdaa-6858-434b-a85a-97b8529526d9.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -812,7 +730,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:54:57 GMT"
         }
       ],
       "EndpointProperties": [
@@ -823,8 +741,8 @@
       ]
     },
     {
-      "Route": "Files/Computer Security/Lectures/Lecture3.3kmp6eku53.pdf",
-      "AssetFile": "Files/Computer Security/Lectures/Lecture3.pdf",
+      "Route": "Files/Computer Security/Lectures/b1696d95-538a-4f70-803f-1fd6b6a66e72.994zagfkjj.pdf",
+      "AssetFile": "Files/Computer Security/Lectures/b1696d95-538a-4f70-803f-1fd6b6a66e72.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -837,7 +755,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3107621"
+          "Value": "3694056"
         },
         {
           "Name": "Content-Type",
@@ -845,31 +763,31 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jUPl55258jCxYiE7UZGLArup8WzmCOtJqQWwmUvOQks=\""
+          "Value": "\"TXrx+ebg/WNcJnRIm36HjWOZ2aI6w0NK2ysmJU2QBd4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:54:24 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3kmp6eku53"
+          "Value": "994zagfkjj"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jUPl55258jCxYiE7UZGLArup8WzmCOtJqQWwmUvOQks="
+          "Value": "sha256-TXrx+ebg/WNcJnRIm36HjWOZ2aI6w0NK2ysmJU2QBd4="
         },
         {
           "Name": "label",
-          "Value": "Files/Computer Security/Lectures/Lecture3.pdf"
+          "Value": "Files/Computer Security/Lectures/b1696d95-538a-4f70-803f-1fd6b6a66e72.pdf"
         }
       ]
     },
     {
-      "Route": "Files/Computer Security/Lectures/Lecture3.pdf",
-      "AssetFile": "Files/Computer Security/Lectures/Lecture3.pdf",
+      "Route": "Files/Computer Security/Lectures/b1696d95-538a-4f70-803f-1fd6b6a66e72.pdf",
+      "AssetFile": "Files/Computer Security/Lectures/b1696d95-538a-4f70-803f-1fd6b6a66e72.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -882,7 +800,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3107621"
+          "Value": "3694056"
         },
         {
           "Name": "Content-Type",
@@ -890,23 +808,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jUPl55258jCxYiE7UZGLArup8WzmCOtJqQWwmUvOQks=\""
+          "Value": "\"TXrx+ebg/WNcJnRIm36HjWOZ2aI6w0NK2ysmJU2QBd4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:54:24 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jUPl55258jCxYiE7UZGLArup8WzmCOtJqQWwmUvOQks="
+          "Value": "sha256-TXrx+ebg/WNcJnRIm36HjWOZ2aI6w0NK2ysmJU2QBd4="
         }
       ]
     },
     {
-      "Route": "Files/Computer Security/Lectures/Lecture4.h9o7un13ld.pdf",
-      "AssetFile": "Files/Computer Security/Lectures/Lecture4.pdf",
+      "Route": "Files/Computer Security/Lectures/ccdb630a-12f9-4cea-9e44-ae0400c61f47.h9o7un13ld.pdf",
+      "AssetFile": "Files/Computer Security/Lectures/ccdb630a-12f9-4cea-9e44-ae0400c61f47.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -931,7 +849,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:55:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -945,13 +863,13 @@
         },
         {
           "Name": "label",
-          "Value": "Files/Computer Security/Lectures/Lecture4.pdf"
+          "Value": "Files/Computer Security/Lectures/ccdb630a-12f9-4cea-9e44-ae0400c61f47.pdf"
         }
       ]
     },
     {
-      "Route": "Files/Computer Security/Lectures/Lecture4.pdf",
-      "AssetFile": "Files/Computer Security/Lectures/Lecture4.pdf",
+      "Route": "Files/Computer Security/Lectures/ccdb630a-12f9-4cea-9e44-ae0400c61f47.pdf",
+      "AssetFile": "Files/Computer Security/Lectures/ccdb630a-12f9-4cea-9e44-ae0400c61f47.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -976,7 +894,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:55:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -987,45 +905,8 @@
       ]
     },
     {
-      "Route": "Files/Computer Security/Sections/Section1.pdf",
-      "AssetFile": "Files/Computer Security/Sections/Section1.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1238243"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KYIqtkF17FSJPZBOzzaoUWVk6u1JKk5HAHwYsS+5qeQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-KYIqtkF17FSJPZBOzzaoUWVk6u1JKk5HAHwYsS+5qeQ="
-        }
-      ]
-    },
-    {
-      "Route": "Files/Computer Security/Sections/Section1.zhtmvsp1en.pdf",
-      "AssetFile": "Files/Computer Security/Sections/Section1.pdf",
+      "Route": "Files/Computer Security/Lectures/d2cd31cb-8021-40c7-80b7-e21ad2d4a390.3kmp6eku53.pdf",
+      "AssetFile": "Files/Computer Security/Lectures/d2cd31cb-8021-40c7-80b7-e21ad2d4a390.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1038,7 +919,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1238243"
+          "Value": "3107621"
         },
         {
           "Name": "Content-Type",
@@ -1046,31 +927,68 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KYIqtkF17FSJPZBOzzaoUWVk6u1JKk5HAHwYsS+5qeQ=\""
+          "Value": "\"jUPl55258jCxYiE7UZGLArup8WzmCOtJqQWwmUvOQks=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:55:03 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zhtmvsp1en"
+          "Value": "3kmp6eku53"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KYIqtkF17FSJPZBOzzaoUWVk6u1JKk5HAHwYsS+5qeQ="
+          "Value": "sha256-jUPl55258jCxYiE7UZGLArup8WzmCOtJqQWwmUvOQks="
         },
         {
           "Name": "label",
-          "Value": "Files/Computer Security/Sections/Section1.pdf"
+          "Value": "Files/Computer Security/Lectures/d2cd31cb-8021-40c7-80b7-e21ad2d4a390.pdf"
         }
       ]
     },
     {
-      "Route": "Files/Computer Security/Sections/Section2.dtpwoe3alb.pdf",
-      "AssetFile": "Files/Computer Security/Sections/Section2.pdf",
+      "Route": "Files/Computer Security/Lectures/d2cd31cb-8021-40c7-80b7-e21ad2d4a390.pdf",
+      "AssetFile": "Files/Computer Security/Lectures/d2cd31cb-8021-40c7-80b7-e21ad2d4a390.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3107621"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jUPl55258jCxYiE7UZGLArup8WzmCOtJqQWwmUvOQks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 23:55:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jUPl55258jCxYiE7UZGLArup8WzmCOtJqQWwmUvOQks="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Computer Security/Sections/2e5cf803-32ff-47a9-a554-57a9e9668212.dtpwoe3alb.pdf",
+      "AssetFile": "Files/Computer Security/Sections/2e5cf803-32ff-47a9-a554-57a9e9668212.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1095,7 +1013,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:58:43 GMT"
         }
       ],
       "EndpointProperties": [
@@ -1109,13 +1027,13 @@
         },
         {
           "Name": "label",
-          "Value": "Files/Computer Security/Sections/Section2.pdf"
+          "Value": "Files/Computer Security/Sections/2e5cf803-32ff-47a9-a554-57a9e9668212.pdf"
         }
       ]
     },
     {
-      "Route": "Files/Computer Security/Sections/Section2.pdf",
-      "AssetFile": "Files/Computer Security/Sections/Section2.pdf",
+      "Route": "Files/Computer Security/Sections/2e5cf803-32ff-47a9-a554-57a9e9668212.pdf",
+      "AssetFile": "Files/Computer Security/Sections/2e5cf803-32ff-47a9-a554-57a9e9668212.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1140,7 +1058,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:58:43 GMT"
         }
       ],
       "EndpointProperties": [
@@ -1151,90 +1069,8 @@
       ]
     },
     {
-      "Route": "Files/Computer Security/Sections/Section3.74thr3wx5w.pdf",
-      "AssetFile": "Files/Computer Security/Sections/Section3.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "783426"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"p9S9WYf7rkRd+18v3/Hm9ObTFTFQzfwa4z5DdcoIRe4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "74thr3wx5w"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-p9S9WYf7rkRd+18v3/Hm9ObTFTFQzfwa4z5DdcoIRe4="
-        },
-        {
-          "Name": "label",
-          "Value": "Files/Computer Security/Sections/Section3.pdf"
-        }
-      ]
-    },
-    {
-      "Route": "Files/Computer Security/Sections/Section3.pdf",
-      "AssetFile": "Files/Computer Security/Sections/Section3.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "783426"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"p9S9WYf7rkRd+18v3/Hm9ObTFTFQzfwa4z5DdcoIRe4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-p9S9WYf7rkRd+18v3/Hm9ObTFTFQzfwa4z5DdcoIRe4="
-        }
-      ]
-    },
-    {
-      "Route": "Files/Computer Security/Sections/Section4.pdf",
-      "AssetFile": "Files/Computer Security/Sections/Section4.pdf",
+      "Route": "Files/Computer Security/Sections/5431763d-a629-43c8-9f09-6b9c91223c8d.pdf",
+      "AssetFile": "Files/Computer Security/Sections/5431763d-a629-43c8-9f09-6b9c91223c8d.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1259,7 +1095,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:58:57 GMT"
         }
       ],
       "EndpointProperties": [
@@ -1270,8 +1106,8 @@
       ]
     },
     {
-      "Route": "Files/Computer Security/Sections/Section4.y2xix0r0nn.pdf",
-      "AssetFile": "Files/Computer Security/Sections/Section4.pdf",
+      "Route": "Files/Computer Security/Sections/5431763d-a629-43c8-9f09-6b9c91223c8d.y2xix0r0nn.pdf",
+      "AssetFile": "Files/Computer Security/Sections/5431763d-a629-43c8-9f09-6b9c91223c8d.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1296,7 +1132,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:58:57 GMT"
         }
       ],
       "EndpointProperties": [
@@ -1310,58 +1146,13 @@
         },
         {
           "Name": "label",
-          "Value": "Files/Computer Security/Sections/Section4.pdf"
+          "Value": "Files/Computer Security/Sections/5431763d-a629-43c8-9f09-6b9c91223c8d.pdf"
         }
       ]
     },
     {
-      "Route": "Files/Computer Vision/Lectures/Lecture1.a5t4c9sawc.pdf",
-      "AssetFile": "Files/Computer Vision/Lectures/Lecture1.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "547119"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"cgMleRoXYd7mCxmhx56Nhakdw1AU6hDrKC2HcNyVdHQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "a5t4c9sawc"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-cgMleRoXYd7mCxmhx56Nhakdw1AU6hDrKC2HcNyVdHQ="
-        },
-        {
-          "Name": "label",
-          "Value": "Files/Computer Vision/Lectures/Lecture1.pdf"
-        }
-      ]
-    },
-    {
-      "Route": "Files/Computer Vision/Lectures/Lecture1.pdf",
-      "AssetFile": "Files/Computer Vision/Lectures/Lecture1.pdf",
+      "Route": "Files/Computer Security/Sections/6c727aa3-78cb-4276-a9dd-4e726fd17b45.pdf",
+      "AssetFile": "Files/Computer Security/Sections/6c727aa3-78cb-4276-a9dd-4e726fd17b45.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1374,7 +1165,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "547119"
+          "Value": "1238243"
         },
         {
           "Name": "Content-Type",
@@ -1382,23 +1173,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cgMleRoXYd7mCxmhx56Nhakdw1AU6hDrKC2HcNyVdHQ=\""
+          "Value": "\"KYIqtkF17FSJPZBOzzaoUWVk6u1JKk5HAHwYsS+5qeQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:58:37 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cgMleRoXYd7mCxmhx56Nhakdw1AU6hDrKC2HcNyVdHQ="
+          "Value": "sha256-KYIqtkF17FSJPZBOzzaoUWVk6u1JKk5HAHwYsS+5qeQ="
         }
       ]
     },
     {
-      "Route": "Files/Computer Vision/Lectures/Lecture2.8620568wna.pdf",
-      "AssetFile": "Files/Computer Vision/Lectures/Lecture2.pdf",
+      "Route": "Files/Computer Security/Sections/6c727aa3-78cb-4276-a9dd-4e726fd17b45.zhtmvsp1en.pdf",
+      "AssetFile": "Files/Computer Security/Sections/6c727aa3-78cb-4276-a9dd-4e726fd17b45.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1411,7 +1202,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "592294"
+          "Value": "1238243"
         },
         {
           "Name": "Content-Type",
@@ -1419,31 +1210,76 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AIh/sxMRgd8Y9Iiu+mUt7SvOcRUv4cNkPHEv0+Oegls=\""
+          "Value": "\"KYIqtkF17FSJPZBOzzaoUWVk6u1JKk5HAHwYsS+5qeQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:58:37 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8620568wna"
+          "Value": "zhtmvsp1en"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-AIh/sxMRgd8Y9Iiu+mUt7SvOcRUv4cNkPHEv0+Oegls="
+          "Value": "sha256-KYIqtkF17FSJPZBOzzaoUWVk6u1JKk5HAHwYsS+5qeQ="
         },
         {
           "Name": "label",
-          "Value": "Files/Computer Vision/Lectures/Lecture2.pdf"
+          "Value": "Files/Computer Security/Sections/6c727aa3-78cb-4276-a9dd-4e726fd17b45.pdf"
         }
       ]
     },
     {
-      "Route": "Files/Computer Vision/Lectures/Lecture2.pdf",
-      "AssetFile": "Files/Computer Vision/Lectures/Lecture2.pdf",
+      "Route": "Files/Computer Security/Sections/f6181d9c-285c-47e5-a186-f54a6120d6c9.74thr3wx5w.pdf",
+      "AssetFile": "Files/Computer Security/Sections/f6181d9c-285c-47e5-a186-f54a6120d6c9.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "783426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p9S9WYf7rkRd+18v3/Hm9ObTFTFQzfwa4z5DdcoIRe4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 23:58:49 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "74thr3wx5w"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p9S9WYf7rkRd+18v3/Hm9ObTFTFQzfwa4z5DdcoIRe4="
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Computer Security/Sections/f6181d9c-285c-47e5-a186-f54a6120d6c9.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Files/Computer Security/Sections/f6181d9c-285c-47e5-a186-f54a6120d6c9.pdf",
+      "AssetFile": "Files/Computer Security/Sections/f6181d9c-285c-47e5-a186-f54a6120d6c9.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1456,7 +1292,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "592294"
+          "Value": "783426"
         },
         {
           "Name": "Content-Type",
@@ -1464,23 +1300,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AIh/sxMRgd8Y9Iiu+mUt7SvOcRUv4cNkPHEv0+Oegls=\""
+          "Value": "\"p9S9WYf7rkRd+18v3/Hm9ObTFTFQzfwa4z5DdcoIRe4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:58:49 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AIh/sxMRgd8Y9Iiu+mUt7SvOcRUv4cNkPHEv0+Oegls="
+          "Value": "sha256-p9S9WYf7rkRd+18v3/Hm9ObTFTFQzfwa4z5DdcoIRe4="
         }
       ]
     },
     {
-      "Route": "Files/Computer Vision/Lectures/Lecture3.pdf",
-      "AssetFile": "Files/Computer Vision/Lectures/Lecture3.pdf",
+      "Route": "Files/Computer Vision/Lectures/0aa6fb53-c807-4baa-942e-d25a5df3bc37.pdf",
+      "AssetFile": "Files/Computer Vision/Lectures/0aa6fb53-c807-4baa-942e-d25a5df3bc37.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1505,7 +1341,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Thu, 19 Jun 2025 00:54:44 GMT"
         }
       ],
       "EndpointProperties": [
@@ -1516,8 +1352,8 @@
       ]
     },
     {
-      "Route": "Files/Computer Vision/Lectures/Lecture3.yh6denooo1.pdf",
-      "AssetFile": "Files/Computer Vision/Lectures/Lecture3.pdf",
+      "Route": "Files/Computer Vision/Lectures/0aa6fb53-c807-4baa-942e-d25a5df3bc37.yh6denooo1.pdf",
+      "AssetFile": "Files/Computer Vision/Lectures/0aa6fb53-c807-4baa-942e-d25a5df3bc37.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1542,7 +1378,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Thu, 19 Jun 2025 00:54:44 GMT"
         }
       ],
       "EndpointProperties": [
@@ -1556,13 +1392,13 @@
         },
         {
           "Name": "label",
-          "Value": "Files/Computer Vision/Lectures/Lecture3.pdf"
+          "Value": "Files/Computer Vision/Lectures/0aa6fb53-c807-4baa-942e-d25a5df3bc37.pdf"
         }
       ]
     },
     {
-      "Route": "Files/Computer Vision/Sections/Section1.got0w8c3bl.pdf",
-      "AssetFile": "Files/Computer Vision/Sections/Section1.pdf",
+      "Route": "Files/Computer Vision/Lectures/60a4ee82-9c66-494d-9aaf-e67539e138e1.8620568wna.pdf",
+      "AssetFile": "Files/Computer Vision/Lectures/60a4ee82-9c66-494d-9aaf-e67539e138e1.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1575,7 +1411,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1252527"
+          "Value": "592294"
         },
         {
           "Name": "Content-Type",
@@ -1583,31 +1419,31 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wKnHAgjmwEG8AHT1jfV1S3aD2fJ4EyP1Sl43w205oTQ=\""
+          "Value": "\"AIh/sxMRgd8Y9Iiu+mUt7SvOcRUv4cNkPHEv0+Oegls=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Thu, 19 Jun 2025 00:54:38 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "got0w8c3bl"
+          "Value": "8620568wna"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wKnHAgjmwEG8AHT1jfV1S3aD2fJ4EyP1Sl43w205oTQ="
+          "Value": "sha256-AIh/sxMRgd8Y9Iiu+mUt7SvOcRUv4cNkPHEv0+Oegls="
         },
         {
           "Name": "label",
-          "Value": "Files/Computer Vision/Sections/Section1.pdf"
+          "Value": "Files/Computer Vision/Lectures/60a4ee82-9c66-494d-9aaf-e67539e138e1.pdf"
         }
       ]
     },
     {
-      "Route": "Files/Computer Vision/Sections/Section1.pdf",
-      "AssetFile": "Files/Computer Vision/Sections/Section1.pdf",
+      "Route": "Files/Computer Vision/Lectures/60a4ee82-9c66-494d-9aaf-e67539e138e1.pdf",
+      "AssetFile": "Files/Computer Vision/Lectures/60a4ee82-9c66-494d-9aaf-e67539e138e1.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1620,7 +1456,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1252527"
+          "Value": "592294"
         },
         {
           "Name": "Content-Type",
@@ -1628,23 +1464,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wKnHAgjmwEG8AHT1jfV1S3aD2fJ4EyP1Sl43w205oTQ=\""
+          "Value": "\"AIh/sxMRgd8Y9Iiu+mUt7SvOcRUv4cNkPHEv0+Oegls=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Thu, 19 Jun 2025 00:54:38 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wKnHAgjmwEG8AHT1jfV1S3aD2fJ4EyP1Sl43w205oTQ="
+          "Value": "sha256-AIh/sxMRgd8Y9Iiu+mUt7SvOcRUv4cNkPHEv0+Oegls="
         }
       ]
     },
     {
-      "Route": "Files/Computer Vision/Sections/Section2.mem4i3k8gc.pdf",
-      "AssetFile": "Files/Computer Vision/Sections/Section2.pdf",
+      "Route": "Files/Computer Vision/Lectures/f6c35a6c-4f53-43f2-94c8-e3c80084ef8f.a5t4c9sawc.pdf",
+      "AssetFile": "Files/Computer Vision/Lectures/f6c35a6c-4f53-43f2-94c8-e3c80084ef8f.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1657,7 +1493,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "472598"
+          "Value": "547119"
         },
         {
           "Name": "Content-Type",
@@ -1665,31 +1501,31 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bsjvwwboiLtqaoPR8/CrkbcwoqruGMn0hXgho2Oz1pg=\""
+          "Value": "\"cgMleRoXYd7mCxmhx56Nhakdw1AU6hDrKC2HcNyVdHQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Thu, 19 Jun 2025 00:54:28 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mem4i3k8gc"
+          "Value": "a5t4c9sawc"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-bsjvwwboiLtqaoPR8/CrkbcwoqruGMn0hXgho2Oz1pg="
+          "Value": "sha256-cgMleRoXYd7mCxmhx56Nhakdw1AU6hDrKC2HcNyVdHQ="
         },
         {
           "Name": "label",
-          "Value": "Files/Computer Vision/Sections/Section2.pdf"
+          "Value": "Files/Computer Vision/Lectures/f6c35a6c-4f53-43f2-94c8-e3c80084ef8f.pdf"
         }
       ]
     },
     {
-      "Route": "Files/Computer Vision/Sections/Section2.pdf",
-      "AssetFile": "Files/Computer Vision/Sections/Section2.pdf",
+      "Route": "Files/Computer Vision/Lectures/f6c35a6c-4f53-43f2-94c8-e3c80084ef8f.pdf",
+      "AssetFile": "Files/Computer Vision/Lectures/f6c35a6c-4f53-43f2-94c8-e3c80084ef8f.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1702,7 +1538,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "472598"
+          "Value": "547119"
         },
         {
           "Name": "Content-Type",
@@ -1710,68 +1546,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bsjvwwboiLtqaoPR8/CrkbcwoqruGMn0hXgho2Oz1pg=\""
+          "Value": "\"cgMleRoXYd7mCxmhx56Nhakdw1AU6hDrKC2HcNyVdHQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Thu, 19 Jun 2025 00:54:28 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bsjvwwboiLtqaoPR8/CrkbcwoqruGMn0hXgho2Oz1pg="
+          "Value": "sha256-cgMleRoXYd7mCxmhx56Nhakdw1AU6hDrKC2HcNyVdHQ="
         }
       ]
     },
     {
-      "Route": "Files/Computer Vision/Sections/Section3.lv0udb326m.pdf",
-      "AssetFile": "Files/Computer Vision/Sections/Section3.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "400118"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8UgPrB2roIlQwCms30eJ5UeSZQnWgB885916L8gjk5s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "lv0udb326m"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8UgPrB2roIlQwCms30eJ5UeSZQnWgB885916L8gjk5s="
-        },
-        {
-          "Name": "label",
-          "Value": "Files/Computer Vision/Sections/Section3.pdf"
-        }
-      ]
-    },
-    {
-      "Route": "Files/Computer Vision/Sections/Section3.pdf",
-      "AssetFile": "Files/Computer Vision/Sections/Section3.pdf",
+      "Route": "Files/Computer Vision/Sections/3e6e9aa5-3b8e-4007-ab8e-a49b8b9a1783.pdf",
+      "AssetFile": "Files/Computer Vision/Sections/3e6e9aa5-3b8e-4007-ab8e-a49b8b9a1783.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1784,7 +1575,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "400118"
+          "Value": "1337534"
         },
         {
           "Name": "Content-Type",
@@ -1792,23 +1583,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8UgPrB2roIlQwCms30eJ5UeSZQnWgB885916L8gjk5s=\""
+          "Value": "\"LdDb0JHUeTGjUDe6gOtlaVAblGvW8+aAjIK8wdjtqZ4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Thu, 19 Jun 2025 00:56:23 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8UgPrB2roIlQwCms30eJ5UeSZQnWgB885916L8gjk5s="
+          "Value": "sha256-LdDb0JHUeTGjUDe6gOtlaVAblGvW8+aAjIK8wdjtqZ4="
         }
       ]
     },
     {
-      "Route": "Files/Network/Lectures/Lecture1.gqtch19w8n.pdf",
-      "AssetFile": "Files/Network/Lectures/Lecture1.pdf",
+      "Route": "Files/Computer Vision/Sections/3e6e9aa5-3b8e-4007-ab8e-a49b8b9a1783.z0nxx3x645.pdf",
+      "AssetFile": "Files/Computer Vision/Sections/3e6e9aa5-3b8e-4007-ab8e-a49b8b9a1783.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1821,7 +1612,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4415605"
+          "Value": "1337534"
         },
         {
           "Name": "Content-Type",
@@ -1829,31 +1620,76 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ePlE2zUJNNSSVaLrj4Jz2h6/XqqtjXwyL59PJCWoZAs=\""
+          "Value": "\"LdDb0JHUeTGjUDe6gOtlaVAblGvW8+aAjIK8wdjtqZ4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Thu, 19 Jun 2025 00:56:23 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "gqtch19w8n"
+          "Value": "z0nxx3x645"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ePlE2zUJNNSSVaLrj4Jz2h6/XqqtjXwyL59PJCWoZAs="
+          "Value": "sha256-LdDb0JHUeTGjUDe6gOtlaVAblGvW8+aAjIK8wdjtqZ4="
         },
         {
           "Name": "label",
-          "Value": "Files/Network/Lectures/Lecture1.pdf"
+          "Value": "Files/Computer Vision/Sections/3e6e9aa5-3b8e-4007-ab8e-a49b8b9a1783.pdf"
         }
       ]
     },
     {
-      "Route": "Files/Network/Lectures/Lecture1.pdf",
-      "AssetFile": "Files/Network/Lectures/Lecture1.pdf",
+      "Route": "Files/Computer Vision/Sections/5fea3571-4357-4ca3-b01c-4cdb78693044.o9m0nhpti5.pdf",
+      "AssetFile": "Files/Computer Vision/Sections/5fea3571-4357-4ca3-b01c-4cdb78693044.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "376736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RGTh1GYHxM283X80nx1SJidopjwcJSUrcMQkAQ7bf0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 00:57:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o9m0nhpti5"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RGTh1GYHxM283X80nx1SJidopjwcJSUrcMQkAQ7bf0Q="
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Computer Vision/Sections/5fea3571-4357-4ca3-b01c-4cdb78693044.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Files/Computer Vision/Sections/5fea3571-4357-4ca3-b01c-4cdb78693044.pdf",
+      "AssetFile": "Files/Computer Vision/Sections/5fea3571-4357-4ca3-b01c-4cdb78693044.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1866,7 +1702,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4415605"
+          "Value": "376736"
         },
         {
           "Name": "Content-Type",
@@ -1874,23 +1710,68 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ePlE2zUJNNSSVaLrj4Jz2h6/XqqtjXwyL59PJCWoZAs=\""
+          "Value": "\"RGTh1GYHxM283X80nx1SJidopjwcJSUrcMQkAQ7bf0Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Thu, 19 Jun 2025 00:57:48 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ePlE2zUJNNSSVaLrj4Jz2h6/XqqtjXwyL59PJCWoZAs="
+          "Value": "sha256-RGTh1GYHxM283X80nx1SJidopjwcJSUrcMQkAQ7bf0Q="
         }
       ]
     },
     {
-      "Route": "Files/Network/Lectures/Lecture2.pdf",
-      "AssetFile": "Files/Network/Lectures/Lecture2.pdf",
+      "Route": "Files/Computer Vision/Sections/a345ac0d-2d14-4115-b2c2-9254ea0e6cf7.9o99qnl6c0.pdf",
+      "AssetFile": "Files/Computer Vision/Sections/a345ac0d-2d14-4115-b2c2-9254ea0e6cf7.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "479414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OX+j9RTP0n8Uimg45IXD/zOeGkr6j6fAe5hP6PyMnnY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 01:00:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9o99qnl6c0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OX+j9RTP0n8Uimg45IXD/zOeGkr6j6fAe5hP6PyMnnY="
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Computer Vision/Sections/a345ac0d-2d14-4115-b2c2-9254ea0e6cf7.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Files/Computer Vision/Sections/a345ac0d-2d14-4115-b2c2-9254ea0e6cf7.pdf",
+      "AssetFile": "Files/Computer Vision/Sections/a345ac0d-2d14-4115-b2c2-9254ea0e6cf7.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1903,7 +1784,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5673625"
+          "Value": "479414"
         },
         {
           "Name": "Content-Type",
@@ -1911,113 +1792,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"sR6ZtYtz5c/EK+P46g3ambsWf/mWpcKSftM3dyhya3E=\""
+          "Value": "\"OX+j9RTP0n8Uimg45IXD/zOeGkr6j6fAe5hP6PyMnnY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Thu, 19 Jun 2025 01:00:27 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-sR6ZtYtz5c/EK+P46g3ambsWf/mWpcKSftM3dyhya3E="
+          "Value": "sha256-OX+j9RTP0n8Uimg45IXD/zOeGkr6j6fAe5hP6PyMnnY="
         }
       ]
     },
     {
-      "Route": "Files/Network/Lectures/Lecture2.z7nf666bn1.pdf",
-      "AssetFile": "Files/Network/Lectures/Lecture2.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5673625"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"sR6ZtYtz5c/EK+P46g3ambsWf/mWpcKSftM3dyhya3E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "z7nf666bn1"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-sR6ZtYtz5c/EK+P46g3ambsWf/mWpcKSftM3dyhya3E="
-        },
-        {
-          "Name": "label",
-          "Value": "Files/Network/Lectures/Lecture2.pdf"
-        }
-      ]
-    },
-    {
-      "Route": "Files/Network/Lectures/Lecture3.ddmtfaaeyv.pdf",
-      "AssetFile": "Files/Network/Lectures/Lecture3.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4180510"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gQ0cg127zxM3vpVuiuFs0JGsxrBLQXN4m/Iay71szD0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ddmtfaaeyv"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-gQ0cg127zxM3vpVuiuFs0JGsxrBLQXN4m/Iay71szD0="
-        },
-        {
-          "Name": "label",
-          "Value": "Files/Network/Lectures/Lecture3.pdf"
-        }
-      ]
-    },
-    {
-      "Route": "Files/Network/Lectures/Lecture3.pdf",
-      "AssetFile": "Files/Network/Lectures/Lecture3.pdf",
+      "Route": "Files/Computer Vision/Sections/ac7de89d-8b5e-42a5-a25c-09bab5bc85bf.pdf",
+      "AssetFile": "Files/Computer Vision/Sections/ac7de89d-8b5e-42a5-a25c-09bab5bc85bf.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2030,7 +1821,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4180510"
+          "Value": "667682"
         },
         {
           "Name": "Content-Type",
@@ -2038,23 +1829,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gQ0cg127zxM3vpVuiuFs0JGsxrBLQXN4m/Iay71szD0=\""
+          "Value": "\"ZyObZnQepMGNM4mvpWnKDMgwe6/lR4x7ANxUCW6iiPk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Thu, 19 Jun 2025 00:58:03 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-gQ0cg127zxM3vpVuiuFs0JGsxrBLQXN4m/Iay71szD0="
+          "Value": "sha256-ZyObZnQepMGNM4mvpWnKDMgwe6/lR4x7ANxUCW6iiPk="
         }
       ]
     },
     {
-      "Route": "Files/Network/Lectures/Lecture4.22b1i0d7ic.pdf",
-      "AssetFile": "Files/Network/Lectures/Lecture4.pdf",
+      "Route": "Files/Computer Vision/Sections/ac7de89d-8b5e-42a5-a25c-09bab5bc85bf.xad17zlfef.pdf",
+      "AssetFile": "Files/Computer Vision/Sections/ac7de89d-8b5e-42a5-a25c-09bab5bc85bf.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2067,7 +1858,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1314084"
+          "Value": "667682"
         },
         {
           "Name": "Content-Type",
@@ -2075,31 +1866,76 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xi/YcgiaXRj8y2D/l6ujrYWG3Of4DQOgBl/+yx9+xn8=\""
+          "Value": "\"ZyObZnQepMGNM4mvpWnKDMgwe6/lR4x7ANxUCW6iiPk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Thu, 19 Jun 2025 00:58:03 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "22b1i0d7ic"
+          "Value": "xad17zlfef"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-xi/YcgiaXRj8y2D/l6ujrYWG3Of4DQOgBl/+yx9+xn8="
+          "Value": "sha256-ZyObZnQepMGNM4mvpWnKDMgwe6/lR4x7ANxUCW6iiPk="
         },
         {
           "Name": "label",
-          "Value": "Files/Network/Lectures/Lecture4.pdf"
+          "Value": "Files/Computer Vision/Sections/ac7de89d-8b5e-42a5-a25c-09bab5bc85bf.pdf"
         }
       ]
     },
     {
-      "Route": "Files/Network/Lectures/Lecture4.pdf",
-      "AssetFile": "Files/Network/Lectures/Lecture4.pdf",
+      "Route": "Files/Computer Vision/Sections/ad3fca72-f8f5-46dc-aa3d-b9cf8e0f9f1e.0ls45uadjc.pdf",
+      "AssetFile": "Files/Computer Vision/Sections/ad3fca72-f8f5-46dc-aa3d-b9cf8e0f9f1e.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "170802"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tKZ1KvuONzRLcBMjFxlN/Chcw1dpY4JlNKPsfjRfVUA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 01:00:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0ls45uadjc"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tKZ1KvuONzRLcBMjFxlN/Chcw1dpY4JlNKPsfjRfVUA="
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Computer Vision/Sections/ad3fca72-f8f5-46dc-aa3d-b9cf8e0f9f1e.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Files/Computer Vision/Sections/ad3fca72-f8f5-46dc-aa3d-b9cf8e0f9f1e.pdf",
+      "AssetFile": "Files/Computer Vision/Sections/ad3fca72-f8f5-46dc-aa3d-b9cf8e0f9f1e.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2112,7 +1948,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1314084"
+          "Value": "170802"
         },
         {
           "Name": "Content-Type",
@@ -2120,23 +1956,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xi/YcgiaXRj8y2D/l6ujrYWG3Of4DQOgBl/+yx9+xn8=\""
+          "Value": "\"tKZ1KvuONzRLcBMjFxlN/Chcw1dpY4JlNKPsfjRfVUA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Thu, 19 Jun 2025 01:00:46 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xi/YcgiaXRj8y2D/l6ujrYWG3Of4DQOgBl/+yx9+xn8="
+          "Value": "sha256-tKZ1KvuONzRLcBMjFxlN/Chcw1dpY4JlNKPsfjRfVUA="
         }
       ]
     },
     {
-      "Route": "Files/Network/Sections/Section1.ka3k7pk6mq.pdf",
-      "AssetFile": "Files/Network/Sections/Section1.pdf",
+      "Route": "Files/Network/Lectures/91ab1b6e-8547-45fa-bee3-391426186a48.fdrplzo5kz.pdf",
+      "AssetFile": "Files/Network/Lectures/91ab1b6e-8547-45fa-bee3-391426186a48.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2149,7 +1985,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "737588"
+          "Value": "288706"
         },
         {
           "Name": "Content-Type",
@@ -2157,31 +1993,31 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VIdDhw20VIKJX5cfmM3it3gZ11pfetEMoSK8SN0uvz8=\""
+          "Value": "\"07dxaq3/jZwbzJ9Y7PVjnjvKhOReqj1h6en/h/W8T3g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Thu, 19 Jun 2025 00:52:38 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ka3k7pk6mq"
+          "Value": "fdrplzo5kz"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-VIdDhw20VIKJX5cfmM3it3gZ11pfetEMoSK8SN0uvz8="
+          "Value": "sha256-07dxaq3/jZwbzJ9Y7PVjnjvKhOReqj1h6en/h/W8T3g="
         },
         {
           "Name": "label",
-          "Value": "Files/Network/Sections/Section1.pdf"
+          "Value": "Files/Network/Lectures/91ab1b6e-8547-45fa-bee3-391426186a48.pdf"
         }
       ]
     },
     {
-      "Route": "Files/Network/Sections/Section1.pdf",
-      "AssetFile": "Files/Network/Sections/Section1.pdf",
+      "Route": "Files/Network/Lectures/91ab1b6e-8547-45fa-bee3-391426186a48.pdf",
+      "AssetFile": "Files/Network/Lectures/91ab1b6e-8547-45fa-bee3-391426186a48.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2194,7 +2030,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "737588"
+          "Value": "288706"
         },
         {
           "Name": "Content-Type",
@@ -2202,23 +2038,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VIdDhw20VIKJX5cfmM3it3gZ11pfetEMoSK8SN0uvz8=\""
+          "Value": "\"07dxaq3/jZwbzJ9Y7PVjnjvKhOReqj1h6en/h/W8T3g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Thu, 19 Jun 2025 00:52:38 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VIdDhw20VIKJX5cfmM3it3gZ11pfetEMoSK8SN0uvz8="
+          "Value": "sha256-07dxaq3/jZwbzJ9Y7PVjnjvKhOReqj1h6en/h/W8T3g="
         }
       ]
     },
     {
-      "Route": "Files/Network/Sections/Section2.dpzzq7391p.pdf",
-      "AssetFile": "Files/Network/Sections/Section2.pdf",
+      "Route": "Files/Network/Lectures/b12f40a5-84ad-4322-af13-c75eccf91442.acv0qzqiv6.pdf",
+      "AssetFile": "Files/Network/Lectures/b12f40a5-84ad-4322-af13-c75eccf91442.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2231,7 +2067,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "673444"
+          "Value": "288705"
         },
         {
           "Name": "Content-Type",
@@ -2239,31 +2075,31 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"geXwTWFv2M0CMV/gueO5HN2Mm7zJLJ/zGB8cwqvAdzM=\""
+          "Value": "\"qoSu2mvbOsldAC9xCSos0ldLOArfnP6LYmcwYaUONKc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Thu, 19 Jun 2025 00:52:57 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dpzzq7391p"
+          "Value": "acv0qzqiv6"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-geXwTWFv2M0CMV/gueO5HN2Mm7zJLJ/zGB8cwqvAdzM="
+          "Value": "sha256-qoSu2mvbOsldAC9xCSos0ldLOArfnP6LYmcwYaUONKc="
         },
         {
           "Name": "label",
-          "Value": "Files/Network/Sections/Section2.pdf"
+          "Value": "Files/Network/Lectures/b12f40a5-84ad-4322-af13-c75eccf91442.pdf"
         }
       ]
     },
     {
-      "Route": "Files/Network/Sections/Section2.pdf",
-      "AssetFile": "Files/Network/Sections/Section2.pdf",
+      "Route": "Files/Network/Lectures/b12f40a5-84ad-4322-af13-c75eccf91442.pdf",
+      "AssetFile": "Files/Network/Lectures/b12f40a5-84ad-4322-af13-c75eccf91442.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2276,7 +2112,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "673444"
+          "Value": "288705"
         },
         {
           "Name": "Content-Type",
@@ -2284,68 +2120,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"geXwTWFv2M0CMV/gueO5HN2Mm7zJLJ/zGB8cwqvAdzM=\""
+          "Value": "\"qoSu2mvbOsldAC9xCSos0ldLOArfnP6LYmcwYaUONKc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Thu, 19 Jun 2025 00:52:57 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-geXwTWFv2M0CMV/gueO5HN2Mm7zJLJ/zGB8cwqvAdzM="
+          "Value": "sha256-qoSu2mvbOsldAC9xCSos0ldLOArfnP6LYmcwYaUONKc="
         }
       ]
     },
     {
-      "Route": "Files/Network/Sections/Section3.oy6wkng6he.pdf",
-      "AssetFile": "Files/Network/Sections/Section3.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "110557"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"QLuLsxwxmB1nlSVtTBLOh1R78ud3BUrTsMqkhK70+lU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "oy6wkng6he"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-QLuLsxwxmB1nlSVtTBLOh1R78ud3BUrTsMqkhK70+lU="
-        },
-        {
-          "Name": "label",
-          "Value": "Files/Network/Sections/Section3.pdf"
-        }
-      ]
-    },
-    {
-      "Route": "Files/Network/Sections/Section3.pdf",
-      "AssetFile": "Files/Network/Sections/Section3.pdf",
+      "Route": "Files/Network/Lectures/e2d8743c-0cde-4b1a-a7d6-7d3ad65f82d6.pdf",
+      "AssetFile": "Files/Network/Lectures/e2d8743c-0cde-4b1a-a7d6-7d3ad65f82d6.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2358,7 +2149,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "110557"
+          "Value": "288706"
         },
         {
           "Name": "Content-Type",
@@ -2366,23 +2157,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QLuLsxwxmB1nlSVtTBLOh1R78ud3BUrTsMqkhK70+lU=\""
+          "Value": "\"7rZ5NTvs8/14rk/QRgI3iPIIdZ9/5+9zwVct4ffdzTU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Thu, 19 Jun 2025 00:52:48 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-QLuLsxwxmB1nlSVtTBLOh1R78ud3BUrTsMqkhK70+lU="
+          "Value": "sha256-7rZ5NTvs8/14rk/QRgI3iPIIdZ9/5+9zwVct4ffdzTU="
         }
       ]
     },
     {
-      "Route": "Files/Network/Sections/Section4.fq4y1iuz0c.pdf",
-      "AssetFile": "Files/Network/Sections/Section4.pdf",
+      "Route": "Files/Network/Lectures/e2d8743c-0cde-4b1a-a7d6-7d3ad65f82d6.q9tbe0szys.pdf",
+      "AssetFile": "Files/Network/Lectures/e2d8743c-0cde-4b1a-a7d6-7d3ad65f82d6.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2395,7 +2186,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "169606"
+          "Value": "288706"
         },
         {
           "Name": "Content-Type",
@@ -2403,31 +2194,76 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dxXoxtZUz/JXEKXcBgET2QzWuo6F8K8RhIkS457dQLo=\""
+          "Value": "\"7rZ5NTvs8/14rk/QRgI3iPIIdZ9/5+9zwVct4ffdzTU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Thu, 19 Jun 2025 00:52:48 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fq4y1iuz0c"
+          "Value": "q9tbe0szys"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-dxXoxtZUz/JXEKXcBgET2QzWuo6F8K8RhIkS457dQLo="
+          "Value": "sha256-7rZ5NTvs8/14rk/QRgI3iPIIdZ9/5+9zwVct4ffdzTU="
         },
         {
           "Name": "label",
-          "Value": "Files/Network/Sections/Section4.pdf"
+          "Value": "Files/Network/Lectures/e2d8743c-0cde-4b1a-a7d6-7d3ad65f82d6.pdf"
         }
       ]
     },
     {
-      "Route": "Files/Network/Sections/Section4.pdf",
-      "AssetFile": "Files/Network/Sections/Section4.pdf",
+      "Route": "Files/Network/Lectures/fc6052cb-2600-4c89-8ba1-e727ed644aa4.4br52dyx2a.pdf",
+      "AssetFile": "Files/Network/Lectures/fc6052cb-2600-4c89-8ba1-e727ed644aa4.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "288716"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gPBNWyjaiIaIuc6muea/gWNQg22rIdhSJUnsQWHt7ac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 00:53:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4br52dyx2a"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gPBNWyjaiIaIuc6muea/gWNQg22rIdhSJUnsQWHt7ac="
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Network/Lectures/fc6052cb-2600-4c89-8ba1-e727ed644aa4.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Files/Network/Lectures/fc6052cb-2600-4c89-8ba1-e727ed644aa4.pdf",
+      "AssetFile": "Files/Network/Lectures/fc6052cb-2600-4c89-8ba1-e727ed644aa4.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2440,7 +2276,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "169606"
+          "Value": "288716"
         },
         {
           "Name": "Content-Type",
@@ -2448,60 +2284,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dxXoxtZUz/JXEKXcBgET2QzWuo6F8K8RhIkS457dQLo=\""
+          "Value": "\"gPBNWyjaiIaIuc6muea/gWNQg22rIdhSJUnsQWHt7ac=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Thu, 19 Jun 2025 00:53:03 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dxXoxtZUz/JXEKXcBgET2QzWuo6F8K8RhIkS457dQLo="
+          "Value": "sha256-gPBNWyjaiIaIuc6muea/gWNQg22rIdhSJUnsQWHt7ac="
         }
       ]
     },
     {
-      "Route": "Images/AI.jpg",
-      "AssetFile": "Images/AI.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "104773"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"r+RfCFvJPMI8GPEphLTspk3QeMXgmN3lUufHe2EHS04=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-r+RfCFvJPMI8GPEphLTspk3QeMXgmN3lUufHe2EHS04="
-        }
-      ]
-    },
-    {
-      "Route": "Images/AI.zjm2qv52qi.jpg",
-      "AssetFile": "Images/AI.jpg",
+      "Route": "Files/Network/Sections/3eaf8195-0288-4ff9-90f5-574deffd476c.hakaxxllx2.pdf",
+      "AssetFile": "Files/Network/Sections/3eaf8195-0288-4ff9-90f5-574deffd476c.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2514,39 +2313,76 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "104773"
+          "Value": "652953"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "application/pdf"
         },
         {
           "Name": "ETag",
-          "Value": "\"r+RfCFvJPMI8GPEphLTspk3QeMXgmN3lUufHe2EHS04=\""
+          "Value": "\"xwWrigQk4FWvifVfd+KcU6dUijzL4VTBtKOf6v65RVs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Thu, 19 Jun 2025 00:58:47 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zjm2qv52qi"
+          "Value": "hakaxxllx2"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-r+RfCFvJPMI8GPEphLTspk3QeMXgmN3lUufHe2EHS04="
+          "Value": "sha256-xwWrigQk4FWvifVfd+KcU6dUijzL4VTBtKOf6v65RVs="
         },
         {
           "Name": "label",
-          "Value": "Images/AI.jpg"
+          "Value": "Files/Network/Sections/3eaf8195-0288-4ff9-90f5-574deffd476c.pdf"
         }
       ]
     },
     {
-      "Route": "Images/Compiler/2882c804-26a2-45c0-8c47-144a76f2d2cd.aouqpdbz58.png",
-      "AssetFile": "Images/Compiler/2882c804-26a2-45c0-8c47-144a76f2d2cd.png",
+      "Route": "Files/Network/Sections/3eaf8195-0288-4ff9-90f5-574deffd476c.pdf",
+      "AssetFile": "Files/Network/Sections/3eaf8195-0288-4ff9-90f5-574deffd476c.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "652953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xwWrigQk4FWvifVfd+KcU6dUijzL4VTBtKOf6v65RVs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 00:58:47 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xwWrigQk4FWvifVfd+KcU6dUijzL4VTBtKOf6v65RVs="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Network/Sections/5c687e14-bdc3-4e3e-880f-edfe416c4fff.43cw32j4ne.pdf",
+      "AssetFile": "Files/Network/Sections/5c687e14-bdc3-4e3e-880f-edfe416c4fff.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2559,39 +2395,39 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23802"
+          "Value": "933443"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "application/pdf"
         },
         {
           "Name": "ETag",
-          "Value": "\"NmWU6DCbEKDNVw+HXG5aRb3qGfneJxGnEQZDC3Jg0QU=\""
+          "Value": "\"MGBfwGXob5Qu/SJb+dZGfdHokmiLk3gvGmkFx4Vvt2s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Thu, 19 Jun 2025 00:58:26 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "aouqpdbz58"
+          "Value": "43cw32j4ne"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-NmWU6DCbEKDNVw+HXG5aRb3qGfneJxGnEQZDC3Jg0QU="
+          "Value": "sha256-MGBfwGXob5Qu/SJb+dZGfdHokmiLk3gvGmkFx4Vvt2s="
         },
         {
           "Name": "label",
-          "Value": "Images/Compiler/2882c804-26a2-45c0-8c47-144a76f2d2cd.png"
+          "Value": "Files/Network/Sections/5c687e14-bdc3-4e3e-880f-edfe416c4fff.pdf"
         }
       ]
     },
     {
-      "Route": "Images/Compiler/2882c804-26a2-45c0-8c47-144a76f2d2cd.png",
-      "AssetFile": "Images/Compiler/2882c804-26a2-45c0-8c47-144a76f2d2cd.png",
+      "Route": "Files/Network/Sections/5c687e14-bdc3-4e3e-880f-edfe416c4fff.pdf",
+      "AssetFile": "Files/Network/Sections/5c687e14-bdc3-4e3e-880f-edfe416c4fff.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2600,72 +2436,35 @@
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Length",
-          "Value": "23802"
+          "Value": "933443"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "application/pdf"
         },
         {
           "Name": "ETag",
-          "Value": "\"NmWU6DCbEKDNVw+HXG5aRb3qGfneJxGnEQZDC3Jg0QU=\""
+          "Value": "\"MGBfwGXob5Qu/SJb+dZGfdHokmiLk3gvGmkFx4Vvt2s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Thu, 19 Jun 2025 00:58:26 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NmWU6DCbEKDNVw+HXG5aRb3qGfneJxGnEQZDC3Jg0QU="
+          "Value": "sha256-MGBfwGXob5Qu/SJb+dZGfdHokmiLk3gvGmkFx4Vvt2s="
         }
       ]
     },
     {
-      "Route": "Images/ComputerVision.jpg",
-      "AssetFile": "Images/ComputerVision.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "119837"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FfSBWwnTn+5oIsTp/WnPALwCe7Kht69Zb4t4hXYpvLc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-FfSBWwnTn+5oIsTp/WnPALwCe7Kht69Zb4t4hXYpvLc="
-        }
-      ]
-    },
-    {
-      "Route": "Images/ComputerVision.x9fnzp0dtg.jpg",
-      "AssetFile": "Images/ComputerVision.jpg",
+      "Route": "Files/Network/Sections/67461ed1-1c37-4efa-8d73-245dcf619957.m82ff2qwzq.pdf",
+      "AssetFile": "Files/Network/Sections/67461ed1-1c37-4efa-8d73-245dcf619957.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2678,39 +2477,113 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "119837"
+          "Value": "143909"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "application/pdf"
         },
         {
           "Name": "ETag",
-          "Value": "\"FfSBWwnTn+5oIsTp/WnPALwCe7Kht69Zb4t4hXYpvLc=\""
+          "Value": "\"FhDLI7JXSJdiAjeIb5n5VumQY0O0eqahBKMkKNjdWAc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Thu, 19 Jun 2025 00:59:22 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "x9fnzp0dtg"
+          "Value": "m82ff2qwzq"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FfSBWwnTn+5oIsTp/WnPALwCe7Kht69Zb4t4hXYpvLc="
+          "Value": "sha256-FhDLI7JXSJdiAjeIb5n5VumQY0O0eqahBKMkKNjdWAc="
         },
         {
           "Name": "label",
-          "Value": "Images/ComputerVision.jpg"
+          "Value": "Files/Network/Sections/67461ed1-1c37-4efa-8d73-245dcf619957.pdf"
         }
       ]
     },
     {
-      "Route": "Images/Network.7cbfavm6dj.jpg",
-      "AssetFile": "Images/Network.jpg",
+      "Route": "Files/Network/Sections/67461ed1-1c37-4efa-8d73-245dcf619957.pdf",
+      "AssetFile": "Files/Network/Sections/67461ed1-1c37-4efa-8d73-245dcf619957.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "143909"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FhDLI7JXSJdiAjeIb5n5VumQY0O0eqahBKMkKNjdWAc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 00:59:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FhDLI7JXSJdiAjeIb5n5VumQY0O0eqahBKMkKNjdWAc="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Network/Sections/f8f5dd22-93a1-44ca-a753-96b7183671c8.pdf",
+      "AssetFile": "Files/Network/Sections/f8f5dd22-93a1-44ca-a753-96b7183671c8.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1012531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0tB8p8hTVUjcuXFVMP0q8jAhh2pu8U8O+ywJ8yk8eJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 00:58:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0tB8p8hTVUjcuXFVMP0q8jAhh2pu8U8O+ywJ8yk8eJU="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Network/Sections/f8f5dd22-93a1-44ca-a753-96b7183671c8.uw129c21zf.pdf",
+      "AssetFile": "Files/Network/Sections/f8f5dd22-93a1-44ca-a753-96b7183671c8.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2723,76 +2596,39 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "93535"
+          "Value": "1012531"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "application/pdf"
         },
         {
           "Name": "ETag",
-          "Value": "\"J+1eoNkp07dMPyrORqyh5V0IQ+x0HtZu4Gak4yKOxrQ=\""
+          "Value": "\"0tB8p8hTVUjcuXFVMP0q8jAhh2pu8U8O+ywJ8yk8eJU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Thu, 19 Jun 2025 00:58:39 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7cbfavm6dj"
+          "Value": "uw129c21zf"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-J+1eoNkp07dMPyrORqyh5V0IQ+x0HtZu4Gak4yKOxrQ="
+          "Value": "sha256-0tB8p8hTVUjcuXFVMP0q8jAhh2pu8U8O+ywJ8yk8eJU="
         },
         {
           "Name": "label",
-          "Value": "Images/Network.jpg"
+          "Value": "Files/Network/Sections/f8f5dd22-93a1-44ca-a753-96b7183671c8.pdf"
         }
       ]
     },
     {
-      "Route": "Images/Network.jpg",
-      "AssetFile": "Images/Network.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "93535"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"J+1eoNkp07dMPyrORqyh5V0IQ+x0HtZu4Gak4yKOxrQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-J+1eoNkp07dMPyrORqyh5V0IQ+x0HtZu4Gak4yKOxrQ="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Security.1zulcr4hm5.jpg",
-      "AssetFile": "Images/Security.jpg",
+      "Route": "Images/11a91ef6-9826-4037-bbce-004ef900d118.1zulcr4hm5.jpg",
+      "AssetFile": "Images/11a91ef6-9826-4037-bbce-004ef900d118.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2817,7 +2653,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:39:18 GMT"
         }
       ],
       "EndpointProperties": [
@@ -2831,13 +2667,13 @@
         },
         {
           "Name": "label",
-          "Value": "Images/Security.jpg"
+          "Value": "Images/11a91ef6-9826-4037-bbce-004ef900d118.jpg"
         }
       ]
     },
     {
-      "Route": "Images/Security.jpg",
-      "AssetFile": "Images/Security.jpg",
+      "Route": "Images/11a91ef6-9826-4037-bbce-004ef900d118.jpg",
+      "AssetFile": "Images/11a91ef6-9826-4037-bbce-004ef900d118.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2862,13 +2698,259 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:39:18 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
           "Value": "sha256-DeiK7JK3xU5HH7Qu5toF/S7epthMUac/26KF9rzgjQI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/48d88708-a12a-4e13-8bc0-c6c87c2d3720.jpg",
+      "AssetFile": "Images/48d88708-a12a-4e13-8bc0-c6c87c2d3720.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "104773"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r+RfCFvJPMI8GPEphLTspk3QeMXgmN3lUufHe2EHS04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 23:38:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r+RfCFvJPMI8GPEphLTspk3QeMXgmN3lUufHe2EHS04="
+        }
+      ]
+    },
+    {
+      "Route": "Images/48d88708-a12a-4e13-8bc0-c6c87c2d3720.zjm2qv52qi.jpg",
+      "AssetFile": "Images/48d88708-a12a-4e13-8bc0-c6c87c2d3720.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "104773"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r+RfCFvJPMI8GPEphLTspk3QeMXgmN3lUufHe2EHS04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 23:38:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zjm2qv52qi"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r+RfCFvJPMI8GPEphLTspk3QeMXgmN3lUufHe2EHS04="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/48d88708-a12a-4e13-8bc0-c6c87c2d3720.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/61b54702-4025-4b8c-9506-0d5925595e47.7cbfavm6dj.jpg",
+      "AssetFile": "Images/61b54702-4025-4b8c-9506-0d5925595e47.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J+1eoNkp07dMPyrORqyh5V0IQ+x0HtZu4Gak4yKOxrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 23:39:41 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7cbfavm6dj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J+1eoNkp07dMPyrORqyh5V0IQ+x0HtZu4Gak4yKOxrQ="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/61b54702-4025-4b8c-9506-0d5925595e47.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/61b54702-4025-4b8c-9506-0d5925595e47.jpg",
+      "AssetFile": "Images/61b54702-4025-4b8c-9506-0d5925595e47.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J+1eoNkp07dMPyrORqyh5V0IQ+x0HtZu4Gak4yKOxrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 23:39:41 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J+1eoNkp07dMPyrORqyh5V0IQ+x0HtZu4Gak4yKOxrQ="
+        }
+      ]
+    },
+    {
+      "Route": "Images/f8befc46-e3da-4ce4-a12a-d22f2d7f4939.jpg",
+      "AssetFile": "Images/f8befc46-e3da-4ce4-a12a-d22f2d7f4939.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "119837"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FfSBWwnTn+5oIsTp/WnPALwCe7Kht69Zb4t4hXYpvLc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 23:39:28 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FfSBWwnTn+5oIsTp/WnPALwCe7Kht69Zb4t4hXYpvLc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/f8befc46-e3da-4ce4-a12a-d22f2d7f4939.x9fnzp0dtg.jpg",
+      "AssetFile": "Images/f8befc46-e3da-4ce4-a12a-d22f2d7f4939.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "119837"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FfSBWwnTn+5oIsTp/WnPALwCe7Kht69Zb4t4hXYpvLc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 23:39:28 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x9fnzp0dtg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FfSBWwnTn+5oIsTp/WnPALwCe7Kht69Zb4t4hXYpvLc="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/f8befc46-e3da-4ce4-a12a-d22f2d7f4939.jpg"
         }
       ]
     }

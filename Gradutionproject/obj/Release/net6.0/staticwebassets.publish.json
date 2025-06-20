@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4XkO/MhhC0PhQogZZuTVqSARsj2WLJMQVXOWkY+7NOg=",
+  "Hash": "7pTyMvSfWqfXulXn09+TKP7QBCqncGlQeDB03dzO6+Q=",
   "Source": "Gradutionproject",
   "BasePath": "_content/Gradutionproject",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture1.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\4b405612-2c0a-43dd-9832-db2948b3b1b8.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
-      "RelativePath": "Files/AI/Lectures/Lecture1#[.{fingerprint}]?.pdf",
+      "RelativePath": "Files/AI/Lectures/4b405612-2c0a-43dd-9832-db2948b3b1b8#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -35,57 +35,15 @@
       "Integrity": "St7lNQa7Ra+KSzDep5wNpEjiSCfvrhxmVVD+DzxfcOs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Files\\AI\\Lectures\\Lecture1.pdf"
+      "OriginalItemSpec": "wwwroot\\Files\\AI\\Lectures\\4b405612-2c0a-43dd-9832-db2948b3b1b8.pdf"
     },
     {
-      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture2.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\5415aff2-1cdf-4a2c-852d-61cc4c86f6d5.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
-      "RelativePath": "Files/AI/Lectures/Lecture2#[.{fingerprint}]?.pdf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "b02d6de7sf",
-      "Integrity": "awWsCBVHThEqGmS32dby5eHwsm2LeI8aug6FLVgICVg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Files\\AI\\Lectures\\Lecture2.pdf"
-    },
-    {
-      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture3.pdf",
-      "SourceId": "Gradutionproject",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
-      "BasePath": "_content/Gradutionproject",
-      "RelativePath": "Files/AI/Lectures/Lecture3#[.{fingerprint}]?.pdf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "9zo6k6g925",
-      "Integrity": "C5AjZp6IdVu5h2mkvxARLdDGr18h5Rht1u0jJZ6o3FE=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Files\\AI\\Lectures\\Lecture3.pdf"
-    },
-    {
-      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture4.pdf",
-      "SourceId": "Gradutionproject",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
-      "BasePath": "_content/Gradutionproject",
-      "RelativePath": "Files/AI/Lectures/Lecture4#[.{fingerprint}]?.pdf",
+      "RelativePath": "Files/AI/Lectures/5415aff2-1cdf-4a2c-852d-61cc4c86f6d5#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -98,15 +56,15 @@
       "Integrity": "TiCXUPRAAyTT/w5fK/ySvBMTkIBzSEwFRuZaO2V0VLc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Files\\AI\\Lectures\\Lecture4.pdf"
+      "OriginalItemSpec": "wwwroot\\Files\\AI\\Lectures\\5415aff2-1cdf-4a2c-852d-61cc4c86f6d5.pdf"
     },
     {
-      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section1.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\abbb43f3-c1c7-4ec9-adc8-f77a4e21e8f6.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
-      "RelativePath": "Files/AI/Sections/Section1#[.{fingerprint}]?.pdf",
+      "RelativePath": "Files/AI/Lectures/abbb43f3-c1c7-4ec9-adc8-f77a4e21e8f6#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -115,19 +73,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9k13qor598",
-      "Integrity": "qdTyhIy3pjdy7eDUj3vFYcYFOZPZCaAA65le9a7VdI4=",
+      "Fingerprint": "b02d6de7sf",
+      "Integrity": "awWsCBVHThEqGmS32dby5eHwsm2LeI8aug6FLVgICVg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Files\\AI\\Sections\\Section1.pdf"
+      "OriginalItemSpec": "wwwroot\\Files\\AI\\Lectures\\abbb43f3-c1c7-4ec9-adc8-f77a4e21e8f6.pdf"
     },
     {
-      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section2.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\cc14f346-0f2d-497e-87d3-f2eeb719dbbd.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
-      "RelativePath": "Files/AI/Sections/Section2#[.{fingerprint}]?.pdf",
+      "RelativePath": "Files/AI/Lectures/cc14f346-0f2d-497e-87d3-f2eeb719dbbd#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -136,19 +94,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ycfkk4ql7m",
-      "Integrity": "PnE0DVvrjXm6ScSq9chawxWk3rIfbsef7efhZOgh/M0=",
+      "Fingerprint": "9zo6k6g925",
+      "Integrity": "C5AjZp6IdVu5h2mkvxARLdDGr18h5Rht1u0jJZ6o3FE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Files\\AI\\Sections\\Section2.pdf"
+      "OriginalItemSpec": "wwwroot\\Files\\AI\\Lectures\\cc14f346-0f2d-497e-87d3-f2eeb719dbbd.pdf"
     },
     {
-      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section3.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\019712ff-decd-428d-bc6d-06533d66e3c5.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
-      "RelativePath": "Files/AI/Sections/Section3#[.{fingerprint}]?.pdf",
+      "RelativePath": "Files/AI/Sections/019712ff-decd-428d-bc6d-06533d66e3c5#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -161,15 +119,36 @@
       "Integrity": "IhbjlDs1i6BK2Hvmp1/rssjcScMnnMTzAt+bx8Sjhe0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Files\\AI\\Sections\\Section3.pdf"
+      "OriginalItemSpec": "wwwroot\\Files\\AI\\Sections\\019712ff-decd-428d-bc6d-06533d66e3c5.pdf"
     },
     {
-      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section4.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\a4cc3569-1408-4954-a7d2-ddb8c777dac2.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
-      "RelativePath": "Files/AI/Sections/Section4#[.{fingerprint}]?.pdf",
+      "RelativePath": "Files/AI/Sections/a4cc3569-1408-4954-a7d2-ddb8c777dac2#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9k13qor598",
+      "Integrity": "qdTyhIy3pjdy7eDUj3vFYcYFOZPZCaAA65le9a7VdI4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\AI\\Sections\\a4cc3569-1408-4954-a7d2-ddb8c777dac2.pdf"
+    },
+    {
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\e228e886-d5f2-4371-9dee-5c06b1b189c4.pdf",
+      "SourceId": "Gradutionproject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "BasePath": "_content/Gradutionproject",
+      "RelativePath": "Files/AI/Sections/e228e886-d5f2-4371-9dee-5c06b1b189c4#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -182,15 +161,15 @@
       "Integrity": "DC/hL8F5k6JTU150fI5QNuE9OfT//zBeBo4QCOIONfw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Files\\AI\\Sections\\Section4.pdf"
+      "OriginalItemSpec": "wwwroot\\Files\\AI\\Sections\\e228e886-d5f2-4371-9dee-5c06b1b189c4.pdf"
     },
     {
-      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture1.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\fa4999af-2b35-4c2c-8bbb-0e866d60350f.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
-      "RelativePath": "Files/Computer Security/Lectures/Lecture1#[.{fingerprint}]?.pdf",
+      "RelativePath": "Files/AI/Sections/fa4999af-2b35-4c2c-8bbb-0e866d60350f#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -199,19 +178,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "994zagfkjj",
-      "Integrity": "TXrx+ebg/WNcJnRIm36HjWOZ2aI6w0NK2ysmJU2QBd4=",
+      "Fingerprint": "ycfkk4ql7m",
+      "Integrity": "PnE0DVvrjXm6ScSq9chawxWk3rIfbsef7efhZOgh/M0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Files\\Computer Security\\Lectures\\Lecture1.pdf"
+      "OriginalItemSpec": "wwwroot\\Files\\AI\\Sections\\fa4999af-2b35-4c2c-8bbb-0e866d60350f.pdf"
     },
     {
-      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture2.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\6aadfdaa-6858-434b-a85a-97b8529526d9.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
-      "RelativePath": "Files/Computer Security/Lectures/Lecture2#[.{fingerprint}]?.pdf",
+      "RelativePath": "Files/Computer Security/Lectures/6aadfdaa-6858-434b-a85a-97b8529526d9#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -224,15 +203,15 @@
       "Integrity": "d5Blz33FPZcfqAdqp+yvITjT0nRINZkq7/hl/x3UTuI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Files\\Computer Security\\Lectures\\Lecture2.pdf"
+      "OriginalItemSpec": "wwwroot\\Files\\Computer Security\\Lectures\\6aadfdaa-6858-434b-a85a-97b8529526d9.pdf"
     },
     {
-      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture3.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\b1696d95-538a-4f70-803f-1fd6b6a66e72.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
-      "RelativePath": "Files/Computer Security/Lectures/Lecture3#[.{fingerprint}]?.pdf",
+      "RelativePath": "Files/Computer Security/Lectures/b1696d95-538a-4f70-803f-1fd6b6a66e72#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -241,19 +220,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3kmp6eku53",
-      "Integrity": "jUPl55258jCxYiE7UZGLArup8WzmCOtJqQWwmUvOQks=",
+      "Fingerprint": "994zagfkjj",
+      "Integrity": "TXrx+ebg/WNcJnRIm36HjWOZ2aI6w0NK2ysmJU2QBd4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Files\\Computer Security\\Lectures\\Lecture3.pdf"
+      "OriginalItemSpec": "wwwroot\\Files\\Computer Security\\Lectures\\b1696d95-538a-4f70-803f-1fd6b6a66e72.pdf"
     },
     {
-      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture4.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\ccdb630a-12f9-4cea-9e44-ae0400c61f47.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
-      "RelativePath": "Files/Computer Security/Lectures/Lecture4#[.{fingerprint}]?.pdf",
+      "RelativePath": "Files/Computer Security/Lectures/ccdb630a-12f9-4cea-9e44-ae0400c61f47#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -266,15 +245,15 @@
       "Integrity": "ax8SQru8nQvRYXyjIRWCixA0s43/NnyzMWqNB1/ajzU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Files\\Computer Security\\Lectures\\Lecture4.pdf"
+      "OriginalItemSpec": "wwwroot\\Files\\Computer Security\\Lectures\\ccdb630a-12f9-4cea-9e44-ae0400c61f47.pdf"
     },
     {
-      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section1.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\d2cd31cb-8021-40c7-80b7-e21ad2d4a390.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
-      "RelativePath": "Files/Computer Security/Sections/Section1#[.{fingerprint}]?.pdf",
+      "RelativePath": "Files/Computer Security/Lectures/d2cd31cb-8021-40c7-80b7-e21ad2d4a390#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -283,19 +262,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "zhtmvsp1en",
-      "Integrity": "KYIqtkF17FSJPZBOzzaoUWVk6u1JKk5HAHwYsS+5qeQ=",
+      "Fingerprint": "3kmp6eku53",
+      "Integrity": "jUPl55258jCxYiE7UZGLArup8WzmCOtJqQWwmUvOQks=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Files\\Computer Security\\Sections\\Section1.pdf"
+      "OriginalItemSpec": "wwwroot\\Files\\Computer Security\\Lectures\\d2cd31cb-8021-40c7-80b7-e21ad2d4a390.pdf"
     },
     {
-      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section2.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\2e5cf803-32ff-47a9-a554-57a9e9668212.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
-      "RelativePath": "Files/Computer Security/Sections/Section2#[.{fingerprint}]?.pdf",
+      "RelativePath": "Files/Computer Security/Sections/2e5cf803-32ff-47a9-a554-57a9e9668212#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -308,36 +287,15 @@
       "Integrity": "sQrAriIDwtgGy2W1fdR5cp9XMzbZ18xK+fG9gB2YYDc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Files\\Computer Security\\Sections\\Section2.pdf"
+      "OriginalItemSpec": "wwwroot\\Files\\Computer Security\\Sections\\2e5cf803-32ff-47a9-a554-57a9e9668212.pdf"
     },
     {
-      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section3.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\5431763d-a629-43c8-9f09-6b9c91223c8d.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
-      "RelativePath": "Files/Computer Security/Sections/Section3#[.{fingerprint}]?.pdf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "74thr3wx5w",
-      "Integrity": "p9S9WYf7rkRd+18v3/Hm9ObTFTFQzfwa4z5DdcoIRe4=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Files\\Computer Security\\Sections\\Section3.pdf"
-    },
-    {
-      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section4.pdf",
-      "SourceId": "Gradutionproject",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
-      "BasePath": "_content/Gradutionproject",
-      "RelativePath": "Files/Computer Security/Sections/Section4#[.{fingerprint}]?.pdf",
+      "RelativePath": "Files/Computer Security/Sections/5431763d-a629-43c8-9f09-6b9c91223c8d#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -350,15 +308,57 @@
       "Integrity": "BhfbUVo5p3PuKsSCiWk/NcJDeJJAbAhME8ABhMNsp3k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Files\\Computer Security\\Sections\\Section4.pdf"
+      "OriginalItemSpec": "wwwroot\\Files\\Computer Security\\Sections\\5431763d-a629-43c8-9f09-6b9c91223c8d.pdf"
     },
     {
-      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture1.pdf",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\6c727aa3-78cb-4276-a9dd-4e726fd17b45.pdf",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
-      "RelativePath": "Files/Computer Vision/Lectures/Lecture1#[.{fingerprint}]?.pdf",
+      "RelativePath": "Files/Computer Security/Sections/6c727aa3-78cb-4276-a9dd-4e726fd17b45#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zhtmvsp1en",
+      "Integrity": "KYIqtkF17FSJPZBOzzaoUWVk6u1JKk5HAHwYsS+5qeQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Computer Security\\Sections\\6c727aa3-78cb-4276-a9dd-4e726fd17b45.pdf"
+    },
+    {
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\f6181d9c-285c-47e5-a186-f54a6120d6c9.pdf",
+      "SourceId": "Gradutionproject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "BasePath": "_content/Gradutionproject",
+      "RelativePath": "Files/Computer Security/Sections/f6181d9c-285c-47e5-a186-f54a6120d6c9#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "74thr3wx5w",
+      "Integrity": "p9S9WYf7rkRd+18v3/Hm9ObTFTFQzfwa4z5DdcoIRe4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Computer Security\\Sections\\f6181d9c-285c-47e5-a186-f54a6120d6c9.pdf"
+    },
+    {
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\d037d8d8-8dad-4a08-8594-51aad985a871.pdf",
+      "SourceId": "Gradutionproject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "BasePath": "_content/Gradutionproject",
+      "RelativePath": "Files/Computer Vision/Lectures/d037d8d8-8dad-4a08-8594-51aad985a871#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -371,112 +371,7 @@
       "Integrity": "cgMleRoXYd7mCxmhx56Nhakdw1AU6hDrKC2HcNyVdHQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Files\\Computer Vision\\Lectures\\Lecture1.pdf"
-    },
-    {
-      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture2.pdf",
-      "SourceId": "Gradutionproject",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
-      "BasePath": "_content/Gradutionproject",
-      "RelativePath": "Files/Computer Vision/Lectures/Lecture2#[.{fingerprint}]?.pdf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "8620568wna",
-      "Integrity": "AIh/sxMRgd8Y9Iiu+mUt7SvOcRUv4cNkPHEv0+Oegls=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Files\\Computer Vision\\Lectures\\Lecture2.pdf"
-    },
-    {
-      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture3.pdf",
-      "SourceId": "Gradutionproject",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
-      "BasePath": "_content/Gradutionproject",
-      "RelativePath": "Files/Computer Vision/Lectures/Lecture3#[.{fingerprint}]?.pdf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "yh6denooo1",
-      "Integrity": "2pPvgj6VPRW540jTaQO3UMQyk1XM/nfXM7v2nnXM7TE=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Files\\Computer Vision\\Lectures\\Lecture3.pdf"
-    },
-    {
-      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section1.pdf",
-      "SourceId": "Gradutionproject",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
-      "BasePath": "_content/Gradutionproject",
-      "RelativePath": "Files/Computer Vision/Sections/Section1#[.{fingerprint}]?.pdf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "got0w8c3bl",
-      "Integrity": "wKnHAgjmwEG8AHT1jfV1S3aD2fJ4EyP1Sl43w205oTQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Files\\Computer Vision\\Sections\\Section1.pdf"
-    },
-    {
-      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section2.pdf",
-      "SourceId": "Gradutionproject",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
-      "BasePath": "_content/Gradutionproject",
-      "RelativePath": "Files/Computer Vision/Sections/Section2#[.{fingerprint}]?.pdf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "mem4i3k8gc",
-      "Integrity": "bsjvwwboiLtqaoPR8/CrkbcwoqruGMn0hXgho2Oz1pg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Files\\Computer Vision\\Sections\\Section2.pdf"
-    },
-    {
-      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section3.pdf",
-      "SourceId": "Gradutionproject",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
-      "BasePath": "_content/Gradutionproject",
-      "RelativePath": "Files/Computer Vision/Sections/Section3#[.{fingerprint}]?.pdf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "lv0udb326m",
-      "Integrity": "8UgPrB2roIlQwCms30eJ5UeSZQnWgB885916L8gjk5s=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Files\\Computer Vision\\Sections\\Section3.pdf"
+      "OriginalItemSpec": "wwwroot\\Files\\Computer Vision\\Lectures\\d037d8d8-8dad-4a08-8594-51aad985a871.pdf"
     },
     {
       "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Network\\Lectures\\Lecture1.pdf",
@@ -647,96 +542,12 @@
       "OriginalItemSpec": "wwwroot\\Files\\Network\\Sections\\Section4.pdf"
     },
     {
-      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\AI.jpg",
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\11a91ef6-9826-4037-bbce-004ef900d118.jpg",
       "SourceId": "Gradutionproject",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
       "BasePath": "_content/Gradutionproject",
-      "RelativePath": "Images/AI#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "zjm2qv52qi",
-      "Integrity": "r+RfCFvJPMI8GPEphLTspk3QeMXgmN3lUufHe2EHS04=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\AI.jpg"
-    },
-    {
-      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Compiler\\2882c804-26a2-45c0-8c47-144a76f2d2cd.png",
-      "SourceId": "Gradutionproject",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
-      "BasePath": "_content/Gradutionproject",
-      "RelativePath": "Images/Compiler/2882c804-26a2-45c0-8c47-144a76f2d2cd#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "aouqpdbz58",
-      "Integrity": "NmWU6DCbEKDNVw+HXG5aRb3qGfneJxGnEQZDC3Jg0QU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Compiler\\2882c804-26a2-45c0-8c47-144a76f2d2cd.png"
-    },
-    {
-      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\ComputerVision.jpg",
-      "SourceId": "Gradutionproject",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
-      "BasePath": "_content/Gradutionproject",
-      "RelativePath": "Images/ComputerVision#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "x9fnzp0dtg",
-      "Integrity": "FfSBWwnTn+5oIsTp/WnPALwCe7Kht69Zb4t4hXYpvLc=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\ComputerVision.jpg"
-    },
-    {
-      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Network.jpg",
-      "SourceId": "Gradutionproject",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
-      "BasePath": "_content/Gradutionproject",
-      "RelativePath": "Images/Network#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "7cbfavm6dj",
-      "Integrity": "J+1eoNkp07dMPyrORqyh5V0IQ+x0HtZu4Gak4yKOxrQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Network.jpg"
-    },
-    {
-      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Security.jpg",
-      "SourceId": "Gradutionproject",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
-      "BasePath": "_content/Gradutionproject",
-      "RelativePath": "Images/Security#[.{fingerprint}]?.jpg",
+      "RelativePath": "Images/11a91ef6-9826-4037-bbce-004ef900d118#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -749,13 +560,76 @@
       "Integrity": "DeiK7JK3xU5HH7Qu5toF/S7epthMUac/26KF9rzgjQI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Security.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\11a91ef6-9826-4037-bbce-004ef900d118.jpg"
+    },
+    {
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\48d88708-a12a-4e13-8bc0-c6c87c2d3720.jpg",
+      "SourceId": "Gradutionproject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "BasePath": "_content/Gradutionproject",
+      "RelativePath": "Images/48d88708-a12a-4e13-8bc0-c6c87c2d3720#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zjm2qv52qi",
+      "Integrity": "r+RfCFvJPMI8GPEphLTspk3QeMXgmN3lUufHe2EHS04=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\48d88708-a12a-4e13-8bc0-c6c87c2d3720.jpg"
+    },
+    {
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\61b54702-4025-4b8c-9506-0d5925595e47.jpg",
+      "SourceId": "Gradutionproject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "BasePath": "_content/Gradutionproject",
+      "RelativePath": "Images/61b54702-4025-4b8c-9506-0d5925595e47#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7cbfavm6dj",
+      "Integrity": "J+1eoNkp07dMPyrORqyh5V0IQ+x0HtZu4Gak4yKOxrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\61b54702-4025-4b8c-9506-0d5925595e47.jpg"
+    },
+    {
+      "Identity": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\f8befc46-e3da-4ce4-a12a-d22f2d7f4939.jpg",
+      "SourceId": "Gradutionproject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\",
+      "BasePath": "_content/Gradutionproject",
+      "RelativePath": "Images/f8befc46-e3da-4ce4-a12a-d22f2d7f4939#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x9fnzp0dtg",
+      "Integrity": "FfSBWwnTn+5oIsTp/WnPALwCe7Kht69Zb4t4hXYpvLc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\f8befc46-e3da-4ce4-a12a-d22f2d7f4939.jpg"
     }
   ],
   "Endpoints": [
     {
-      "Route": "Files/AI/Lectures/Lecture1.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture1.pdf",
+      "Route": "Files/AI/Lectures/4b405612-2c0a-43dd-9832-db2948b3b1b8.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\4b405612-2c0a-43dd-9832-db2948b3b1b8.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -776,7 +650,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:47:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -791,8 +665,8 @@
       ]
     },
     {
-      "Route": "Files/AI/Lectures/Lecture1.uarq1ht78m.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture1.pdf",
+      "Route": "Files/AI/Lectures/4b405612-2c0a-43dd-9832-db2948b3b1b8.uarq1ht78m.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\4b405612-2c0a-43dd-9832-db2948b3b1b8.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -813,7 +687,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:47:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -827,7 +701,7 @@
         },
         {
           "Name": "label",
-          "Value": "Files/AI/Lectures/Lecture1.pdf"
+          "Value": "Files/AI/Lectures/4b405612-2c0a-43dd-9832-db2948b3b1b8.pdf"
         },
         {
           "Name": "integrity",
@@ -836,172 +710,8 @@
       ]
     },
     {
-      "Route": "Files/AI/Lectures/Lecture2.b02d6de7sf.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture2.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5298120"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"awWsCBVHThEqGmS32dby5eHwsm2LeI8aug6FLVgICVg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "b02d6de7sf"
-        },
-        {
-          "Name": "label",
-          "Value": "Files/AI/Lectures/Lecture2.pdf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-awWsCBVHThEqGmS32dby5eHwsm2LeI8aug6FLVgICVg="
-        }
-      ]
-    },
-    {
-      "Route": "Files/AI/Lectures/Lecture2.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture2.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5298120"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"awWsCBVHThEqGmS32dby5eHwsm2LeI8aug6FLVgICVg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-awWsCBVHThEqGmS32dby5eHwsm2LeI8aug6FLVgICVg="
-        }
-      ]
-    },
-    {
-      "Route": "Files/AI/Lectures/Lecture3.9zo6k6g925.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture3.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "889375"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"C5AjZp6IdVu5h2mkvxARLdDGr18h5Rht1u0jJZ6o3FE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9zo6k6g925"
-        },
-        {
-          "Name": "label",
-          "Value": "Files/AI/Lectures/Lecture3.pdf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-C5AjZp6IdVu5h2mkvxARLdDGr18h5Rht1u0jJZ6o3FE="
-        }
-      ]
-    },
-    {
-      "Route": "Files/AI/Lectures/Lecture3.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture3.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "889375"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"C5AjZp6IdVu5h2mkvxARLdDGr18h5Rht1u0jJZ6o3FE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-C5AjZp6IdVu5h2mkvxARLdDGr18h5Rht1u0jJZ6o3FE="
-        }
-      ]
-    },
-    {
-      "Route": "Files/AI/Lectures/Lecture4.2s850lzezr.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture4.pdf",
+      "Route": "Files/AI/Lectures/5415aff2-1cdf-4a2c-852d-61cc4c86f6d5.2s850lzezr.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\5415aff2-1cdf-4a2c-852d-61cc4c86f6d5.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1022,7 +732,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:48:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1036,7 +746,7 @@
         },
         {
           "Name": "label",
-          "Value": "Files/AI/Lectures/Lecture4.pdf"
+          "Value": "Files/AI/Lectures/5415aff2-1cdf-4a2c-852d-61cc4c86f6d5.pdf"
         },
         {
           "Name": "integrity",
@@ -1045,8 +755,8 @@
       ]
     },
     {
-      "Route": "Files/AI/Lectures/Lecture4.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\Lecture4.pdf",
+      "Route": "Files/AI/Lectures/5415aff2-1cdf-4a2c-852d-61cc4c86f6d5.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\5415aff2-1cdf-4a2c-852d-61cc4c86f6d5.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1067,7 +777,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:48:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1082,8 +792,8 @@
       ]
     },
     {
-      "Route": "Files/AI/Sections/Section1.9k13qor598.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section1.pdf",
+      "Route": "Files/AI/Lectures/abbb43f3-c1c7-4ec9-adc8-f77a4e21e8f6.b02d6de7sf.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\abbb43f3-c1c7-4ec9-adc8-f77a4e21e8f6.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1092,7 +802,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1145778"
+          "Value": "5298120"
         },
         {
           "Name": "Content-Type",
@@ -1100,11 +810,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qdTyhIy3pjdy7eDUj3vFYcYFOZPZCaAA65le9a7VdI4=\""
+          "Value": "\"awWsCBVHThEqGmS32dby5eHwsm2LeI8aug6FLVgICVg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:47:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1114,21 +824,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9k13qor598"
+          "Value": "b02d6de7sf"
         },
         {
           "Name": "label",
-          "Value": "Files/AI/Sections/Section1.pdf"
+          "Value": "Files/AI/Lectures/abbb43f3-c1c7-4ec9-adc8-f77a4e21e8f6.pdf"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-qdTyhIy3pjdy7eDUj3vFYcYFOZPZCaAA65le9a7VdI4="
+          "Value": "sha256-awWsCBVHThEqGmS32dby5eHwsm2LeI8aug6FLVgICVg="
         }
       ]
     },
     {
-      "Route": "Files/AI/Sections/Section1.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section1.pdf",
+      "Route": "Files/AI/Lectures/abbb43f3-c1c7-4ec9-adc8-f77a4e21e8f6.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\abbb43f3-c1c7-4ec9-adc8-f77a4e21e8f6.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1137,7 +847,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1145778"
+          "Value": "5298120"
         },
         {
           "Name": "Content-Type",
@@ -1145,11 +855,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qdTyhIy3pjdy7eDUj3vFYcYFOZPZCaAA65le9a7VdI4=\""
+          "Value": "\"awWsCBVHThEqGmS32dby5eHwsm2LeI8aug6FLVgICVg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:47:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1159,13 +869,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qdTyhIy3pjdy7eDUj3vFYcYFOZPZCaAA65le9a7VdI4="
+          "Value": "sha256-awWsCBVHThEqGmS32dby5eHwsm2LeI8aug6FLVgICVg="
         }
       ]
     },
     {
-      "Route": "Files/AI/Sections/Section2.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section2.pdf",
+      "Route": "Files/AI/Lectures/cc14f346-0f2d-497e-87d3-f2eeb719dbbd.9zo6k6g925.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\cc14f346-0f2d-497e-87d3-f2eeb719dbbd.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1174,7 +884,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "997193"
+          "Value": "889375"
         },
         {
           "Name": "Content-Type",
@@ -1182,48 +892,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PnE0DVvrjXm6ScSq9chawxWk3rIfbsef7efhZOgh/M0=\""
+          "Value": "\"C5AjZp6IdVu5h2mkvxARLdDGr18h5Rht1u0jJZ6o3FE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-PnE0DVvrjXm6ScSq9chawxWk3rIfbsef7efhZOgh/M0="
-        }
-      ]
-    },
-    {
-      "Route": "Files/AI/Sections/Section2.ycfkk4ql7m.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section2.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "997193"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PnE0DVvrjXm6ScSq9chawxWk3rIfbsef7efhZOgh/M0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:47:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1233,21 +906,58 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ycfkk4ql7m"
+          "Value": "9zo6k6g925"
         },
         {
           "Name": "label",
-          "Value": "Files/AI/Sections/Section2.pdf"
+          "Value": "Files/AI/Lectures/cc14f346-0f2d-497e-87d3-f2eeb719dbbd.pdf"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-PnE0DVvrjXm6ScSq9chawxWk3rIfbsef7efhZOgh/M0="
+          "Value": "sha256-C5AjZp6IdVu5h2mkvxARLdDGr18h5Rht1u0jJZ6o3FE="
         }
       ]
     },
     {
-      "Route": "Files/AI/Sections/Section3.aei0dnd87x.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section3.pdf",
+      "Route": "Files/AI/Lectures/cc14f346-0f2d-497e-87d3-f2eeb719dbbd.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Lectures\\cc14f346-0f2d-497e-87d3-f2eeb719dbbd.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "889375"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C5AjZp6IdVu5h2mkvxARLdDGr18h5Rht1u0jJZ6o3FE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 23:47:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C5AjZp6IdVu5h2mkvxARLdDGr18h5Rht1u0jJZ6o3FE="
+        }
+      ]
+    },
+    {
+      "Route": "Files/AI/Sections/019712ff-decd-428d-bc6d-06533d66e3c5.aei0dnd87x.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\019712ff-decd-428d-bc6d-06533d66e3c5.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1268,7 +978,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:49:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1282,7 +992,7 @@
         },
         {
           "Name": "label",
-          "Value": "Files/AI/Sections/Section3.pdf"
+          "Value": "Files/AI/Sections/019712ff-decd-428d-bc6d-06533d66e3c5.pdf"
         },
         {
           "Name": "integrity",
@@ -1291,8 +1001,8 @@
       ]
     },
     {
-      "Route": "Files/AI/Sections/Section3.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section3.pdf",
+      "Route": "Files/AI/Sections/019712ff-decd-428d-bc6d-06533d66e3c5.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\019712ff-decd-428d-bc6d-06533d66e3c5.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1313,7 +1023,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:49:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1328,8 +1038,90 @@
       ]
     },
     {
-      "Route": "Files/AI/Sections/Section4.km6uu5yydh.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section4.pdf",
+      "Route": "Files/AI/Sections/a4cc3569-1408-4954-a7d2-ddb8c777dac2.9k13qor598.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\a4cc3569-1408-4954-a7d2-ddb8c777dac2.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1145778"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qdTyhIy3pjdy7eDUj3vFYcYFOZPZCaAA65le9a7VdI4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 23:49:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9k13qor598"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/AI/Sections/a4cc3569-1408-4954-a7d2-ddb8c777dac2.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qdTyhIy3pjdy7eDUj3vFYcYFOZPZCaAA65le9a7VdI4="
+        }
+      ]
+    },
+    {
+      "Route": "Files/AI/Sections/a4cc3569-1408-4954-a7d2-ddb8c777dac2.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\a4cc3569-1408-4954-a7d2-ddb8c777dac2.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1145778"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qdTyhIy3pjdy7eDUj3vFYcYFOZPZCaAA65le9a7VdI4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 23:49:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qdTyhIy3pjdy7eDUj3vFYcYFOZPZCaAA65le9a7VdI4="
+        }
+      ]
+    },
+    {
+      "Route": "Files/AI/Sections/e228e886-d5f2-4371-9dee-5c06b1b189c4.km6uu5yydh.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\e228e886-d5f2-4371-9dee-5c06b1b189c4.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1350,7 +1142,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:49:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1364,7 +1156,7 @@
         },
         {
           "Name": "label",
-          "Value": "Files/AI/Sections/Section4.pdf"
+          "Value": "Files/AI/Sections/e228e886-d5f2-4371-9dee-5c06b1b189c4.pdf"
         },
         {
           "Name": "integrity",
@@ -1373,8 +1165,8 @@
       ]
     },
     {
-      "Route": "Files/AI/Sections/Section4.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\Section4.pdf",
+      "Route": "Files/AI/Sections/e228e886-d5f2-4371-9dee-5c06b1b189c4.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\e228e886-d5f2-4371-9dee-5c06b1b189c4.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1395,7 +1187,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:49:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1410,8 +1202,8 @@
       ]
     },
     {
-      "Route": "Files/Computer Security/Lectures/Lecture1.994zagfkjj.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture1.pdf",
+      "Route": "Files/AI/Sections/fa4999af-2b35-4c2c-8bbb-0e866d60350f.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\fa4999af-2b35-4c2c-8bbb-0e866d60350f.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1420,7 +1212,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3694056"
+          "Value": "997193"
         },
         {
           "Name": "Content-Type",
@@ -1428,56 +1220,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TXrx+ebg/WNcJnRIm36HjWOZ2aI6w0NK2ysmJU2QBd4=\""
+          "Value": "\"PnE0DVvrjXm6ScSq9chawxWk3rIfbsef7efhZOgh/M0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "994zagfkjj"
-        },
-        {
-          "Name": "label",
-          "Value": "Files/Computer Security/Lectures/Lecture1.pdf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-TXrx+ebg/WNcJnRIm36HjWOZ2aI6w0NK2ysmJU2QBd4="
-        }
-      ]
-    },
-    {
-      "Route": "Files/Computer Security/Lectures/Lecture1.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture1.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3694056"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"TXrx+ebg/WNcJnRIm36HjWOZ2aI6w0NK2ysmJU2QBd4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:49:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1487,13 +1234,58 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-TXrx+ebg/WNcJnRIm36HjWOZ2aI6w0NK2ysmJU2QBd4="
+          "Value": "sha256-PnE0DVvrjXm6ScSq9chawxWk3rIfbsef7efhZOgh/M0="
         }
       ]
     },
     {
-      "Route": "Files/Computer Security/Lectures/Lecture2.nga2fch7st.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture2.pdf",
+      "Route": "Files/AI/Sections/fa4999af-2b35-4c2c-8bbb-0e866d60350f.ycfkk4ql7m.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\AI\\Sections\\fa4999af-2b35-4c2c-8bbb-0e866d60350f.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "997193"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PnE0DVvrjXm6ScSq9chawxWk3rIfbsef7efhZOgh/M0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 23:49:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ycfkk4ql7m"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/AI/Sections/fa4999af-2b35-4c2c-8bbb-0e866d60350f.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PnE0DVvrjXm6ScSq9chawxWk3rIfbsef7efhZOgh/M0="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Computer Security/Lectures/6aadfdaa-6858-434b-a85a-97b8529526d9.nga2fch7st.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\6aadfdaa-6858-434b-a85a-97b8529526d9.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1514,7 +1306,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:54:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1528,7 +1320,7 @@
         },
         {
           "Name": "label",
-          "Value": "Files/Computer Security/Lectures/Lecture2.pdf"
+          "Value": "Files/Computer Security/Lectures/6aadfdaa-6858-434b-a85a-97b8529526d9.pdf"
         },
         {
           "Name": "integrity",
@@ -1537,8 +1329,8 @@
       ]
     },
     {
-      "Route": "Files/Computer Security/Lectures/Lecture2.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture2.pdf",
+      "Route": "Files/Computer Security/Lectures/6aadfdaa-6858-434b-a85a-97b8529526d9.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\6aadfdaa-6858-434b-a85a-97b8529526d9.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1559,7 +1351,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:54:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1574,8 +1366,8 @@
       ]
     },
     {
-      "Route": "Files/Computer Security/Lectures/Lecture3.3kmp6eku53.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture3.pdf",
+      "Route": "Files/Computer Security/Lectures/b1696d95-538a-4f70-803f-1fd6b6a66e72.994zagfkjj.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\b1696d95-538a-4f70-803f-1fd6b6a66e72.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1584,7 +1376,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3107621"
+          "Value": "3694056"
         },
         {
           "Name": "Content-Type",
@@ -1592,11 +1384,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jUPl55258jCxYiE7UZGLArup8WzmCOtJqQWwmUvOQks=\""
+          "Value": "\"TXrx+ebg/WNcJnRIm36HjWOZ2aI6w0NK2ysmJU2QBd4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:54:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1606,21 +1398,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3kmp6eku53"
+          "Value": "994zagfkjj"
         },
         {
           "Name": "label",
-          "Value": "Files/Computer Security/Lectures/Lecture3.pdf"
+          "Value": "Files/Computer Security/Lectures/b1696d95-538a-4f70-803f-1fd6b6a66e72.pdf"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jUPl55258jCxYiE7UZGLArup8WzmCOtJqQWwmUvOQks="
+          "Value": "sha256-TXrx+ebg/WNcJnRIm36HjWOZ2aI6w0NK2ysmJU2QBd4="
         }
       ]
     },
     {
-      "Route": "Files/Computer Security/Lectures/Lecture3.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture3.pdf",
+      "Route": "Files/Computer Security/Lectures/b1696d95-538a-4f70-803f-1fd6b6a66e72.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\b1696d95-538a-4f70-803f-1fd6b6a66e72.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1629,7 +1421,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3107621"
+          "Value": "3694056"
         },
         {
           "Name": "Content-Type",
@@ -1637,11 +1429,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jUPl55258jCxYiE7UZGLArup8WzmCOtJqQWwmUvOQks=\""
+          "Value": "\"TXrx+ebg/WNcJnRIm36HjWOZ2aI6w0NK2ysmJU2QBd4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:54:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1651,13 +1443,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jUPl55258jCxYiE7UZGLArup8WzmCOtJqQWwmUvOQks="
+          "Value": "sha256-TXrx+ebg/WNcJnRIm36HjWOZ2aI6w0NK2ysmJU2QBd4="
         }
       ]
     },
     {
-      "Route": "Files/Computer Security/Lectures/Lecture4.h9o7un13ld.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture4.pdf",
+      "Route": "Files/Computer Security/Lectures/ccdb630a-12f9-4cea-9e44-ae0400c61f47.h9o7un13ld.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\ccdb630a-12f9-4cea-9e44-ae0400c61f47.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1678,7 +1470,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:55:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1692,7 +1484,7 @@
         },
         {
           "Name": "label",
-          "Value": "Files/Computer Security/Lectures/Lecture4.pdf"
+          "Value": "Files/Computer Security/Lectures/ccdb630a-12f9-4cea-9e44-ae0400c61f47.pdf"
         },
         {
           "Name": "integrity",
@@ -1701,8 +1493,8 @@
       ]
     },
     {
-      "Route": "Files/Computer Security/Lectures/Lecture4.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\Lecture4.pdf",
+      "Route": "Files/Computer Security/Lectures/ccdb630a-12f9-4cea-9e44-ae0400c61f47.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\ccdb630a-12f9-4cea-9e44-ae0400c61f47.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1723,7 +1515,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:55:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1738,8 +1530,8 @@
       ]
     },
     {
-      "Route": "Files/Computer Security/Sections/Section1.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section1.pdf",
+      "Route": "Files/Computer Security/Lectures/d2cd31cb-8021-40c7-80b7-e21ad2d4a390.3kmp6eku53.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\d2cd31cb-8021-40c7-80b7-e21ad2d4a390.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1748,7 +1540,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1238243"
+          "Value": "3107621"
         },
         {
           "Name": "Content-Type",
@@ -1756,48 +1548,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KYIqtkF17FSJPZBOzzaoUWVk6u1JKk5HAHwYsS+5qeQ=\""
+          "Value": "\"jUPl55258jCxYiE7UZGLArup8WzmCOtJqQWwmUvOQks=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-KYIqtkF17FSJPZBOzzaoUWVk6u1JKk5HAHwYsS+5qeQ="
-        }
-      ]
-    },
-    {
-      "Route": "Files/Computer Security/Sections/Section1.zhtmvsp1en.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section1.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1238243"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KYIqtkF17FSJPZBOzzaoUWVk6u1JKk5HAHwYsS+5qeQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:55:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1807,21 +1562,58 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zhtmvsp1en"
+          "Value": "3kmp6eku53"
         },
         {
           "Name": "label",
-          "Value": "Files/Computer Security/Sections/Section1.pdf"
+          "Value": "Files/Computer Security/Lectures/d2cd31cb-8021-40c7-80b7-e21ad2d4a390.pdf"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KYIqtkF17FSJPZBOzzaoUWVk6u1JKk5HAHwYsS+5qeQ="
+          "Value": "sha256-jUPl55258jCxYiE7UZGLArup8WzmCOtJqQWwmUvOQks="
         }
       ]
     },
     {
-      "Route": "Files/Computer Security/Sections/Section2.dtpwoe3alb.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section2.pdf",
+      "Route": "Files/Computer Security/Lectures/d2cd31cb-8021-40c7-80b7-e21ad2d4a390.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Lectures\\d2cd31cb-8021-40c7-80b7-e21ad2d4a390.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3107621"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jUPl55258jCxYiE7UZGLArup8WzmCOtJqQWwmUvOQks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 23:55:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jUPl55258jCxYiE7UZGLArup8WzmCOtJqQWwmUvOQks="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Computer Security/Sections/2e5cf803-32ff-47a9-a554-57a9e9668212.dtpwoe3alb.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\2e5cf803-32ff-47a9-a554-57a9e9668212.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1842,7 +1634,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:58:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1856,7 +1648,7 @@
         },
         {
           "Name": "label",
-          "Value": "Files/Computer Security/Sections/Section2.pdf"
+          "Value": "Files/Computer Security/Sections/2e5cf803-32ff-47a9-a554-57a9e9668212.pdf"
         },
         {
           "Name": "integrity",
@@ -1865,8 +1657,8 @@
       ]
     },
     {
-      "Route": "Files/Computer Security/Sections/Section2.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section2.pdf",
+      "Route": "Files/Computer Security/Sections/2e5cf803-32ff-47a9-a554-57a9e9668212.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\2e5cf803-32ff-47a9-a554-57a9e9668212.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1887,7 +1679,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:58:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1902,90 +1694,8 @@
       ]
     },
     {
-      "Route": "Files/Computer Security/Sections/Section3.74thr3wx5w.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section3.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "783426"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"p9S9WYf7rkRd+18v3/Hm9ObTFTFQzfwa4z5DdcoIRe4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "74thr3wx5w"
-        },
-        {
-          "Name": "label",
-          "Value": "Files/Computer Security/Sections/Section3.pdf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-p9S9WYf7rkRd+18v3/Hm9ObTFTFQzfwa4z5DdcoIRe4="
-        }
-      ]
-    },
-    {
-      "Route": "Files/Computer Security/Sections/Section3.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section3.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "783426"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"p9S9WYf7rkRd+18v3/Hm9ObTFTFQzfwa4z5DdcoIRe4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-p9S9WYf7rkRd+18v3/Hm9ObTFTFQzfwa4z5DdcoIRe4="
-        }
-      ]
-    },
-    {
-      "Route": "Files/Computer Security/Sections/Section4.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section4.pdf",
+      "Route": "Files/Computer Security/Sections/5431763d-a629-43c8-9f09-6b9c91223c8d.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\5431763d-a629-43c8-9f09-6b9c91223c8d.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2006,7 +1716,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:58:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2021,8 +1731,8 @@
       ]
     },
     {
-      "Route": "Files/Computer Security/Sections/Section4.y2xix0r0nn.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\Section4.pdf",
+      "Route": "Files/Computer Security/Sections/5431763d-a629-43c8-9f09-6b9c91223c8d.y2xix0r0nn.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\5431763d-a629-43c8-9f09-6b9c91223c8d.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2043,7 +1753,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:58:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2057,7 +1767,7 @@
         },
         {
           "Name": "label",
-          "Value": "Files/Computer Security/Sections/Section4.pdf"
+          "Value": "Files/Computer Security/Sections/5431763d-a629-43c8-9f09-6b9c91223c8d.pdf"
         },
         {
           "Name": "integrity",
@@ -2066,8 +1776,172 @@
       ]
     },
     {
-      "Route": "Files/Computer Vision/Lectures/Lecture1.a5t4c9sawc.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture1.pdf",
+      "Route": "Files/Computer Security/Sections/6c727aa3-78cb-4276-a9dd-4e726fd17b45.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\6c727aa3-78cb-4276-a9dd-4e726fd17b45.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1238243"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KYIqtkF17FSJPZBOzzaoUWVk6u1JKk5HAHwYsS+5qeQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 23:58:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KYIqtkF17FSJPZBOzzaoUWVk6u1JKk5HAHwYsS+5qeQ="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Computer Security/Sections/6c727aa3-78cb-4276-a9dd-4e726fd17b45.zhtmvsp1en.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\6c727aa3-78cb-4276-a9dd-4e726fd17b45.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1238243"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KYIqtkF17FSJPZBOzzaoUWVk6u1JKk5HAHwYsS+5qeQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 23:58:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zhtmvsp1en"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Computer Security/Sections/6c727aa3-78cb-4276-a9dd-4e726fd17b45.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KYIqtkF17FSJPZBOzzaoUWVk6u1JKk5HAHwYsS+5qeQ="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Computer Security/Sections/f6181d9c-285c-47e5-a186-f54a6120d6c9.74thr3wx5w.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\f6181d9c-285c-47e5-a186-f54a6120d6c9.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "783426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p9S9WYf7rkRd+18v3/Hm9ObTFTFQzfwa4z5DdcoIRe4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 23:58:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "74thr3wx5w"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Computer Security/Sections/f6181d9c-285c-47e5-a186-f54a6120d6c9.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p9S9WYf7rkRd+18v3/Hm9ObTFTFQzfwa4z5DdcoIRe4="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Computer Security/Sections/f6181d9c-285c-47e5-a186-f54a6120d6c9.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Security\\Sections\\f6181d9c-285c-47e5-a186-f54a6120d6c9.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "783426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p9S9WYf7rkRd+18v3/Hm9ObTFTFQzfwa4z5DdcoIRe4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 23:58:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p9S9WYf7rkRd+18v3/Hm9ObTFTFQzfwa4z5DdcoIRe4="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Computer Vision/Lectures/d037d8d8-8dad-4a08-8594-51aad985a871.a5t4c9sawc.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\d037d8d8-8dad-4a08-8594-51aad985a871.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2088,7 +1962,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Thu, 19 Jun 2025 00:01:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2102,7 +1976,7 @@
         },
         {
           "Name": "label",
-          "Value": "Files/Computer Vision/Lectures/Lecture1.pdf"
+          "Value": "Files/Computer Vision/Lectures/d037d8d8-8dad-4a08-8594-51aad985a871.pdf"
         },
         {
           "Name": "integrity",
@@ -2111,8 +1985,8 @@
       ]
     },
     {
-      "Route": "Files/Computer Vision/Lectures/Lecture1.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture1.pdf",
+      "Route": "Files/Computer Vision/Lectures/d037d8d8-8dad-4a08-8594-51aad985a871.pdf",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\d037d8d8-8dad-4a08-8594-51aad985a871.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2133,7 +2007,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Thu, 19 Jun 2025 00:01:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2144,416 +2018,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-cgMleRoXYd7mCxmhx56Nhakdw1AU6hDrKC2HcNyVdHQ="
-        }
-      ]
-    },
-    {
-      "Route": "Files/Computer Vision/Lectures/Lecture2.8620568wna.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture2.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "592294"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AIh/sxMRgd8Y9Iiu+mUt7SvOcRUv4cNkPHEv0+Oegls=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "8620568wna"
-        },
-        {
-          "Name": "label",
-          "Value": "Files/Computer Vision/Lectures/Lecture2.pdf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-AIh/sxMRgd8Y9Iiu+mUt7SvOcRUv4cNkPHEv0+Oegls="
-        }
-      ]
-    },
-    {
-      "Route": "Files/Computer Vision/Lectures/Lecture2.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture2.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "592294"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AIh/sxMRgd8Y9Iiu+mUt7SvOcRUv4cNkPHEv0+Oegls=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-AIh/sxMRgd8Y9Iiu+mUt7SvOcRUv4cNkPHEv0+Oegls="
-        }
-      ]
-    },
-    {
-      "Route": "Files/Computer Vision/Lectures/Lecture3.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture3.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1001731"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2pPvgj6VPRW540jTaQO3UMQyk1XM/nfXM7v2nnXM7TE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2pPvgj6VPRW540jTaQO3UMQyk1XM/nfXM7v2nnXM7TE="
-        }
-      ]
-    },
-    {
-      "Route": "Files/Computer Vision/Lectures/Lecture3.yh6denooo1.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Lectures\\Lecture3.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1001731"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2pPvgj6VPRW540jTaQO3UMQyk1XM/nfXM7v2nnXM7TE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "yh6denooo1"
-        },
-        {
-          "Name": "label",
-          "Value": "Files/Computer Vision/Lectures/Lecture3.pdf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-2pPvgj6VPRW540jTaQO3UMQyk1XM/nfXM7v2nnXM7TE="
-        }
-      ]
-    },
-    {
-      "Route": "Files/Computer Vision/Sections/Section1.got0w8c3bl.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section1.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1252527"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wKnHAgjmwEG8AHT1jfV1S3aD2fJ4EyP1Sl43w205oTQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "got0w8c3bl"
-        },
-        {
-          "Name": "label",
-          "Value": "Files/Computer Vision/Sections/Section1.pdf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-wKnHAgjmwEG8AHT1jfV1S3aD2fJ4EyP1Sl43w205oTQ="
-        }
-      ]
-    },
-    {
-      "Route": "Files/Computer Vision/Sections/Section1.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section1.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1252527"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wKnHAgjmwEG8AHT1jfV1S3aD2fJ4EyP1Sl43w205oTQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-wKnHAgjmwEG8AHT1jfV1S3aD2fJ4EyP1Sl43w205oTQ="
-        }
-      ]
-    },
-    {
-      "Route": "Files/Computer Vision/Sections/Section2.mem4i3k8gc.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section2.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "472598"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bsjvwwboiLtqaoPR8/CrkbcwoqruGMn0hXgho2Oz1pg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mem4i3k8gc"
-        },
-        {
-          "Name": "label",
-          "Value": "Files/Computer Vision/Sections/Section2.pdf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-bsjvwwboiLtqaoPR8/CrkbcwoqruGMn0hXgho2Oz1pg="
-        }
-      ]
-    },
-    {
-      "Route": "Files/Computer Vision/Sections/Section2.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section2.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "472598"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bsjvwwboiLtqaoPR8/CrkbcwoqruGMn0hXgho2Oz1pg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-bsjvwwboiLtqaoPR8/CrkbcwoqruGMn0hXgho2Oz1pg="
-        }
-      ]
-    },
-    {
-      "Route": "Files/Computer Vision/Sections/Section3.lv0udb326m.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section3.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "400118"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8UgPrB2roIlQwCms30eJ5UeSZQnWgB885916L8gjk5s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "lv0udb326m"
-        },
-        {
-          "Name": "label",
-          "Value": "Files/Computer Vision/Sections/Section3.pdf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8UgPrB2roIlQwCms30eJ5UeSZQnWgB885916L8gjk5s="
-        }
-      ]
-    },
-    {
-      "Route": "Files/Computer Vision/Sections/Section3.pdf",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Files\\Computer Vision\\Sections\\Section3.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "400118"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8UgPrB2roIlQwCms30eJ5UeSZQnWgB885916L8gjk5s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-8UgPrB2roIlQwCms30eJ5UeSZQnWgB885916L8gjk5s="
         }
       ]
     },
@@ -3214,336 +2678,8 @@
       ]
     },
     {
-      "Route": "Images/AI.jpg",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\AI.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "104773"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"r+RfCFvJPMI8GPEphLTspk3QeMXgmN3lUufHe2EHS04=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-r+RfCFvJPMI8GPEphLTspk3QeMXgmN3lUufHe2EHS04="
-        }
-      ]
-    },
-    {
-      "Route": "Images/AI.zjm2qv52qi.jpg",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\AI.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "104773"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"r+RfCFvJPMI8GPEphLTspk3QeMXgmN3lUufHe2EHS04=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zjm2qv52qi"
-        },
-        {
-          "Name": "label",
-          "Value": "Images/AI.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-r+RfCFvJPMI8GPEphLTspk3QeMXgmN3lUufHe2EHS04="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Compiler/2882c804-26a2-45c0-8c47-144a76f2d2cd.aouqpdbz58.png",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Compiler\\2882c804-26a2-45c0-8c47-144a76f2d2cd.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "23802"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NmWU6DCbEKDNVw+HXG5aRb3qGfneJxGnEQZDC3Jg0QU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "aouqpdbz58"
-        },
-        {
-          "Name": "label",
-          "Value": "Images/Compiler/2882c804-26a2-45c0-8c47-144a76f2d2cd.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-NmWU6DCbEKDNVw+HXG5aRb3qGfneJxGnEQZDC3Jg0QU="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Compiler/2882c804-26a2-45c0-8c47-144a76f2d2cd.png",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Compiler\\2882c804-26a2-45c0-8c47-144a76f2d2cd.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "23802"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NmWU6DCbEKDNVw+HXG5aRb3qGfneJxGnEQZDC3Jg0QU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-NmWU6DCbEKDNVw+HXG5aRb3qGfneJxGnEQZDC3Jg0QU="
-        }
-      ]
-    },
-    {
-      "Route": "Images/ComputerVision.jpg",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\ComputerVision.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "119837"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FfSBWwnTn+5oIsTp/WnPALwCe7Kht69Zb4t4hXYpvLc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-FfSBWwnTn+5oIsTp/WnPALwCe7Kht69Zb4t4hXYpvLc="
-        }
-      ]
-    },
-    {
-      "Route": "Images/ComputerVision.x9fnzp0dtg.jpg",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\ComputerVision.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "119837"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FfSBWwnTn+5oIsTp/WnPALwCe7Kht69Zb4t4hXYpvLc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "x9fnzp0dtg"
-        },
-        {
-          "Name": "label",
-          "Value": "Images/ComputerVision.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-FfSBWwnTn+5oIsTp/WnPALwCe7Kht69Zb4t4hXYpvLc="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Network.7cbfavm6dj.jpg",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Network.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "93535"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"J+1eoNkp07dMPyrORqyh5V0IQ+x0HtZu4Gak4yKOxrQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "7cbfavm6dj"
-        },
-        {
-          "Name": "label",
-          "Value": "Images/Network.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-J+1eoNkp07dMPyrORqyh5V0IQ+x0HtZu4Gak4yKOxrQ="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Network.jpg",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Network.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "93535"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"J+1eoNkp07dMPyrORqyh5V0IQ+x0HtZu4Gak4yKOxrQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-J+1eoNkp07dMPyrORqyh5V0IQ+x0HtZu4Gak4yKOxrQ="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Security.1zulcr4hm5.jpg",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Security.jpg",
+      "Route": "Images/11a91ef6-9826-4037-bbce-004ef900d118.1zulcr4hm5.jpg",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\11a91ef6-9826-4037-bbce-004ef900d118.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3564,7 +2700,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:39:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3578,7 +2714,7 @@
         },
         {
           "Name": "label",
-          "Value": "Images/Security.jpg"
+          "Value": "Images/11a91ef6-9826-4037-bbce-004ef900d118.jpg"
         },
         {
           "Name": "integrity",
@@ -3587,8 +2723,8 @@
       ]
     },
     {
-      "Route": "Images/Security.jpg",
-      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\Security.jpg",
+      "Route": "Images/11a91ef6-9826-4037-bbce-004ef900d118.jpg",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\11a91ef6-9826-4037-bbce-004ef900d118.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3609,7 +2745,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 22:54:27 GMT"
+          "Value": "Wed, 18 Jun 2025 23:39:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3620,6 +2756,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-DeiK7JK3xU5HH7Qu5toF/S7epthMUac/26KF9rzgjQI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/48d88708-a12a-4e13-8bc0-c6c87c2d3720.jpg",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\48d88708-a12a-4e13-8bc0-c6c87c2d3720.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "104773"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r+RfCFvJPMI8GPEphLTspk3QeMXgmN3lUufHe2EHS04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 23:38:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r+RfCFvJPMI8GPEphLTspk3QeMXgmN3lUufHe2EHS04="
+        }
+      ]
+    },
+    {
+      "Route": "Images/48d88708-a12a-4e13-8bc0-c6c87c2d3720.zjm2qv52qi.jpg",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\48d88708-a12a-4e13-8bc0-c6c87c2d3720.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "104773"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r+RfCFvJPMI8GPEphLTspk3QeMXgmN3lUufHe2EHS04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 23:38:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zjm2qv52qi"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/48d88708-a12a-4e13-8bc0-c6c87c2d3720.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r+RfCFvJPMI8GPEphLTspk3QeMXgmN3lUufHe2EHS04="
+        }
+      ]
+    },
+    {
+      "Route": "Images/61b54702-4025-4b8c-9506-0d5925595e47.7cbfavm6dj.jpg",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\61b54702-4025-4b8c-9506-0d5925595e47.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J+1eoNkp07dMPyrORqyh5V0IQ+x0HtZu4Gak4yKOxrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 23:39:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7cbfavm6dj"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/61b54702-4025-4b8c-9506-0d5925595e47.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J+1eoNkp07dMPyrORqyh5V0IQ+x0HtZu4Gak4yKOxrQ="
+        }
+      ]
+    },
+    {
+      "Route": "Images/61b54702-4025-4b8c-9506-0d5925595e47.jpg",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\61b54702-4025-4b8c-9506-0d5925595e47.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J+1eoNkp07dMPyrORqyh5V0IQ+x0HtZu4Gak4yKOxrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 23:39:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J+1eoNkp07dMPyrORqyh5V0IQ+x0HtZu4Gak4yKOxrQ="
+        }
+      ]
+    },
+    {
+      "Route": "Images/f8befc46-e3da-4ce4-a12a-d22f2d7f4939.jpg",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\f8befc46-e3da-4ce4-a12a-d22f2d7f4939.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "119837"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FfSBWwnTn+5oIsTp/WnPALwCe7Kht69Zb4t4hXYpvLc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 23:39:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FfSBWwnTn+5oIsTp/WnPALwCe7Kht69Zb4t4hXYpvLc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/f8befc46-e3da-4ce4-a12a-d22f2d7f4939.x9fnzp0dtg.jpg",
+      "AssetFile": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\wwwroot\\Images\\f8befc46-e3da-4ce4-a12a-d22f2d7f4939.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "119837"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FfSBWwnTn+5oIsTp/WnPALwCe7Kht69Zb4t4hXYpvLc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 23:39:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x9fnzp0dtg"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/f8befc46-e3da-4ce4-a12a-d22f2d7f4939.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FfSBWwnTn+5oIsTp/WnPALwCe7Kht69Zb4t4hXYpvLc="
         }
       ]
     }

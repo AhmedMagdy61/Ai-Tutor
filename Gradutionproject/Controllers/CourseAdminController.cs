@@ -78,7 +78,7 @@ namespace Gradutionproject.Controllers
             }
             var courseFolderName = dto.Title.Trim();
 
-            var uploadPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "Images", courseFolderName);
+            var uploadPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "Images");
 
             if (!Directory.Exists(uploadPath))
             {

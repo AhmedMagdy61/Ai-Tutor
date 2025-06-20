@@ -128,7 +128,7 @@ public class AuthController : ControllerBase
         user.EmailConfirmed = true;
         await _userManager.UpdateAsync(user);
         _cache.Remove(cacheKey);
-
+        await _emailService.SendVerificationSuccessEmailAsync(dto.Email, "Email Verified Successfully");
         return Ok("Email verified successfully.");
     }
 
@@ -247,6 +247,14 @@ public class AuthController : ControllerBase
 
         if (dto.NewPassword != dto.ConfirmPassword)
             return BadRequest("Passwords do not match.");
+        // تحقق إذا كانت الباسورد الجديدة نفس القديمة
+        var passwordHasher = new PasswordHasher<ApplicationUser>();
+        var resultCheck = passwordHasher.VerifyHashedPassword(user, user.PasswordHash, dto.NewPassword);
+        if (resultCheck == PasswordVerificationResult.Success)
+        {
+            return BadRequest("You have used this password before. Please choose a new password.");
+        }
+
         var token = await _userManager.GeneratePasswordResetTokenAsync(user);
         var result = await _userManager.ResetPasswordAsync(user, token, dto.NewPassword);
 

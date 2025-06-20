@@ -201,7 +201,8 @@
                     "format": "email"
                   },
                   "PhoneParent": {
-                    "pattern": "^\\d{11}$",
+                    "maxLength": 11,
+                    "pattern": "^01[0125][0-9]{8}$",
                     "type": "string"
                   }
                 }
@@ -1542,19 +1543,43 @@
         ],
         "requestBody": {
           "content": {
-            "application/json": {
+            "multipart/form-data": {
               "schema": {
-                "$ref": "#/components/schemas/UpdateUserRequest"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/UpdateUserRequest"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/UpdateUserRequest"
+                "required": [
+                  "Password"
+                ],
+                "type": "object",
+                "properties": {
+                  "UserName": {
+                    "type": "string"
+                  },
+                  "EmailParent": {
+                    "type": "string",
+                    "format": "email"
+                  },
+                  "PhoneParent": {
+                    "maxLength": 11,
+                    "pattern": "^01[0125][0-9]{8}$",
+                    "type": "string"
+                  },
+                  "Password": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "UserName": {
+                  "style": "form"
+                },
+                "EmailParent": {
+                  "style": "form"
+                },
+                "PhoneParent": {
+                  "style": "form"
+                },
+                "Password": {
+                  "style": "form"
+                }
               }
             }
           }
@@ -1564,43 +1589,46 @@
             "description": "Success"
           }
         }
-      }
-    },
-    "/WeatherForecast": {
-      "get": {
+      },
+      "delete": {
         "tags": [
-          "WeatherForecast"
+          "UserData"
         ],
-        "operationId": "GetWeatherForecast",
-        "responses": {
-          "200": {
-            "description": "Success",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/WeatherForecast"
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "required": [
+                  "Password"
+                ],
+                "type": "object",
+                "properties": {
+                  "Password": {
+                    "type": "string"
                   }
                 }
               },
-              "application/json": {
-                "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/WeatherForecast"
-                  }
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/WeatherForecast"
-                  }
+              "encoding": {
+                "Password": {
+                  "style": "form"
                 }
               }
             }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
           }
         }
       }
@@ -2009,28 +2037,6 @@
         },
         "additionalProperties": false
       },
-      "UpdateUserRequest": {
-        "type": "object",
-        "properties": {
-          "userName": {
-            "type": "string",
-            "nullable": true
-          },
-          "email": {
-            "type": "string",
-            "nullable": true
-          },
-          "emailParent": {
-            "type": "string",
-            "nullable": true
-          },
-          "phoneParent": {
-            "type": "string",
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
       "UserWithQuizzesDTO": {
         "type": "object",
         "properties": {
@@ -2051,29 +2057,6 @@
             "items": {
               "$ref": "#/components/schemas/QuizDto"
             },
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
-      "WeatherForecast": {
-        "type": "object",
-        "properties": {
-          "date": {
-            "type": "string",
-            "format": "date-time"
-          },
-          "temperatureC": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "temperatureF": {
-            "type": "integer",
-            "format": "int32",
-            "readOnly": true
-          },
-          "summary": {
-            "type": "string",
             "nullable": true
           }
         },

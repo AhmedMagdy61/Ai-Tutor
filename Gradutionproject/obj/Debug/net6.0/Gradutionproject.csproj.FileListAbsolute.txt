@@ -343,10 +343,10 @@ D:\Computer Science\Final Year\Project\AI-Tutor-master\Gradutionproject\obj\Debu
 D:\Computer Science\Final Year\Project\AI-Tutor-master\Gradutionproject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Gradutionproject.props
 D:\Computer Science\Final Year\Project\AI-Tutor-master\Gradutionproject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Gradutionproject.props
 D:\Computer Science\Final Year\Project\AI-Tutor-master\Gradutionproject\obj\Debug\net6.0\staticwebassets.pack.json
-D:\Computer Science\Final Year\Project\AI-Tutor-master\Gradutionproject\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
 D:\Computer Science\Final Year\Project\AI-Tutor-master\Gradutionproject\obj\Debug\net6.0\Gradutio.7BE7B961.Up2Date
 D:\Computer Science\Final Year\Project\AI-Tutor-master\Gradutionproject\obj\Debug\net6.0\Gradutionproject.dll
 D:\Computer Science\Final Year\Project\AI-Tutor-master\Gradutionproject\obj\Debug\net6.0\refint\Gradutionproject.dll
 D:\Computer Science\Final Year\Project\AI-Tutor-master\Gradutionproject\obj\Debug\net6.0\Gradutionproject.pdb
 D:\Computer Science\Final Year\Project\AI-Tutor-master\Gradutionproject\obj\Debug\net6.0\Gradutionproject.genruntimeconfig.cache
 D:\Computer Science\Final Year\Project\AI-Tutor-master\Gradutionproject\obj\Debug\net6.0\ref\Gradutionproject.dll
+D:\Computer Science\Final Year\Project\AI-Tutor-master\Gradutionproject\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
