@@ -49,5 +49,5 @@ wwwroot\Files\Network\Sections\f8f5dd22-93a1-44ca-a753-96b7183671c8.pdf
 wwwroot\Images\11a91ef6-9826-4037-bbce-004ef900d118.jpg
 wwwroot\Images\48d88708-a12a-4e13-8bc0-c6c87c2d3720.jpg
 wwwroot\Images\61b54702-4025-4b8c-9506-0d5925595e47.jpg
+wwwroot\Images\color logo.png
 wwwroot\Images\f8befc46-e3da-4ce4-a12a-d22f2d7f4939.jpg
-wwwroot\Images\Logo.jpeg

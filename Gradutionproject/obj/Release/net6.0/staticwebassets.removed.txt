@@ -1,9 +1,1 @@
-D:\Computer Science\Final Year\Project\AI-Tutor-master\Gradutionproject\wwwroot\Files\Computer Vision\Lectures\d037d8d8-8dad-4a08-8594-51aad985a871.pdf
-D:\Computer Science\Final Year\Project\AI-Tutor-master\Gradutionproject\wwwroot\Files\Network\Lectures\Lecture1.pdf
-D:\Computer Science\Final Year\Project\AI-Tutor-master\Gradutionproject\wwwroot\Files\Network\Lectures\Lecture2.pdf
-D:\Computer Science\Final Year\Project\AI-Tutor-master\Gradutionproject\wwwroot\Files\Network\Lectures\Lecture3.pdf
-D:\Computer Science\Final Year\Project\AI-Tutor-master\Gradutionproject\wwwroot\Files\Network\Lectures\Lecture4.pdf
-D:\Computer Science\Final Year\Project\AI-Tutor-master\Gradutionproject\wwwroot\Files\Network\Sections\Section1.pdf
-D:\Computer Science\Final Year\Project\AI-Tutor-master\Gradutionproject\wwwroot\Files\Network\Sections\Section2.pdf
-D:\Computer Science\Final Year\Project\AI-Tutor-master\Gradutionproject\wwwroot\Files\Network\Sections\Section3.pdf
-D:\Computer Science\Final Year\Project\AI-Tutor-master\Gradutionproject\wwwroot\Files\Network\Sections\Section4.pdf
+D:\Computer Science\Final Year\Project\AI-Tutor-master\Gradutionproject\wwwroot\Images\Logo.jpeg

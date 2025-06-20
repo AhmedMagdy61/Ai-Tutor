@@ -36,11 +36,11 @@ public class EmailService
                  <!-- صورة اللوجو + اسم التطبيق جنب بعض -->
                        <table style='width: 100%; margin-bottom: 20px;'>
                          <tr>
-                           <td style='vertical-align: middle; width: 60px;'>
-                             <img src='https://raw.githubusercontent.com/AhmedMagdy61/Ai-Tutor/refs/heads/master/Gradutionproject/wwwroot/Images/color%20logo.png' 
-                                  alt='AI Tutor Logo' 
-                                  style='width: 50px; height: 50px; border-radius: 5px;' />
-                           </td>
+                             <td style='vertical-align: middle; width: 60px;'>
+                            <img src='https://raw.githubusercontent.com/AhmedMagdy61/Ai-Tutor/refs/heads/master/Gradutionproject/wwwroot/Images/color%20logo.png' 
+                                 alt='AI Tutor Logo' 
+                                 style='width: 60px; height: auto; border-radius: 5px;' />
+                          </td>
                            <td style='vertical-align: middle;'>
                              <h2 style='color: #333; margin: 0;'>AI Tutor - Password Reset</h2>
                            </td>
@@ -94,11 +94,11 @@ public class EmailService
                  <!-- صورة اللوجو + اسم التطبيق جنب بعض -->
                        <table style='width: 100%; margin-bottom: 20px;'>
                          <tr>
-                           <td style='vertical-align: middle; width: 60px;'>
-                             <img src='https://raw.githubusercontent.com/AhmedMagdy61/Ai-Tutor/refs/heads/master/Gradutionproject/wwwroot/Images/Logo.jpeg' 
-                                  alt='AI Tutor Logo' 
-                                  style='width: 50px; height: 50px; border-radius: 5px;' />
-                           </td>
+                         <td style='vertical-align: middle; width: 60px;'>
+                            <img src='https://raw.githubusercontent.com/AhmedMagdy61/Ai-Tutor/refs/heads/master/Gradutionproject/wwwroot/Images/color%20logo.png' 
+                                 alt='AI Tutor Logo' 
+                                 style='width: 60px; height: auto; border-radius: 5px;' />
+                          </td>
                            <td style='vertical-align: middle;'>
                              <h2 style='color: #333; margin: 0;'>AI Tutor - Password Changed</h2>
                            </td>
@@ -144,7 +144,7 @@ public class EmailService
                       <!-- صورة اللوجو + اسم التطبيق جنب بعض -->
                       <table style='width: 100%; margin-bottom: 20px;'>
                         <tr>
-                          <td style='vertical-align: middle; width: 60px;'>
+                         <td style='vertical-align: middle; width: 60px;'>
                             <img src='https://raw.githubusercontent.com/AhmedMagdy61/Ai-Tutor/refs/heads/master/Gradutionproject/wwwroot/Images/color%20logo.png' 
                                  alt='AI Tutor Logo' 
                                  style='width: 60px; height: auto; border-radius: 5px;' />
@@ -201,10 +201,10 @@ public class EmailService
                 <!-- صورة اللوجو + اسم التطبيق جنب بعض -->
                       <table style='width: 100%; margin-bottom: 20px;'>
                         <tr>
-                          <td style='vertical-align: middle; width: 60px;'>
-                            <img src='https://raw.githubusercontent.com/AhmedMagdy61/Ai-Tutor/refs/heads/master/Gradutionproject/wwwroot/Images/Logo.jpeg' 
+                         <td style='vertical-align: middle; width: 60px;'>
+                            <img src='https://raw.githubusercontent.com/AhmedMagdy61/Ai-Tutor/refs/heads/master/Gradutionproject/wwwroot/Images/color%20logo.png' 
                                  alt='AI Tutor Logo' 
-                                 style='width: 50px; height: 50px; border-radius: 5px;' />
+                                 style='width: 60px; height: auto; border-radius: 5px;' />
                           </td>
                           <td style='vertical-align: middle;'>
                             <h2 style='color: #333; margin: 0;'>AI Tutor - Account Deleted</h2>
@@ -248,10 +248,10 @@ public class EmailService
                     <!-- صورة اللوجو + اسم التطبيق جنب بعض -->
                       <table style='width: 100%; margin-bottom: 20px;'>
                         <tr>
-                          <td style='vertical-align: middle; width: 60px;'>
-                            <img src='https://raw.githubusercontent.com/AhmedMagdy61/Ai-Tutor/refs/heads/master/Gradutionproject/wwwroot/Images/Logo.jpeg' 
+                         <td style='vertical-align: middle; width: 60px;'>
+                            <img src='https://raw.githubusercontent.com/AhmedMagdy61/Ai-Tutor/refs/heads/master/Gradutionproject/wwwroot/Images/color%20logo.png' 
                                  alt='AI Tutor Logo' 
-                                 style='width: 50px; height: 50px; border-radius: 5px;' />
+                                 style='width: 60px; height: auto; border-radius: 5px;' />
                           </td>
                           <td style='vertical-align: middle;'>
                             <h2 style='color: #333; margin: 0;'>AI Tutor - Profile Updated</h2>
@@ -301,11 +301,11 @@ public class EmailService
                  <!-- صورة اللوجو + اسم التطبيق جنب بعض -->
                        <table style='width: 100%; margin-bottom: 20px;'>
                          <tr>
-                           <td style='vertical-align: middle; width: 60px;'>
-                             <img src='https://raw.githubusercontent.com/AhmedMagdy61/Ai-Tutor/refs/heads/master/Gradutionproject/wwwroot/Images/Logo.jpeg' 
-                                  alt='AI Tutor Logo' 
-                                  style='width: 50px; height: 50px; border-radius: 5px;' />
-                           </td>
+                         <td style='vertical-align: middle; width: 60px;'>
+                            <img src='https://raw.githubusercontent.com/AhmedMagdy61/Ai-Tutor/refs/heads/master/Gradutionproject/wwwroot/Images/color%20logo.png' 
+                                 alt='AI Tutor Logo' 
+                                 style='width: 60px; height: auto; border-radius: 5px;' />
+                          </td>
                            <td style='vertical-align: middle;'>
                              <h2 style='color: #333; margin: 0;'>AI Tutor</h2>
                            </td>
