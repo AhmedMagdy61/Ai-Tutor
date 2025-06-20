@@ -4,7 +4,6 @@ using Gradutionproject.Models;
 using Gradutionproject.ViewModel;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Caching.Memory;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
@@ -25,7 +24,8 @@ public class AuthController : ControllerBase
     public AuthController(UserManager<ApplicationUser> userManager,
         SignInManager<ApplicationUser> signInManager, 
         IConfiguration configuration, 
-        graduationDbContext context, EmailService emailService,
+        graduationDbContext context,
+        EmailService emailService,
         IMemoryCache cache)
 	{
 		_userManager = userManager;
@@ -36,27 +36,6 @@ public class AuthController : ControllerBase
         _cache = cache;
 
     }
-
-    //   [HttpPost("register")]
-    //public async Task<IActionResult> Register([FromForm] RegisterModel model)
-    //{
-    //	var user = new ApplicationUser
-    //	{
-    //		UserName = model.Username,
-    //		Email = model.Email,
-    //		EmailParent = model.EmailParent,
-    //		PhoneParent = model.PhoneParent
-    //	};
-
-    //	var result = await _userManager.CreateAsync(user, model.Password);
-
-    //	if (!result.Succeeded)
-    //	{
-    //		return BadRequest(result.Errors);
-    //	}
-
-    //	return Ok("User registered successfully.");
-    //}
     [HttpPost("register")]
     public async Task<IActionResult> Register([FromForm] RegisterModel model)
     {
@@ -69,11 +48,11 @@ public class AuthController : ControllerBase
             }
             else
             {
-                // المستخدم مسجل ولكن غير مفعّل → ابعت كود جديد
+                // User already registered -> resend code only 
                 var code = new Random().Next(100000, 999999).ToString();
                 var cacheKey = $"verify-code-{model.Email}";
                 _cache.Set(cacheKey, code, TimeSpan.FromMinutes(10));
-
+                // (link for verification (Optional))
                 var verificationLink = $"https://localhost:7032/verify-email?code={code}&email={model.Email}";
                 await _emailService.SendVerificationCodeEmailAsync(model.Email, verificationLink, "Email Verification", code);
 
@@ -87,7 +66,7 @@ public class AuthController : ControllerBase
             Email = model.Email,
             EmailParent = model.EmailParent,
             PhoneParent = model.PhoneParent,
-            EmailConfirmed = false  // لرفض تسجيل الدخول حتى يتم التحقق
+            EmailConfirmed = false  
         };
 
         var result = await _userManager.CreateAsync(user, model.Password);
@@ -97,15 +76,15 @@ public class AuthController : ControllerBase
             return BadRequest(result.Errors);
         }
 
-        // توليد كود تحقق عشوائي
+        // Generate code 
         var newCode = new Random().Next(100000, 999999).ToString();
         var newCacheKey = $"verify-code-{user.Email}";
         _cache.Set(newCacheKey, newCode, TimeSpan.FromMinutes(5));
 
-        // رابط التحقق (اختياري لو عندك صفحة واجهة)
+        // (link for verification (Optional))
         var newverificationLink = $"https://localhost:7032/verify-email?code={newCode}&email={user.Email}";
 
-        // إرسال الإيميل
+        // Send email message
         await _emailService.SendVerificationCodeEmailAsync(user.Email, newverificationLink, "Email Verification", newCode);
 
         return Ok("User registered successfully. Verification code sent to email.");
@@ -127,7 +106,7 @@ public class AuthController : ControllerBase
 
         user.EmailConfirmed = true;
         await _userManager.UpdateAsync(user);
-        _cache.Remove(cacheKey);
+        _cache.Remove(cacheKey); 
         await _emailService.SendVerificationSuccessEmailAsync(dto.Email, "Email Verified Successfully");
         return Ok("Email verified successfully.");
     }
@@ -204,7 +183,7 @@ public class AuthController : ControllerBase
         var code = new Random().Next(100000, 999999).ToString();
         var cacheKey = $"reset-code-{dto.Email}";
 
-        _cache.Set(cacheKey, code, TimeSpan.FromMinutes(5)); // حفظ الكود لمدة 5 دقائق
+        _cache.Set(cacheKey, code, TimeSpan.FromMinutes(5)); // Save the code for 5 Minute
 
         var resetLink = $"https://localhost:7032/reset-password?token={code}&email={dto.Email}";
         await _emailService.SendResetPasswordEmailAsync(user.Email, resetLink, "Reset Your Password", code);
@@ -247,7 +226,7 @@ public class AuthController : ControllerBase
 
         if (dto.NewPassword != dto.ConfirmPassword)
             return BadRequest("Passwords do not match.");
-        // تحقق إذا كانت الباسورد الجديدة نفس القديمة
+        // Check the new password is the same old password
         var passwordHasher = new PasswordHasher<ApplicationUser>();
         var resultCheck = passwordHasher.VerifyHashedPassword(user, user.PasswordHash, dto.NewPassword);
         if (resultCheck == PasswordVerificationResult.Success)

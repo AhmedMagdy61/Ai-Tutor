@@ -3,7 +3,6 @@ using Gradutionproject.Context;
 using Gradutionproject.Dtos;
 using Gradutionproject.Models;
 using Gradutionproject.UdateModelsDTOs;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -52,7 +51,6 @@ namespace Gradutionproject.Controllers
             var lecture = await _context.Lectures
                             .Include(l => l.Course)
                             .FirstOrDefaultAsync(l => l.Id == id);
-            //var lecture = await _context.Lectures.FindAsync(id);
             if (lecture == null)
             {
                 return NotFound();
@@ -197,7 +195,7 @@ namespace Gradutionproject.Controllers
                 courseIdToUse = lecture.CourseId;
             }
 
-            // تحديث الملف لو تم إرساله
+            // Update pdf if send it 
             if (dto.LecturePDF != null)
             {
                 var course = await _context.Courses.FirstOrDefaultAsync(c => c.Id == courseIdToUse);

@@ -1,12 +1,6 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Gradutionproject.Context;
-
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Gradutionproject.Dtos;
 using Gradutionproject.Models;
 
@@ -23,7 +17,7 @@ namespace Gradutionproject.Controllers
             _context = context;
         }
 
-        // ✅ 1. عرض كل المستخدمين ودرجاتهم
+        // ✅ 1. Show all users with quizzez
         [HttpGet("all-with-quizzes")]
         public async Task<ActionResult<IEnumerable<UserWithQuizzesDTO>>> GetAllUsersWithQuizzes()
         {
@@ -49,7 +43,7 @@ namespace Gradutionproject.Controllers
             return Ok(users);
         }
 
-        // ✅ 2. عرض مستخدم معيّن بالدرجات
+        // ✅ 2. Show user quizzez with id 
         [HttpGet("{userId}/quizzes")]
         public async Task<ActionResult<UserWithQuizzesDTO>> GetUserWithQuizzes(string userId)
         {

@@ -37,7 +37,7 @@ public class EmailService
                        <table style='width: 100%; margin-bottom: 20px;'>
                          <tr>
                            <td style='vertical-align: middle; width: 60px;'>
-                             <img src='https://raw.githubusercontent.com/AhmedMagdy61/Ai-Tutor/refs/heads/master/Gradutionproject/wwwroot/Images/Logo.jpeg' 
+                             <img src='https://raw.githubusercontent.com/AhmedMagdy61/Ai-Tutor/refs/heads/master/Gradutionproject/wwwroot/Images/color%20logo.png' 
                                   alt='AI Tutor Logo' 
                                   style='width: 50px; height: 50px; border-radius: 5px;' />
                            </td>
@@ -145,9 +145,9 @@ public class EmailService
                       <table style='width: 100%; margin-bottom: 20px;'>
                         <tr>
                           <td style='vertical-align: middle; width: 60px;'>
-                            <img src='https://raw.githubusercontent.com/AhmedMagdy61/Ai-Tutor/refs/heads/master/Gradutionproject/wwwroot/Images/Logo.jpeg' 
+                            <img src='https://raw.githubusercontent.com/AhmedMagdy61/Ai-Tutor/refs/heads/master/Gradutionproject/wwwroot/Images/color%20logo.png' 
                                  alt='AI Tutor Logo' 
-                                 style='width: 50px; height: 50px; border-radius: 5px;' />
+                                 style='width: 60px; height: auto; border-radius: 5px;' />
                           </td>
                           <td style='vertical-align: middle;'>
                             <h2 style='color: #333; margin: 0;'>AI Tutor - Verify Your Email</h2>
