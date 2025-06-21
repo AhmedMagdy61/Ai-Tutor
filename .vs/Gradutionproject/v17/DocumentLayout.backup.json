@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\computer science\\final year\\project\\ai-tutor-master\\gradutionproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\computer science\\final year\\project\\ai-tutor-master\\gradutionproject\\controllers\\userdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\controllers\\userdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\computer science\\final year\\project\\ai-tutor-master\\gradutionproject\\viewmodel\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\viewmodel\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\computer science\\final year\\project\\ai-tutor-master\\gradutionproject\\viewmodel\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\viewmodel\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,20 +35,8 @@
       "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\controllers\\courseadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\computer science\\final year\\project\\ai-tutor-master\\gradutionproject\\controllers\\userdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\controllers\\userdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\computer science\\final year\\project\\ai-tutor-master\\gradutionproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\computer science\\final year\\project\\ai-tutor-master\\gradutionproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\computer science\\final year\\project\\ai-tutor-master\\gradutionproject\\viewmodel\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|solutionrelative:gradutionproject\\viewmodel\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94E2F27C-B377-4F6E-BC77-B69905FD4C2C}|Gradutionproject\\Gradutionproject.csproj|d:\\computer science\\final year\\project\\ai-tutor-master\\gradutionproject\\viewmodel\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -170,47 +170,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserDataController.cs",
-              "DocumentMoniker": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\Controllers\\UserDataController.cs",
-              "RelativeDocumentMoniker": "Gradutionproject\\Controllers\\UserDataController.cs",
-              "ToolTip": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\Controllers\\UserDataController.cs",
-              "RelativeToolTip": "Gradutionproject\\Controllers\\UserDataController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAcwCwAAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T22:18:29.713Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Gradutionproject\\Controllers\\AuthController.cs",
               "ToolTip": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Gradutionproject\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAO8AAAAAAAAAAAAAAPkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAAAFoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T21:36:43.012Z"
+              "WhenOpened": "2025-06-14T21:36:43.012Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CourseAdminController.cs",
-              "DocumentMoniker": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\Controllers\\CourseAdminController.cs",
-              "RelativeDocumentMoniker": "Gradutionproject\\Controllers\\CourseAdminController.cs",
-              "ToolTip": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\Controllers\\CourseAdminController.cs",
-              "RelativeToolTip": "Gradutionproject\\Controllers\\CourseAdminController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAuwHgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T05:28:10.06Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "CoursesController.cs",
               "DocumentMoniker": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\Controllers\\CoursesController.cs",
               "RelativeDocumentMoniker": "Gradutionproject\\Controllers\\CoursesController.cs",
@@ -222,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "LectureController.cs",
               "DocumentMoniker": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\Controllers\\LectureController.cs",
               "RelativeDocumentMoniker": "Gradutionproject\\Controllers\\LectureController.cs",
@@ -234,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "QuizController.cs",
               "DocumentMoniker": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\Controllers\\QuizController.cs",
               "RelativeDocumentMoniker": "Gradutionproject\\Controllers\\QuizController.cs",
@@ -246,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "EmailService.cs",
               "DocumentMoniker": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\ViewModel\\EmailService.cs",
               "RelativeDocumentMoniker": "Gradutionproject\\ViewModel\\EmailService.cs",
@@ -254,12 +231,49 @@
               "RelativeToolTip": "Gradutionproject\\ViewModel\\EmailService.cs",
               "ViewState": "AgIAADcBAAAAAAAAAAAYwDMBAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T02:34:06.184Z",
+              "WhenOpened": "2025-06-15T02:34:06.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateUserRequest.cs",
+              "DocumentMoniker": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\ViewModel\\UpdateUserRequest.cs",
+              "RelativeDocumentMoniker": "Gradutionproject\\ViewModel\\UpdateUserRequest.cs",
+              "ToolTip": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\ViewModel\\UpdateUserRequest.cs",
+              "RelativeToolTip": "Gradutionproject\\ViewModel\\UpdateUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T21:44:01.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDataController.cs",
+              "DocumentMoniker": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\Controllers\\UserDataController.cs",
+              "RelativeDocumentMoniker": "Gradutionproject\\Controllers\\UserDataController.cs",
+              "ToolTip": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\Controllers\\UserDataController.cs",
+              "RelativeToolTip": "Gradutionproject\\Controllers\\UserDataController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAuwFUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T22:18:29.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "CourseAdminController.cs",
+              "DocumentMoniker": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\Controllers\\CourseAdminController.cs",
+              "RelativeDocumentMoniker": "Gradutionproject\\Controllers\\CourseAdminController.cs",
+              "ToolTip": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\Controllers\\CourseAdminController.cs",
+              "RelativeToolTip": "Gradutionproject\\Controllers\\CourseAdminController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwHgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:28:10.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AdminController.cs",
               "DocumentMoniker": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "Gradutionproject\\Controllers\\AdminController.cs",
@@ -268,18 +282,6 @@
               "ViewState": "AgIAAHIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T02:50:12.564Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UpdateUserRequest.cs",
-              "DocumentMoniker": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\ViewModel\\UpdateUserRequest.cs",
-              "RelativeDocumentMoniker": "Gradutionproject\\ViewModel\\UpdateUserRequest.cs",
-              "ToolTip": "D:\\Computer Science\\Final Year\\Project\\AI-Tutor-master\\Gradutionproject\\ViewModel\\UpdateUserRequest.cs",
-              "RelativeToolTip": "Gradutionproject\\ViewModel\\UpdateUserRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T21:44:01.875Z"
             },
             {
               "$type": "Document",

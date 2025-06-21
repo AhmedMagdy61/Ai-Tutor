@@ -50,29 +50,22 @@ namespace Gradutionproject.Controllers
             var isPasswordValid = await _userManager.CheckPasswordAsync(user, model.Password);
             if (!isPasswordValid)
                 return Unauthorized(new { message = "Invalid password. Please enter correct password." });
-            bool hasChanges = false;
 
             if (!string.IsNullOrWhiteSpace(model.UserName) && model.UserName != user.UserName)
             {
                 user.UserName = model.UserName;
                 user.NormalizedUserName = model.UserName.ToUpper();
-                hasChanges = true;
             }
 
             if (!string.IsNullOrWhiteSpace(model.EmailParent) && model.EmailParent != user.EmailParent)
             {
                 user.EmailParent = model.EmailParent;
-                hasChanges = true;
             }
 
             if (!string.IsNullOrWhiteSpace(model.PhoneParent) && model.PhoneParent != user.PhoneParent)
             {
                 user.PhoneParent = model.PhoneParent;
-                hasChanges = true;
             }
-
-            if (!hasChanges)
-                return BadRequest(new { message = "No changes provided to update." });
 
             var result = await _userManager.UpdateAsync(user);
             if (!result.Succeeded)
@@ -83,7 +76,7 @@ namespace Gradutionproject.Controllers
         }
 
         [HttpDelete("user/{id}")]
-        public async Task<IActionResult> DeleteUserById(string id, [FromForm] PasswordConfirmationRequest model)
+        public async Task<IActionResult> DeleteUserById(string id, [FromBody] PasswordConfirmationRequest model)
         {
             var user = await _userManager.FindByIdAsync(id);
             if (user == null)

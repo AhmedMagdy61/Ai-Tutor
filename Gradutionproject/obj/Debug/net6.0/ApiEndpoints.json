@@ -909,9 +909,9 @@
         "IsRequired": true
       },
       {
-        "Name": "Password",
-        "Type": "System.String",
-        "IsRequired": false
+        "Name": "model",
+        "Type": "Gradutionproject.ViewModel.PasswordConfirmationRequest",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []

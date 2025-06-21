@@ -1606,22 +1606,19 @@
         ],
         "requestBody": {
           "content": {
-            "multipart/form-data": {
+            "application/json": {
               "schema": {
-                "required": [
-                  "Password"
-                ],
-                "type": "object",
-                "properties": {
-                  "Password": {
-                    "type": "string"
-                  }
-                }
-              },
-              "encoding": {
-                "Password": {
-                  "style": "form"
-                }
+                "$ref": "#/components/schemas/PasswordConfirmationRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PasswordConfirmationRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/PasswordConfirmationRequest"
               }
             }
           }
@@ -1909,6 +1906,19 @@
           "adminId": {
             "type": "integer",
             "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "PasswordConfirmationRequest": {
+        "required": [
+          "password"
+        ],
+        "type": "object",
+        "properties": {
+          "password": {
+            "minLength": 1,
+            "type": "string"
           }
         },
         "additionalProperties": false
