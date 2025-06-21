@@ -201,7 +201,6 @@
                     "format": "email"
                   },
                   "PhoneParent": {
-                    "maxLength": 11,
                     "pattern": "^01[0125][0-9]{8}$",
                     "type": "string"
                   }

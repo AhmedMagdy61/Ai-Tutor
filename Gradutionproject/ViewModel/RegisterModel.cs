@@ -15,8 +15,7 @@ namespace Gradutionproject.ViewModel
         [EmailAddress(ErrorMessage = "Enter Correct Email")]
         public string EmailParent { get; set; }
         [Required]
-        [RegularExpression(@"^01[0125][0-9]{8}$", ErrorMessage = "Enter a valid Egyptian phone number starting with 01")]
-        [MaxLength(11, ErrorMessage = "Phone number must be 11 digits")]
+        [RegularExpression(@"^01[0125][0-9]{8}$", ErrorMessage = "Phone number must be exactly 11 digits and start with 01")]
         public string PhoneParent { get; set; }
 	}
 }
